@@ -1,4 +1,5 @@
 import { Handle, Position } from "@xyflow/react";
+import ReactDOM from "react-dom";
 
 export const CustomNode = ({ data }: any) => {
   const openCount = data.개설횟수;
@@ -42,7 +43,6 @@ export const CustomNode = ({ data }: any) => {
           {data.학수번호}
         </span>
       </div>
-
       <div
         style={{
           display: "flex",
@@ -74,7 +74,8 @@ export const CustomNode = ({ data }: any) => {
         ))}
       </div>
 
-      {data.tooltip && data.showTooltip && (
+      {/* 기존 툴팁 적용 방식 */
+      /* {data.tooltip && data.showTooltip && (
         <div
           style={{
             fontFamily: "'Nanum Gothic', sans-serif",
@@ -88,7 +89,7 @@ export const CustomNode = ({ data }: any) => {
             padding: "15px 20px",
             borderRadius: "10px",
             fontSize: "20px",
-            maxWidth: "800px", // 툴팁 너비 확장
+            maxWidth: "1200px !important", // 툴팁 너비 확장
             textAlign: "left",
             boxShadow: "0 6px 10px rgba(0, 0, 0, 0.15)",
             transition: "opacity 0.3s ease, transform 0.3s ease",
@@ -105,8 +106,41 @@ export const CustomNode = ({ data }: any) => {
             {data.syllabus_kr && <li>Syllabus: {data.syllabus_kr}</li>}
           </ul>
         </div>
-      )}
-
+      )} */}
+      {data.tooltip &&
+        data.showTooltip &&
+        ReactDOM.createPortal(
+          <div
+            style={{
+              position: "fixed",
+              zIndex: 1000,
+              bottom: "50px",
+              left: "50%",
+              transform: "translateX(-50%)",
+              background: "rgba(50, 50, 50, 1)",
+              color: "#fff",
+              padding: "15px 20px",
+              borderRadius: "10px",
+              fontSize: "12px",
+              width: "500px",
+              textAlign: "left",
+              boxShadow: "0 6px 10px rgba(0, 0, 0, 0.15)",
+              transition: "opacity 0.3s ease, transform 0.3s ease",
+            }}
+          >
+            <strong>{data.label}</strong>
+            <ul style={{ padding: "0", margin: "0", listStyleType: "none" }}>
+              {data.학수번호 && <li>학수번호: {data.학수번호}</li>}
+              {data.세부전공 && <li>세부전공: {data.세부전공}</li>}
+              {data.전공역량 && <li>전공역량: {data.전공역량}</li>}
+              {data.개설학과 && <li>개설학과: {data.개설학과}</li>}
+              {data.내용 && <li>내용: {data.내용}</li>}
+              {data.메모 && <li>메모: {data.메모}</li>}
+              {data.syllabus_kr && <li>Syllabus: {data.syllabus_kr}</li>}
+            </ul>
+          </div>,
+          document.body
+        )}
       <Handle
         type="target"
         position={Position.Left}
