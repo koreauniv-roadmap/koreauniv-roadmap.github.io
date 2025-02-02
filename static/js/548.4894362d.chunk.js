@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkuunivcollege=self.webpackChunkkuunivcollege||[]).push([[548],{548:e=>{e.exports=JSON.parse('{"university":"\uc0dd\uba85\uacfc\ud559\ub300\ud559","logo":"\uc0dd\uba85\uacfc\ud559\ub300\ud559.jpg","homepage":"http://foodscience.korea.ac.kr/foodscience/index.do","roadmap":"","department":"\uc2dd\ud488\uacf5\ud559\uacfc"}')}}]);
