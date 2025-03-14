@@ -89,7 +89,7 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
             <ul className={styles.resourcesList}>
               <li>
                 <a
-                  href="https://univ.korea.ac.kr/ge/index.do"
+                  href="https://univ.korea.ac.kr/uc/index.do"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
