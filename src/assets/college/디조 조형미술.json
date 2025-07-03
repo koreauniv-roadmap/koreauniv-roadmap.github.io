@@ -1,0 +1,1225 @@
+{
+    "nodes": [
+        {
+            "id": "year-1",
+            "position": {
+                "x": 440,
+                "y": -120
+            },
+            "data": {
+                "label": "1학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "year-2",
+            "position": {
+                "x": 880,
+                "y": -120
+            },
+            "data": {
+                "label": "2학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "year-3",
+            "position": {
+                "x": 1320,
+                "y": -120
+            },
+            "data": {
+                "label": "3학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "year-4",
+            "position": {
+                "x": 1760,
+                "y": -120
+            },
+            "data": {
+                "label": "4학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "semester-1-1",
+            "position": {
+                "x": 440,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-1-2",
+            "position": {
+                "x": 660,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-2-1",
+            "position": {
+                "x": 880,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-2-2",
+            "position": {
+                "x": 1100,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-3-1",
+            "position": {
+                "x": 1320,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-3-2",
+            "position": {
+                "x": 1540,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-4-1",
+            "position": {
+                "x": 1760,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-4-2",
+            "position": {
+                "x": 1980,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "학년": 1,
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "학년": 1,
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "학년": 1,
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE200",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "학년": 1,
+            "data": {
+                "label": "2D기초조형",
+                "학수번호": "ARDE200",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE270",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "학년": 1,
+            "data": {
+                "label": "기초디자인-2D",
+                "학수번호": "ARDE270",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅱ는 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 학교에 대한 소속감을 강화하고 창직 및 창업 등의 진로 방향성을 고민해볼 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 100
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE286",
+            "position": {
+                "x": 660,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "선묘와드로잉",
+                "학수번호": "ARDE286",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "우수:ARDE257 드로잉실기",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE289",
+            "position": {
+                "x": 660,
+                "y": 300
+            },
+            "학년": 1,
+            "data": {
+                "label": "현대미술워크샵",
+                "학수번호": "ARDE289",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "우수:ARDE264 문화연구",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE288",
+            "position": {
+                "x": 660,
+                "y": 400
+            },
+            "학년": 1,
+            "data": {
+                "label": "기초매체연구",
+                "학수번호": "ARDE288",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "우수:ARDE283 입체기초조형",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE343",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "학년": 2,
+            "data": {
+                "label": "현대회화기법",
+                "학수번호": "ARDE343",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE298",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "학년": 2,
+            "data": {
+                "label": "미디어와공간",
+                "학수번호": "ARDE298",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "우수:ARDE256 영상과사진",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE235",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "종이&섬유",
+                "학수번호": "ARDE235",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE293",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "학년": 2,
+            "data": {
+                "label": "전통회화연구II",
+                "학수번호": "ARDE293",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "우수:ARDE369한국화0채색I",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE292",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "학년": 2,
+            "data": {
+                "label": "전통회화연구I",
+                "학수번호": "ARDE292",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "우수:ARDE261 현대회화연구",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE290",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "회화STUDIO I",
+                "학수번호": "ARDE290",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "우수:ARDE267 회화기법연구",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE338",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "한국화II-색채기법",
+                "학수번호": "ARDE338",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE374",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "학년": 3,
+            "data": {
+                "label": "미술사I",
+                "학수번호": "ARDE374",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "우수:ARDE244 개성계획디자인",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE259",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "학년": 3,
+            "data": {
+                "label": "평면재료기법",
+                "학수번호": "ARDE259",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE378",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "현대창작실기 I",
+                "학수번호": "ARDE378",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "우수:ARDE262 매체적표현",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE370",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "신소gud I",
+                "학수번호": "ARDE370",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "우수:ARDE364 입체조형STUDIO",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE291",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "회화STUDIO II",
+                "학수번호": "ARDE291",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "우수:ARDE266 회화와아이디어",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE375",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "학년": 3,
+            "data": {
+                "label": "미술사 II",
+                "학수번호": "ARDE375",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "우수:ARDE258 전시공간스튜디오",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE379",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "학년": 3,
+            "data": {
+                "label": "현대창작실기 II",
+                "학수번호": "ARDE379",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "우수:ARDE305 수묵조형(현대적문맥)",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE368",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "뉴미디어아트",
+                "학수번호": "ARDE368",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE377",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "신소형II",
+                "학수번호": "ARDE377",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "우수:ARDE366 장갑조형",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE435",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "한국문화STUDIOI",
+                "학수번호": "ARDE435",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "★졸업전필수",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE437",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "조형론",
+                "학수번호": "ARDE437",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE464",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "학년": 4,
+            "data": {
+                "label": "개별창작스튜디오",
+                "학수번호": "ARDE464",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "우수:ARDE401 FORMS&SPACE",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE463",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "학년": 4,
+            "data": {
+                "label": "평면스튜디오",
+                "학수번호": "ARDE463",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "우수:ARDE262 테라코타와조형",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE468",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "한국미술세미나",
+                "학수번호": "ARDE468",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "우수:ARDE401 이문화설계연구",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE436",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "한국화스튜디오 II",
+                "학수번호": "ARDE436",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE443",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "학년": 4,
+            "data": {
+                "label": "NEW FORMS",
+                "학수번호": "ARDE443",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE459",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "학년": 4,
+            "data": {
+                "label": "개별작품연구",
+                "학수번호": "ARDE459",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "★졸업전필수",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": []
+}

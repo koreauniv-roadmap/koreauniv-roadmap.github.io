@@ -1,0 +1,1645 @@
+{
+    "nodes": [
+        {
+            "id": "year-1",
+            "position": {
+                "x": 440,
+                "y": -120
+            },
+            "data": {
+                "label": "1학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "year-2",
+            "position": {
+                "x": 880,
+                "y": -120
+            },
+            "data": {
+                "label": "2학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "year-3",
+            "position": {
+                "x": 1320,
+                "y": -120
+            },
+            "data": {
+                "label": "3학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "year-4",
+            "position": {
+                "x": 1760,
+                "y": -120
+            },
+            "data": {
+                "label": "4학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "semester-1-1",
+            "position": {
+                "x": 440,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-1-2",
+            "position": {
+                "x": 660,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-2-1",
+            "position": {
+                "x": 880,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-2-2",
+            "position": {
+                "x": 1100,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-3-1",
+            "position": {
+                "x": 1320,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-3-2",
+            "position": {
+                "x": 1540,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-4-1",
+            "position": {
+                "x": 1760,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-4-2",
+            "position": {
+                "x": 1980,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "학년": 1,
+            "data": {
+                "label": "학문세계의탐구I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "스마트보안학부",
+                "개설횟수": 1.0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "학년": 1,
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "스마트보안학부",
+                "개설횟수": 1.0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "스마트보안학부",
+                "개설횟수": 1.0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]1학년세미나Ⅰ",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "스마트보안학부",
+                "개설횟수": 1.0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "스마트보안학부",
+                "개설횟수": 1.0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "스마트보안학부",
+                "개설횟수": 1.0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT111",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "학년": 1,
+            "data": {
+                "label": "C언어 및 실습",
+                "학수번호": "SMRT111",
+                "세부전공": null,
+                "전공역량": "소프트웨어및보안기본역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT101",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "학년": 1,
+            "data": {
+                "label": "스마트보안개론",
+                "학수번호": "SMRT101",
+                "세부전공": null,
+                "전공역량": "사이버보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]1학년세미나 II",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "스마트보안학부",
+                "개설횟수": 1.0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅱ는 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 학교에 대한 소속감을 강화하고 창직 및 창업 등의 진로 방향성을 고민해볼 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 100
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "스마트보안학부",
+                "개설횟수": 0.0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT102",
+            "position": {
+                "x": 660,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "스마트보안수학",
+                "학수번호": "SMRT102",
+                "세부전공": null,
+                "전공역량": "소프트웨어및보안기본역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRt112",
+            "position": {
+                "x": 660,
+                "y": 300
+            },
+            "학년": 1,
+            "data": {
+                "label": "계산논리",
+                "학수번호": "SMRt112",
+                "세부전공": null,
+                "전공역량": "스마트융합보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT201",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "학년": 2,
+            "data": {
+                "label": "암호구현및실습",
+                "학수번호": "SMRT201",
+                "세부전공": null,
+                "전공역량": "소프트웨어및보안기본역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT203",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "학년": 2,
+            "data": {
+                "label": "정형기법",
+                "학수번호": "SMRT203",
+                "세부전공": null,
+                "전공역량": "소프트웨어및보안기본역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT205",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "인공지능보안수학",
+                "학수번호": "SMRT205",
+                "세부전공": null,
+                "전공역량": "소프트웨어및보안기본역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT221",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "학년": 2,
+            "data": {
+                "label": "암호수학",
+                "학수번호": "SMRT221",
+                "세부전공": null,
+                "전공역량": "소프트웨어및보안기본역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE221",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "학년": 2,
+            "data": {
+                "label": "논리설계",
+                "학수번호": "COSE221",
+                "세부전공": null,
+                "전공역량": "소프트웨어및보안기본역량",
+                "개설학과": "컴퓨터학과",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CYDF211",
+            "position": {
+                "x": 880,
+                "y": 500
+            },
+            "학년": 2,
+            "data": {
+                "label": "과목18",
+                "학수번호": "CYDF211",
+                "세부전공": null,
+                "전공역량": "소프트웨어및보안기본역량",
+                "개설학과": "사이버국방학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT222",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "학년": 2,
+            "data": {
+                "label": "현대암호학",
+                "학수번호": "SMRT222",
+                "세부전공": null,
+                "전공역량": "사이버보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT262",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "학년": 2,
+            "data": {
+                "label": "사이버윤리",
+                "학수번호": "SMRT262",
+                "세부전공": null,
+                "전공역량": "글로벌리더십역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT226",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "해킹개론",
+                "학수번호": "SMRT226",
+                "세부전공": null,
+                "전공역량": "사이버보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT242",
+            "position": {
+                "x": 1100,
+                "y": 300
+            },
+            "학년": 2,
+            "data": {
+                "label": "시큐어코딩",
+                "학수번호": "SMRT242",
+                "세부전공": null,
+                "전공역량": "스마트융합보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE222",
+            "position": {
+                "x": 1100,
+                "y": 400
+            },
+            "학년": 2,
+            "data": {
+                "label": "컴퓨터구조",
+                "학수번호": "COSE222",
+                "세부전공": null,
+                "전공역량": "소프트웨어및보안기본역량",
+                "개설학과": "컴퓨터학과",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE312",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "학년": 2,
+            "data": {
+                "label": "컴파일러",
+                "학수번호": "COSE312",
+                "세부전공": null,
+                "전공역량": "소프트웨어및보안기본역량",
+                "개설학과": "컴퓨터학과",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT334",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "위험관리",
+                "학수번호": "SMRT334",
+                "세부전공": null,
+                "전공역량": "사이버보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT301",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "학년": 3,
+            "data": {
+                "label": "인공지능보안I",
+                "학수번호": "SMRT301",
+                "세부전공": null,
+                "전공역량": "소프트웨어및보안기본역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE342",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "학년": 3,
+            "data": {
+                "label": "컴퓨터네트워크",
+                "학수번호": "COSE342",
+                "세부전공": null,
+                "전공역량": "소프트웨어및보안기본역량",
+                "개설학과": "컴퓨터학과",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT303",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "디지털포렌식개론",
+                "학수번호": "SMRT303",
+                "세부전공": null,
+                "전공역량": "스마트융합보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT321",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "암호프로토콜",
+                "학수번호": "SMRT321",
+                "세부전공": null,
+                "전공역량": "사이버보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT323",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "학년": 3,
+            "data": {
+                "label": "컴퓨터시스템보안",
+                "학수번호": "SMRT323",
+                "세부전공": null,
+                "전공역량": "사이버보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE341",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "학년": 3,
+            "data": {
+                "label": "운영체제",
+                "학수번호": "COSE341",
+                "세부전공": null,
+                "전공역량": "소프트웨어및보안기본역량",
+                "개설학과": "컴퓨터학과",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE451",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "학년": 3,
+            "data": {
+                "label": "소프트웨어보안",
+                "학수번호": "COSE451",
+                "세부전공": null,
+                "전공역량": "스마트융합보안역량",
+                "개설학과": "컴퓨터학과",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT332",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "시큐어소프트웨어공학I",
+                "학수번호": "SMRT332",
+                "세부전공": null,
+                "전공역량": "스마트융합보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT344",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "학년": 3,
+            "data": {
+                "label": "역공학",
+                "학수번호": "SMRT344",
+                "세부전공": null,
+                "전공역량": "사이버보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT302",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "학년": 3,
+            "data": {
+                "label": "데이터보안",
+                "학수번호": "SMRT302",
+                "세부전공": null,
+                "전공역량": "소프트웨어및보안기본역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT322",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "현대암호학응용",
+                "학수번호": "SMRT322",
+                "세부전공": null,
+                "전공역량": "사이버보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT324",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "컴퓨터네트워크보안",
+                "학수번호": "SMRT324",
+                "세부전공": null,
+                "전공역량": "사이버보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT336",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "학년": 3,
+            "data": {
+                "label": "인공지능보안II",
+                "학수번호": "SMRT336",
+                "세부전공": null,
+                "전공역량": "소프트웨어및보안기본역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT338",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "학년": 3,
+            "data": {
+                "label": "개인정보비식별화개론",
+                "학수번호": "SMRT338",
+                "세부전공": null,
+                "전공역량": "스마트융합보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT431",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "시큐어소프트웨어공학II",
+                "학수번호": "SMRT431",
+                "세부전공": null,
+                "전공역량": "스마트융합보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT433",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "빅데이터응용보안",
+                "학수번호": "SMRT433",
+                "세부전공": null,
+                "전공역량": "스마트융합보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT461",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "학년": 4,
+            "data": {
+                "label": "사이버기술과법",
+                "학수번호": "SMRT461",
+                "세부전공": null,
+                "전공역량": "글로벌리더십역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT463",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "학년": 4,
+            "data": {
+                "label": "개인정보보호",
+                "학수번호": "SMRT463",
+                "세부전공": null,
+                "전공역량": "글로벌리더십역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT465",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "학년": 4,
+            "data": {
+                "label": "캡스톤디자인I",
+                "학수번호": "SMRT465",
+                "세부전공": null,
+                "전공역량": "글로벌리더십역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT468",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "학년": 4,
+            "data": {
+                "label": "스타트업창업방법론",
+                "학수번호": "SMRT468",
+                "세부전공": null,
+                "전공역량": "글로벌리더십역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT481",
+            "position": {
+                "x": 1760,
+                "y": 600
+            },
+            "학년": 4,
+            "data": {
+                "label": "현장실습I",
+                "학수번호": "SMRT481",
+                "세부전공": null,
+                "전공역량": "글로벌리더십역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT482",
+            "position": {
+                "x": 1760,
+                "y": 700
+            },
+            "학년": 4,
+            "data": {
+                "label": "현장실습II",
+                "학수번호": "SMRT482",
+                "세부전공": null,
+                "전공역량": "글로벌리더십역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT483",
+            "position": {
+                "x": 1760,
+                "y": 800
+            },
+            "학년": 4,
+            "data": {
+                "label": "현장실습III",
+                "학수번호": "SMRT483",
+                "세부전공": null,
+                "전공역량": "글로벌리더십역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT342",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "하드웨어보안",
+                "학수번호": "SMRT342",
+                "세부전공": null,
+                "전공역량": "사이버보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT424",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "디지털포렌식실무",
+                "학수번호": "SMRT424",
+                "세부전공": null,
+                "전공역량": "사이버보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT435",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "학년": 4,
+            "data": {
+                "label": "스마트보안응용",
+                "학수번호": "SMRT435",
+                "세부전공": null,
+                "전공역량": "스마트융합보안역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SMRT466",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "학년": 4,
+            "data": {
+                "label": "캡스톤디자인II",
+                "학수번호": "SMRT466",
+                "세부전공": null,
+                "전공역량": "글로벌리더십역량",
+                "개설학과": "스마트보안학부",
+                "개설횟수": null,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": []
+}

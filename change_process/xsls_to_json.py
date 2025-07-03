@@ -27,6 +27,5 @@ for file_name in os.listdir(folder_path):
             with open(json_path, "w", encoding="utf-8") as json_file:
                 json.dump(data, json_file, ensure_ascii=False, indent=4)
             
-            print(f"{file_name} -> {department_name}.json 변환 완료")
         except Exception as e:
             print(f"파일 {file_name} 처리 중 오류 발생: {e}")

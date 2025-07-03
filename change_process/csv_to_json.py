@@ -35,12 +35,12 @@ csv_files = [
     # "26_이과대학_물리학과.csv",
     # "27_이과대학_화학과.csv",
     # "28_이과대학_지구환경과학과.csv",
-    "29_공과대학_화공생명공학과.csv",
-    "30_공과대학_신소재공학부.csv",
+    # "29_공과대학_화공생명공학과.csv",
+    # "30_공과대학_신소재공학부.csv",
     # "31_공과대학_건축사회환경공학부.csv",
     # "32_공과대학_기계공학부.csv",
     # "33_공과대학_산업경영공학부.csv",
-    "34_공과대학_전기전자공학부.csv",
+    #  "34_공과대학_전기전자공학부.csv",
     # "35_국제대학_국제학부.csv",
     # "36_국제대학_글로벌한국융합학부.csv",
     # "37_미디어대학_미디어학부.csv",
@@ -49,6 +49,10 @@ csv_files = [
     # "40_보건과학대학_보건환경융합과학부.csv",
     # "41_보건과학대학_보건정책관리학부.csv",
     # "42_심리학부_심리학부.csv"
+    # "43_스마트보안학부_스마트보안학부.csv",
+    "44_디자인조형학부_산업디자인.csv",
+    "44_디자인조형학부_조형미술.csv",
+    # "45_공과대학_융합에너지공학과.csv",
 ]
 
 input_directory = "./course_csv"
@@ -68,7 +72,8 @@ for csv_file in csv_files:
 
         json_file_name = f"{department_name}.json"
         json_file_path = os.path.join(output_directory, json_file_name)
-
+        
+        print(json_file_name)
         with open(json_file_path, "w", encoding="utf-8") as json_file:
             json_file.write(json_data)
 
