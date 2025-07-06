@@ -190,5 +190,5 @@ def process_course_files(directory, save_directory):
 
 if __name__ == "__main__":
     directory = "./course_files" 
-    save_directory = "../src/assets/colleged"
+    save_directory = "../src/assets/college"
     process_course_files(directory, save_directory)
