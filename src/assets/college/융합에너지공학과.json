@@ -1501,38 +1501,10 @@
             }
         },
         {
-            "id": "ENGY334",
-            "position": {
-                "x": 1540,
-                "y": 100
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "융합에너지종합설계II",
-                "학수번호": "ENGY334",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "ENGY328",
             "position": {
                 "x": 1540,
-                "y": 200
+                "y": 100
             },
             "학년": 3.0,
             "data": {
@@ -1560,7 +1532,7 @@
             "id": "ENGY311",
             "position": {
                 "x": 1540,
-                "y": 300
+                "y": 200
             },
             "학년": 3.0,
             "data": {
@@ -1588,7 +1560,7 @@
             "id": "ENGY322",
             "position": {
                 "x": 1540,
-                "y": 400
+                "y": 300
             },
             "학년": 3.0,
             "data": {
@@ -1616,7 +1588,7 @@
             "id": "ENGY330",
             "position": {
                 "x": 1540,
-                "y": 500
+                "y": 400
             },
             "학년": 3.0,
             "data": {
@@ -1644,7 +1616,7 @@
             "id": "NEIK321",
             "position": {
                 "x": 1540,
-                "y": 600
+                "y": 500
             },
             "학년": 3.0,
             "data": {
@@ -1672,7 +1644,7 @@
             "id": "ENGY320",
             "position": {
                 "x": 1540,
-                "y": 700
+                "y": 600
             },
             "학년": 3.0,
             "data": {
@@ -1700,7 +1672,7 @@
             "id": "ENGY332",
             "position": {
                 "x": 1540,
-                "y": 800
+                "y": 700
             },
             "학년": 3.0,
             "data": {
@@ -1728,7 +1700,7 @@
             "id": "ENGY335",
             "position": {
                 "x": 1540,
-                "y": 900
+                "y": 800
             },
             "학년": 3.0,
             "data": {
@@ -1756,7 +1728,7 @@
             "id": "ENGY337",
             "position": {
                 "x": 1540,
-                "y": 1000
+                "y": 900
             },
             "학년": 3.0,
             "data": {
@@ -1784,7 +1756,7 @@
             "id": "ENGY338",
             "position": {
                 "x": 1540,
-                "y": 1100
+                "y": 1000
             },
             "학년": 3.0,
             "data": {
@@ -2173,38 +2145,10 @@
             }
         },
         {
-            "id": "ENGY422",
-            "position": {
-                "x": 1980,
-                "y": 200
-            },
-            "학년": 4.0,
-            "data": {
-                "label": "융합에너지창의연구II",
-                "학수번호": "ENGY422",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "ENGY410",
             "position": {
                 "x": 1980,
-                "y": 300
+                "y": 200
             },
             "학년": 4.0,
             "data": {
@@ -2232,7 +2176,7 @@
             "id": "ENGY407",
             "position": {
                 "x": 1980,
-                "y": 400
+                "y": 300
             },
             "학년": 4.0,
             "data": {
@@ -2260,7 +2204,7 @@
             "id": "ENGY420",
             "position": {
                 "x": 1980,
-                "y": 500
+                "y": 400
             },
             "학년": 4.0,
             "data": {
