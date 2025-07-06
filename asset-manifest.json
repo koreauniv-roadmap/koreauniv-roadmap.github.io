@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc036bda.css",
+    "main.css": "/static/css/main.02dad07a.css",
     "main.js": "/static/js/main.4f987758.js",
     "static/js/3855.786f9564.chunk.js": "/static/js/3855.786f9564.chunk.js",
     "static/js/7900.619478be.chunk.js": "/static/js/7900.619478be.chunk.js",
@@ -111,12 +111,12 @@
     "static/media/logo.png": "/static/media/logo.6635bb8736518a7ea2ff.png",
     "static/media/심리학부.jpg": "/static/media/심리학부.9661f9d18096b9af7589.jpg",
     "index.html": "/index.html",
-    "main.bc036bda.css.map": "/static/css/main.bc036bda.css.map",
+    "main.02dad07a.css.map": "/static/css/main.02dad07a.css.map",
     "main.4f987758.js.map": "/static/js/main.4f987758.js.map",
     "6453.c4ae4371.chunk.js.map": "/static/js/6453.c4ae4371.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc036bda.css",
+    "static/css/main.02dad07a.css",
     "static/js/main.4f987758.js"
   ]
 }
