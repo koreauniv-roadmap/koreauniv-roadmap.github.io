@@ -149,7 +149,7 @@
     "개설학과": "스마트보안학부",
     "내용": null,
     "메모": null,
-    "개설횟수": 0.0,
+    "개설횟수": 1,
     "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인",
     "syllabus_en": "This course aims to develop the ability to handle and analyze data, understand artificial intelligence technologies, and learn how to apply them in one's field of work. It covers fundamental concepts of data science and artificial intelligence, and throug"
   },
@@ -765,7 +765,7 @@
     "개설학과": "스마트보안학부",
     "내용": null,
     "메모": null,
-    "개설횟수": 0,
+    "개설횟수": 1,
     "syllabus_kr": null,
     "syllabus_en": null
   },
