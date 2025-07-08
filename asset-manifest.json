@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.02dad07a.css",
-    "main.js": "/static/js/main.3b6efcbc.js",
+    "main.js": "/static/js/main.db65ff90.js",
     "static/js/3855.786f9564.chunk.js": "/static/js/3855.786f9564.chunk.js",
     "static/js/7900.619478be.chunk.js": "/static/js/7900.619478be.chunk.js",
     "static/js/9215.5370fad9.chunk.js": "/static/js/9215.5370fad9.chunk.js",
@@ -76,14 +76,14 @@
     "static/js/6158.65b1eb14.chunk.js": "/static/js/6158.65b1eb14.chunk.js",
     "static/js/86.698ae090.chunk.js": "/static/js/86.698ae090.chunk.js",
     "static/js/9876.fb7731e8.chunk.js": "/static/js/9876.fb7731e8.chunk.js",
-    "static/js/8232.e72769df.chunk.js": "/static/js/8232.e72769df.chunk.js",
+    "static/js/8232.681e0e88.chunk.js": "/static/js/8232.681e0e88.chunk.js",
     "static/js/6284.fa90da3e.chunk.js": "/static/js/6284.fa90da3e.chunk.js",
     "static/js/3702.34e4584f.chunk.js": "/static/js/3702.34e4584f.chunk.js",
     "static/js/2873.9857eef8.chunk.js": "/static/js/2873.9857eef8.chunk.js",
     "static/js/6078.492d3663.chunk.js": "/static/js/6078.492d3663.chunk.js",
     "static/js/7838.b184bf82.chunk.js": "/static/js/7838.b184bf82.chunk.js",
     "static/js/9622.1b6e1c7e.chunk.js": "/static/js/9622.1b6e1c7e.chunk.js",
-    "static/js/3319.1b5220eb.chunk.js": "/static/js/3319.1b5220eb.chunk.js",
+    "static/js/3319.340f912c.chunk.js": "/static/js/3319.340f912c.chunk.js",
     "static/js/294.b93d2aef.chunk.js": "/static/js/294.b93d2aef.chunk.js",
     "static/js/1939.a96363aa.chunk.js": "/static/js/1939.a96363aa.chunk.js",
     "static/js/9027.1391d92f.chunk.js": "/static/js/9027.1391d92f.chunk.js",
@@ -112,11 +112,11 @@
     "static/media/심리학부.jpg": "/static/media/심리학부.9661f9d18096b9af7589.jpg",
     "index.html": "/index.html",
     "main.02dad07a.css.map": "/static/css/main.02dad07a.css.map",
-    "main.3b6efcbc.js.map": "/static/js/main.3b6efcbc.js.map",
+    "main.db65ff90.js.map": "/static/js/main.db65ff90.js.map",
     "6453.c4ae4371.chunk.js.map": "/static/js/6453.c4ae4371.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02dad07a.css",
-    "static/js/main.3b6efcbc.js"
+    "static/js/main.db65ff90.js"
   ]
 }
