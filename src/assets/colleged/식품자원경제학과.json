@@ -192,12 +192,12 @@
             },
             "학년": 1,
             "data": {
-                "label": "학문세계의탐구I",
+                "label": "학문세계의탐구 I",
                 "학수번호": "GELI005",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1.0,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
@@ -213,38 +213,10 @@
             }
         },
         {
-            "id": "GEWR002",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
-            "학년": 1,
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1.0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "IFLS800",
             "position": {
                 "x": 440,
-                "y": 200
+                "y": 100
             },
             "학년": 1,
             "data": {
@@ -252,8 +224,8 @@
                 "학수번호": "IFLS800",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1.0,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
@@ -269,19 +241,75 @@
             }
         },
         {
-            "id": "GEKS007",
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
             "position": {
                 "x": 440,
                 "y": 300
             },
             "학년": 1,
             "data": {
-                "label": "[진로창업]1학년세미나Ⅰ",
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS007",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1.0,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
@@ -300,7 +328,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 500
             },
             "학년": 1,
             "data": {
@@ -308,8 +336,8 @@
                 "학수번호": "GECT002",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1.0,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
@@ -325,50 +353,22 @@
             }
         },
         {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "학년": 1,
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1.0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SMRT111",
+            "id": "LESE151",
             "position": {
                 "x": 440,
                 "y": 600
             },
             "학년": 1,
             "data": {
-                "label": "C언어 및 실습",
-                "학수번호": "SMRT111",
+                "label": "식품자원경제학개론",
+                "학수번호": "LESE151",
                 "세부전공": null,
-                "전공역량": "소프트웨어및보안기본역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 4,
+                "전공역량": "[창의·융합] 통합적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "식품자원경제의 기본개념과 문제들을 이론적으로 파악하고, 기초적인 경제이론 및 분석도구를 이해시켜 식품산업분야에 응용하는 능력을 배양한다. _x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -381,22 +381,22 @@
             }
         },
         {
-            "id": "SMRT101",
+            "id": "LESE153",
             "position": {
                 "x": 440,
                 "y": 700
             },
             "학년": 1,
             "data": {
-                "label": "스마트보안개론",
-                "학수번호": "SMRT101",
+                "label": "시장과경제",
+                "학수번호": "LESE153",
                 "세부전공": null,
-                "전공역량": "사이버보안역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 4,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "소비자, 생산자의 경제적 행위를 분석하고 그들이 모여서 이루어진 시장의 기능과 역할 및 우리 사회가 가지고 있는 경제 문제들이 어떻게 해결되는지를 논의한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -416,12 +416,12 @@
             },
             "학년": 1,
             "data": {
-                "label": "[진로창업]1학년세미나 II",
+                "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS008",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1.0,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "[진로·창업] 1학년세미나Ⅱ는 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 학교에 대한 소속감을 강화하고 창직 및 창업 등의 진로 방향성을 고민해볼 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여  "
@@ -448,8 +448,8 @@
                 "학수번호": "GECT003",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1,
+                "개설학과": null,
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
@@ -465,22 +465,22 @@
             }
         },
         {
-            "id": "SMRT102",
+            "id": "LESE154",
             "position": {
                 "x": 660,
                 "y": 200
             },
             "학년": 1,
             "data": {
-                "label": "스마트보안수학",
-                "학수번호": "SMRT102",
+                "label": "세계화와국가경제",
+                "학수번호": "LESE154",
                 "세부전공": null,
-                "전공역량": "소프트웨어및보안기본역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 4,
+                "전공역량": "[공감·소통] 다문화포용",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "경제 전체의 소득, 물가, 고용이 어떻게 결정되며, 정부의 정책, 대외 교역 등이 부의 성장에 어떻게 영향을 주는 지에 대해 논의한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -493,78 +493,218 @@
             }
         },
         {
-            "id": "SMRt112",
+            "id": "LESE152",
             "position": {
                 "x": 660,
                 "y": 300
             },
             "학년": 1,
             "data": {
-                "label": "계산논리",
-                "학수번호": "SMRt112",
+                "label": "경제통계학",
+                "학수번호": "LESE152",
                 "세부전공": null,
-                "전공역량": "스마트융합보안역량",
-                "개설학과": "스마트보안학부",
+                "전공역량": "[창의·융합] 통합적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "경제연구에 필요한 통계학적 분석방법 및 원리를 이해시키고 생산 및 수요 추정을 위한 계량경제학적 기초를 이해하도록 한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE155",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "학년": 2,
+            "data": {
+                "label": "응용경제수학",
+                "학수번호": "LESE155",
+                "세부전공": null,
+                "전공역량": "[창의·융합] 통합적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "경제학 전공을 위한 기본도구과목으로서 경제분석에 대한 수학의 응용이 주된 내용이며 미적분, 행렬, 미분방정식, 시차방정식, 선형계획 등을 경제학에 응용한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE205",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "학년": 2,
+            "data": {
+                "label": "공공경제학",
+                "학수번호": "LESE205",
+                "세부전공": null,
+                "전공역량": "[창의·융합] 통합적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "공공부문의 투자재원조달, 공공재 이론 및 비시장배분을 포함한 공공선택이론을 이해시키고 공공투자분석, 공공부문 가격결정, 농지세 등의 과세이론과 재정정책을  강의한다_x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE207",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "응용계량경제학",
+                "학수번호": "LESE207",
+                "세부전공": null,
+                "전공역량": "[창의·융합] 창의적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "회귀모형의 이해, 추정 및 통계적 추리, 그리고 계량경제모형에 대한 응용능력을 배양한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE209",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "학년": 2,
+            "data": {
+                "label": "미시경제분석",
+                "학수번호": "LESE209",
+                "세부전공": null,
+                "전공역량": "[창의·융합] 창의적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "소비자이론, 생산자이론, 자원의 분배 등 미시경제에 대한 전반적인 문제를 다루고 이들 이론의 응용에 대해 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE221",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "학년": 2,
+            "data": {
+                "label": "보건경제학원론",
+                "학수번호": "LESE221",
+                "세부전공": null,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "경제학의 기본이론과 분석방법에 대한 이해를 토대로 이를 보건의료서비스부문에 응용함으로써 보건의료서비스의 생산, 분배 및 소비에 관한 이해와 그와 관련된 정책수단 및 정책효과를 강론함. 구체적으로 보건의료서비스의 수요와 공급결정요인 및 의료보험이 보건의료서 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE210",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "학년": 2,
+            "data": {
+                "label": "식품마케팅",
+                "학수번호": "LESE210",
+                "세부전공": null,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
                 "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "식료품의 유통과 분배에 관련된 일반적인 법칙을 경제학적으로 규명하고 이에 대한 사경제적 내지 국민경제적 측면에서의 역할을 강독한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #92c3a5",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "SMRT201",
+            "id": "LESE212",
             "position": {
-                "x": 880,
-                "y": 0
-            },
-            "학년": 2,
-            "data": {
-                "label": "암호구현및실습",
-                "학수번호": "SMRT201",
-                "세부전공": null,
-                "전공역량": "소프트웨어및보안기본역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SMRT203",
-            "position": {
-                "x": 880,
+                "x": 1100,
                 "y": 100
             },
             "학년": 2,
             "data": {
-                "label": "정형기법",
-                "학수번호": "SMRT203",
+                "label": "응용후생경제학",
+                "학수번호": "LESE212",
                 "세부전공": null,
-                "전공역량": "소프트웨어및보안기본역량",
-                "개설학과": "스마트보안학부",
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
                 "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "파레토 최적의 시장균형, 복지수준의 측정, 사회복지함수, 정부정책의 역할과 기능 등의 기본개념을 살피고, 실제 응용에 대해서 논의한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -577,22 +717,22 @@
             }
         },
         {
-            "id": "SMRT205",
+            "id": "LESE216",
             "position": {
-                "x": 880,
+                "x": 1100,
                 "y": 200
             },
             "학년": 2,
             "data": {
-                "label": "인공지능보안수학",
-                "학수번호": "SMRT205",
+                "label": "거시경제분석",
+                "학수번호": "LESE216",
                 "세부전공": null,
-                "전공역량": "소프트웨어및보안기본역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 3,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "국민소득의 결정과 관련된 여러 가지 거시경제모형에 대해 고찰하고 정부 정책의 효과에 대해 강의한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -605,78 +745,22 @@
             }
         },
         {
-            "id": "SMRT221",
+            "id": "LESE218",
             "position": {
-                "x": 880,
+                "x": 1100,
                 "y": 300
             },
             "학년": 2,
             "data": {
-                "label": "암호수학",
-                "학수번호": "SMRT221",
+                "label": "식품산업조직론",
+                "학수번호": "LESE218",
                 "세부전공": null,
-                "전공역량": "소프트웨어및보안기본역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE221",
-            "position": {
-                "x": 880,
-                "y": 400
-            },
-            "학년": 2,
-            "data": {
-                "label": "논리설계",
-                "학수번호": "COSE221",
-                "세부전공": null,
-                "전공역량": "소프트웨어및보안기본역량",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CYDF211",
-            "position": {
-                "x": 880,
-                "y": 500
-            },
-            "학년": 2,
-            "data": {
-                "label": "과목18",
-                "학수번호": "CYDF211",
-                "세부전공": null,
-                "전공역량": "소프트웨어및보안기본역량",
-                "개설학과": "사이버국방학부",
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
                 "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "식품산업의 시장구조, 협동조합과 기업행동, 시장성과의 결정요인과 이에 대한 다양한 공공정책에 관한 이론적, 실증적, 제도적 분석을 주 내용으로 한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -689,246 +773,78 @@
             }
         },
         {
-            "id": "SMRT222",
-            "position": {
-                "x": 1100,
-                "y": 0
-            },
-            "학년": 2,
-            "data": {
-                "label": "현대암호학",
-                "학수번호": "SMRT222",
-                "세부전공": null,
-                "전공역량": "사이버보안역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SMRT262",
-            "position": {
-                "x": 1100,
-                "y": 100
-            },
-            "학년": 2,
-            "data": {
-                "label": "사이버윤리",
-                "학수번호": "SMRT262",
-                "세부전공": null,
-                "전공역량": "글로벌리더십역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SMRT226",
-            "position": {
-                "x": 1100,
-                "y": 200
-            },
-            "학년": 2,
-            "data": {
-                "label": "해킹개론",
-                "학수번호": "SMRT226",
-                "세부전공": null,
-                "전공역량": "사이버보안역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SMRT242",
-            "position": {
-                "x": 1100,
-                "y": 300
-            },
-            "학년": 2,
-            "data": {
-                "label": "시큐어코딩",
-                "학수번호": "SMRT242",
-                "세부전공": null,
-                "전공역량": "스마트융합보안역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE222",
-            "position": {
-                "x": 1100,
-                "y": 400
-            },
-            "학년": 2,
-            "data": {
-                "label": "컴퓨터구조",
-                "학수번호": "COSE222",
-                "세부전공": null,
-                "전공역량": "소프트웨어및보안기본역량",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE312",
-            "position": {
-                "x": 1100,
-                "y": 500
-            },
-            "학년": 2,
-            "data": {
-                "label": "컴파일러",
-                "학수번호": "COSE312",
-                "세부전공": null,
-                "전공역량": "소프트웨어및보안기본역량",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SMRT301",
+            "id": "LESE307",
             "position": {
                 "x": 1320,
                 "y": 0
             },
             "학년": 3,
             "data": {
-                "label": "인공지능보안I",
-                "학수번호": "SMRT301",
+                "label": "애그리비지니스세미나",
+                "학수번호": "LESE307",
                 "세부전공": null,
-                "전공역량": "소프트웨어및보안기본역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 2,
+                "전공역량": "[창의·융합] 통합적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "농업의 전후방 산업을 포함하는 애그리비지니스의 발전 과정, 최근 동향,  그리고 향후 전망 등에 관하여 조사, 분석하고 토의한다. 본 강의는 학생들이 직접 참여하는 세미나 형식으로 운영되어, 학생들이 애그리비지니스에 대하여 보다 직접적이고 긴밀한 지식과 이해를 가"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE342",
+            "id": "LESE309",
             "position": {
                 "x": 1320,
                 "y": 100
             },
             "학년": 3,
             "data": {
-                "label": "컴퓨터네트워크",
-                "학수번호": "COSE342",
+                "label": "국제식품정책론",
+                "학수번호": "LESE309",
                 "세부전공": null,
-                "전공역량": "소프트웨어및보안기본역량",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
+                "전공역량": "[창의·융합] 사회공헌",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "세계 농업 및 식품정책의 변화가 농업과 일반경제에 미치는 효과와 거시경제와 국민경제의 변화가 농업과 식품산업에 미치는 영향을 분석한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "SMRT303",
+            "id": "LESE313",
             "position": {
                 "x": 1320,
                 "y": 200
             },
             "학년": 3,
             "data": {
-                "label": "디지털포렌식개론",
-                "학수번호": "SMRT303",
+                "label": "불확실성과경제행위",
+                "학수번호": "LESE313",
                 "세부전공": null,
-                "전공역량": "스마트융합보안역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1,
+                "전공역량": "[창의·융합] 통합적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "개인의 의사결정과 그것이 시장에 미치는 영향을 분석하는 미시경제분석에 주안점을 두고, 불확실성하의 경제분석에서의 기본개념과 실제 응용에 대해서 논의한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -941,22 +857,22 @@
             }
         },
         {
-            "id": "SMRT321",
+            "id": "LESE317",
             "position": {
                 "x": 1320,
                 "y": 300
             },
             "학년": 3,
             "data": {
-                "label": "암호프로토콜",
-                "학수번호": "SMRT321",
+                "label": "식품소비자경제학",
+                "학수번호": "LESE317",
                 "세부전공": null,
-                "전공역량": "사이버보안역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 2,
+                "전공역량": "[창의·융합] 통합적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "소비자의 식품소비행태 결정요인과, 기업의 마케팅과 정책에 의한 구매행위의 변화를 분석할 수 있는 방법론 강의_x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -969,22 +885,22 @@
             }
         },
         {
-            "id": "SMRT323",
+            "id": "LESE319",
             "position": {
                 "x": 1320,
                 "y": 400
             },
             "학년": 3,
             "data": {
-                "label": "컴퓨터시스템보안",
-                "학수번호": "SMRT323",
+                "label": "응용재무경제학",
+                "학수번호": "LESE319",
                 "세부전공": null,
-                "전공역량": "사이버보안역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "기업재무, 투자, 금융기관이 직면하는 다양한 문제를 해결하기 위한 경제 이론과 실증분석방법에 대해 강의한다. _x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -997,22 +913,22 @@
             }
         },
         {
-            "id": "COSE341",
+            "id": "LESE321",
             "position": {
                 "x": 1320,
                 "y": 500
             },
             "학년": 3,
             "data": {
-                "label": "운영체제",
-                "학수번호": "COSE341",
+                "label": "에너지경제론",
+                "학수번호": "LESE321",
                 "세부전공": null,
-                "전공역량": "소프트웨어및보안기본역량",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "[창의·융합] 문제해결",
+                "개설학과": "식품자원경제학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "인류경제의 지속가능성을 위한 효율적인 에너지 체계의 달성이 요구되는 바, 다양한 에너지원의 수요 및 공급, 개발에 관한 이해능력과 응용방법을 소개한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1025,78 +941,50 @@
             }
         },
         {
-            "id": "COSE451",
-            "position": {
-                "x": 1320,
-                "y": 600
-            },
-            "학년": 3,
-            "data": {
-                "label": "소프트웨어보안",
-                "학수번호": "COSE451",
-                "세부전공": null,
-                "전공역량": "스마트융합보안역량",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SMRT332",
+            "id": "LESE302",
             "position": {
                 "x": 1540,
                 "y": 0
             },
             "학년": 3,
             "data": {
-                "label": "시큐어소프트웨어공학I",
-                "학수번호": "SMRT332",
+                "label": "환경경제학",
+                "학수번호": "LESE302",
                 "세부전공": null,
-                "전공역량": "스마트융합보안역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 2,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "환경문제에 관련된 경제학의 기초개념과 주요 환경경제이론을 이해시키고, 외부성 문제에 대한 접근방안, 환경오염의 유형별 경제분석 및 정책대응 등을 강의한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "SMRT344",
+            "id": "LESE304",
             "position": {
                 "x": 1540,
                 "y": 100
             },
             "학년": 3,
             "data": {
-                "label": "역공학",
-                "학수번호": "SMRT344",
+                "label": "자원환경정책",
+                "학수번호": "LESE304",
                 "세부전공": null,
-                "전공역량": "사이버보안역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 3,
+                "전공역량": "[창의·융합] 통합적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "자연자원과 환경에 대한 경제이론 및 정책문제를 강의하고, 이용·개발·보전에 영향을 미치는 경제적 제도적 요인을 분석하며, 세대간 자원관리문제와 자연환경문제에 대한 자원정책 이론과 기법을 응용하는 능력을 배양한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1109,22 +997,22 @@
             }
         },
         {
-            "id": "SMRT302",
+            "id": "LESE306",
             "position": {
                 "x": 1540,
                 "y": 200
             },
             "학년": 3,
             "data": {
-                "label": "데이터보안",
-                "학수번호": "SMRT302",
+                "label": "식품산업재무관리",
+                "학수번호": "LESE306",
                 "세부전공": null,
-                "전공역량": "소프트웨어및보안기본역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 2,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "농업과 식품산업에 있어서 자금의 조달, 투자의사결정, 위험 하에서 자기자본의 보호, 재무분석, 농산업금융기관의 기능과 농산업금융정책에 대하여 논의한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1137,22 +1025,22 @@
             }
         },
         {
-            "id": "SMRT322",
+            "id": "LESE308",
             "position": {
                 "x": 1540,
                 "y": 300
             },
             "학년": 3,
             "data": {
-                "label": "현대암호학응용",
-                "학수번호": "SMRT322",
+                "label": "상품선물및옵션거래",
+                "학수번호": "LESE308",
                 "세부전공": null,
-                "전공역량": "사이버보안역량",
-                "개설학과": "스마트보안학부",
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
                 "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "상품 선물 및 옵션 시장과 거래에 관련된 기본적인 이해를 제공하기 위하여, 선물 거래의 이론, 거래 방법, 제 규정 등을 다룬다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1165,22 +1053,22 @@
             }
         },
         {
-            "id": "SMRT324",
+            "id": "LESE312",
             "position": {
                 "x": 1540,
                 "y": 400
             },
             "학년": 3,
             "data": {
-                "label": "컴퓨터네트워크보안",
-                "학수번호": "SMRT324",
+                "label": "자원가치평가론",
+                "학수번호": "LESE312",
                 "세부전공": null,
-                "전공역량": "사이버보안역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1,
+                "전공역량": "[창의·융합] 문제해결",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "자연자원과 환경자원의 가치평가에 관한 이론과 방법론을 이해시키고, 후생변화측정과 간접편익 추정의 기초이론, 확대비용편익 평가방법과 비시장가치 평가방법 특히 여행비용평가법, 특성가격평가법, 임의가치평가법 등에 대하여 강의한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1193,22 +1081,22 @@
             }
         },
         {
-            "id": "SMRT334",
+            "id": "LESE314",
             "position": {
                 "x": 1540,
                 "y": 500
             },
             "학년": 3,
             "data": {
-                "label": "위험관리",
-                "학수번호": "SMRT334",
+                "label": "국제농산물무역론",
+                "학수번호": "LESE314",
                 "세부전공": null,
-                "전공역량": "사이버보안역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "농산물무역에 관련된 기초이론, 무역의 패턴, 자유무역과 보호무역의 배경, 농산물무역정책의 분석 등에 관하여 강의한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1221,22 +1109,22 @@
             }
         },
         {
-            "id": "SMRT336",
+            "id": "LESE322",
             "position": {
                 "x": 1540,
                 "y": 600
             },
             "학년": 3,
             "data": {
-                "label": "인공지능보안II",
-                "학수번호": "SMRT336",
+                "label": "노년경제학",
+                "학수번호": "LESE322",
                 "세부전공": null,
-                "전공역량": "소프트웨어및보안기본역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 2,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "요즘 사회문제화 되고 있는 고령화 현상이 경제 각 분야에 미치는 영향을 분석하고 특히 고령화 현상으로 인한 의료비 급증 문제 및 long-term care service의 효율적인 공급과 관련된 제 현상을 분석하고 이를 활용하여 이 문제에 대한 정부의 각종 정책에 대한 효과분석을 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1249,22 +1137,22 @@
             }
         },
         {
-            "id": "SMRT338",
+            "id": "LESE324",
             "position": {
                 "x": 1540,
                 "y": 700
             },
             "학년": 3,
             "data": {
-                "label": "개인정보비식별화개론",
-                "학수번호": "SMRT338",
+                "label": "바이오산업시장론",
+                "학수번호": "LESE324",
                 "세부전공": null,
-                "전공역량": "스마트융합보안역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 0,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "인류경제의 지속가능성을 위한 효율적인 에너지 체계의 달성이 요구되는 바, 다양한 에너지원의 수요 및 공급, 개발에 관한 이해능력과 응용방법을 소개한다. _x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1277,246 +1165,22 @@
             }
         },
         {
-            "id": "SMRT431",
+            "id": "LESE326",
             "position": {
-                "x": 1760,
-                "y": 0
-            },
-            "학년": 4,
-            "data": {
-                "label": "시큐어소프트웨어공학II",
-                "학수번호": "SMRT431",
-                "세부전공": null,
-                "전공역량": "스마트융합보안역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SMRT433",
-            "position": {
-                "x": 1760,
-                "y": 100
-            },
-            "학년": 4,
-            "data": {
-                "label": "빅데이터응용보안",
-                "학수번호": "SMRT433",
-                "세부전공": null,
-                "전공역량": "스마트융합보안역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SMRT461",
-            "position": {
-                "x": 1760,
-                "y": 200
-            },
-            "학년": 4,
-            "data": {
-                "label": "사이버기술과법",
-                "학수번호": "SMRT461",
-                "세부전공": null,
-                "전공역량": "글로벌리더십역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SMRT463",
-            "position": {
-                "x": 1760,
-                "y": 300
-            },
-            "학년": 4,
-            "data": {
-                "label": "개인정보보호",
-                "학수번호": "SMRT463",
-                "세부전공": null,
-                "전공역량": "글로벌리더십역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SMRT465",
-            "position": {
-                "x": 1760,
-                "y": 400
-            },
-            "학년": 4,
-            "data": {
-                "label": "캡스톤디자인I",
-                "학수번호": "SMRT465",
-                "세부전공": null,
-                "전공역량": "글로벌리더십역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SMRT468",
-            "position": {
-                "x": 1760,
-                "y": 500
-            },
-            "학년": 4,
-            "data": {
-                "label": "스타트업창업방법론",
-                "학수번호": "SMRT468",
-                "세부전공": null,
-                "전공역량": "글로벌리더십역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SMRT481",
-            "position": {
-                "x": 1760,
-                "y": 600
-            },
-            "학년": 4,
-            "data": {
-                "label": "현장실습I",
-                "학수번호": "SMRT481",
-                "세부전공": null,
-                "전공역량": "글로벌리더십역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SMRT482",
-            "position": {
-                "x": 1760,
-                "y": 700
-            },
-            "학년": 4,
-            "data": {
-                "label": "현장실습II",
-                "학수번호": "SMRT482",
-                "세부전공": null,
-                "전공역량": "글로벌리더십역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SMRT483",
-            "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 800
             },
-            "학년": 4,
+            "학년": 3,
             "data": {
-                "label": "현장실습III",
-                "학수번호": "SMRT483",
+                "label": "식품안전경제학",
+                "학수번호": "LESE326",
                 "세부전공": null,
-                "전공역량": "글로벌리더십역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 2,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "_x000D_\n최근 식품안전 문제는 식품에 대한 소비자의 인식과 소비패턴, 식품생산 및 국민보건에 이르기까지 많은 영향을 미치고 있다. 본 과목에서는 식품안전 문제와 관련하여 식품소비자의 의사결정에 어떠한 요인들이 합리적 의사결정의 장애요인으로 작용하는지 살펴보고 이와 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1529,22 +1193,134 @@
             }
         },
         {
-            "id": "SMRT342",
+            "id": "LESE328",
+            "position": {
+                "x": 1540,
+                "y": 900
+            },
+            "학년": 3,
+            "data": {
+                "label": "국제농업개발협력론",
+                "학수번호": "LESE328",
+                "세부전공": null,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "_x000D_\n국제식량수급 현황과 변화요인에 관한 분석을 바탕으로 국제농업개발과 협력에 관한 이론과 사례를 학습한다. 개도국을 위한 지속가능한 개발전략의 수립과 관련해 UN, OECD 등 국제기구의 연구와 활동을 학습하고, 한국이 이에 협력하고 추구할 방향을 논의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE407",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "부동산경제론",
+                "학수번호": "LESE407",
+                "세부전공": null,
+                "전공역량": "[창의·융합] 문제해결",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "토지 및 주택 등 부동산에 대한 경제적 이론과 접근방법 그리고 지가문제, 주택문제, 국토계획과 부동산거래 등 부동산 관련 정책에 대해 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE411",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "응용경제세미나",
+                "학수번호": "LESE411",
+                "세부전공": null,
+                "전공역량": "[창의·융합] 문제해결",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식품유통과 소비분석, 정보경제와 후생경제, 응용재무관리와 금융경제, 자원·환경경제, 보건의료경제, 식품·자원·보건정책, 국제무역과 국제금융시장, 애그리비지니스, 선물거래와 가격분석 등 응용경제학 분야에 관련된 주요 이슈들에 대해 토의와 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE413",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "학년": 4,
+            "data": {
+                "label": "법경제학",
+                "학수번호": "LESE413",
+                "세부전공": null,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "법경제학은 경제이론이 법, 제도 및 거래비용을 고려하지 않음으로 인해 발생하는 문제를 해결하기 위해 Coase의 거래비용 이론에 기초하여 법, 제도의 경제학적 분석을 공부한다. 구체적으로 사유재산권제도, 계약법, 불법행위법을 공부한다._x000D_\n_x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE406",
             "position": {
                 "x": 1980,
                 "y": 0
             },
             "학년": 4,
             "data": {
-                "label": "하드웨어보안",
-                "학수번호": "SMRT342",
+                "label": "국제통상협상론",
+                "학수번호": "LESE406",
                 "세부전공": null,
-                "전공역량": "사이버보안역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "국제통상협상과 관련된 경제이론과 WTO, FTA 협상과 관련된 다양한 사례에 대한 강의와 토의한다. _x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1557,22 +1333,22 @@
             }
         },
         {
-            "id": "SMRT424",
+            "id": "LESE408",
             "position": {
                 "x": 1980,
                 "y": 100
             },
             "학년": 4,
             "data": {
-                "label": "디지털포렌식실무",
-                "학수번호": "SMRT424",
+                "label": "계량분석론",
+                "학수번호": "LESE408",
                 "세부전공": null,
-                "전공역량": "사이버보안역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 1,
+                "전공역량": "[창의·융합] 창의적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "정책분석과 경제예측에 활용되는 최적화방법론과 시뮬레이션, 시계열분석에 대한 실증연구방법에 대해 강의와 토론한다. _x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1585,22 +1361,22 @@
             }
         },
         {
-            "id": "SMRT435",
+            "id": "LESE410",
             "position": {
                 "x": 1980,
                 "y": 200
             },
             "학년": 4,
             "data": {
-                "label": "스마트보안응용",
-                "학수번호": "SMRT435",
+                "label": "기술경제학",
+                "학수번호": "LESE410",
                 "세부전공": null,
-                "전공역량": "스마트융합보안역량",
-                "개설학과": "스마트보안학부",
-                "개설횟수": 0,
+                "전공역량": "[창의·융합] 통합적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "경제발전에 있어서 핵심인 연구개발과 기술혁신과 관련된 경제이론과 모형, 실증연구방법론, 다양한 사례와 정책적 시사점들을 강의한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1613,22 +1389,22 @@
             }
         },
         {
-            "id": "SMRT466",
+            "id": "LESE412",
             "position": {
                 "x": 1980,
                 "y": 300
             },
             "학년": 4,
             "data": {
-                "label": "캡스톤디자인II",
-                "학수번호": "SMRT466",
+                "label": "농식품가격분석론",
+                "학수번호": "LESE412",
                 "세부전공": null,
-                "전공역량": "글로벌리더십역량",
-                "개설학과": "스마트보안학부",
+                "전공역량": "[창의·융합] 창의적사고",
+                "개설학과": "식품자원경제학과",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "농식품가격의 형성원리·특징 및 그 통제를 강의한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
