@@ -409,6 +409,34 @@
             }
         },
         {
+            "id": "ARDE289",
+            "position": {
+                "x": 440,
+                "y": 800
+            },
+            "학년": 1,
+            "data": {
+                "label": "현대미술워크샵",
+                "학수번호": "ARDE289",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": "유사:ARDE264 판화연구",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS008",
             "position": {
                 "x": 660,
@@ -493,38 +521,10 @@
             }
         },
         {
-            "id": "ARDE289",
-            "position": {
-                "x": 660,
-                "y": 300
-            },
-            "학년": 1,
-            "data": {
-                "label": "현대미술워크샵",
-                "학수번호": "ARDE289",
-                "세부전공": "조형미술",
-                "전공역량": null,
-                "개설학과": "디자인조형학부",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": "유사:ARDE264 판화연구",
-                "syllabus_kr": ""
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "ARDE288",
             "position": {
                 "x": 660,
-                "y": 400
+                "y": 300
             },
             "학년": 1,
             "data": {
@@ -633,6 +633,62 @@
             }
         },
         {
+            "id": "ARDE292",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "학년": 2,
+            "data": {
+                "label": "전통회화연구I",
+                "학수번호": "ARDE292",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": "유사:ARDE261 현대벽화연구",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ARDE290",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "학년": 2,
+            "data": {
+                "label": "회화STUDIO I",
+                "학수번호": "ARDE290",
+                "세부전공": "조형미술",
+                "전공역량": null,
+                "개설학과": "디자인조형학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": "유사:ARDE367 회화기법연구",
+                "syllabus_kr": ""
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "ARDE293",
             "position": {
                 "x": 1100,
@@ -661,21 +717,21 @@
             }
         },
         {
-            "id": "ARDE292",
+            "id": "ARDE259",
             "position": {
                 "x": 1100,
                 "y": 100
             },
             "학년": 2,
             "data": {
-                "label": "전통회화연구I",
-                "학수번호": "ARDE292",
+                "label": "평면재료기법",
+                "학수번호": "ARDE259",
                 "세부전공": "조형미술",
                 "전공역량": null,
                 "개설학과": "디자인조형학부",
-                "개설횟수": 4,
+                "개설횟수": 3,
                 "내용": null,
-                "메모": "유사:ARDE261 현대벽화연구",
+                "메모": null,
                 "syllabus_kr": ""
             },
             "type": "customNode",
@@ -689,21 +745,21 @@
             }
         },
         {
-            "id": "ARDE290",
+            "id": "ARDE291",
             "position": {
                 "x": 1100,
                 "y": 200
             },
             "학년": 2,
             "data": {
-                "label": "회화STUDIO I",
-                "학수번호": "ARDE290",
+                "label": "회화STUDIO II",
+                "학수번호": "ARDE291",
                 "세부전공": "조형미술",
                 "전공역량": null,
                 "개설학과": "디자인조형학부",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": "유사:ARDE367 회화기법연구",
+                "메모": "유사:ARDE266 회화와아이디어",
                 "syllabus_kr": ""
             },
             "type": "customNode",
@@ -773,38 +829,10 @@
             }
         },
         {
-            "id": "ARDE259",
-            "position": {
-                "x": 1320,
-                "y": 200
-            },
-            "학년": 3,
-            "data": {
-                "label": "평면재료기법",
-                "학수번호": "ARDE259",
-                "세부전공": "조형미술",
-                "전공역량": null,
-                "개설학과": "디자인조형학부",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": ""
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "ARDE378",
             "position": {
                 "x": 1320,
-                "y": 300
+                "y": 200
             },
             "학년": 3,
             "data": {
@@ -832,11 +860,11 @@
             "id": "ARDE370",
             "position": {
                 "x": 1320,
-                "y": 400
+                "y": 300
             },
             "학년": 3,
             "data": {
-                "label": "신소형 I",
+                "label": "신조형 I",
                 "학수번호": "ARDE370",
                 "세부전공": "조형미술",
                 "전공역량": null,
@@ -857,38 +885,10 @@
             }
         },
         {
-            "id": "ARDE291",
-            "position": {
-                "x": 1540,
-                "y": 0
-            },
-            "학년": 3,
-            "data": {
-                "label": "회화STUDIO II",
-                "학수번호": "ARDE291",
-                "세부전공": "조형미술",
-                "전공역량": null,
-                "개설학과": "디자인조형학부",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": "유사:ARDE266 회화와아이디어",
-                "syllabus_kr": ""
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "ARDE375",
             "position": {
                 "x": 1540,
-                "y": 100
+                "y": 0
             },
             "학년": 3,
             "data": {
@@ -916,7 +916,7 @@
             "id": "ARDE373",
             "position": {
                 "x": 1540,
-                "y": 200
+                "y": 100
             },
             "학년": 3,
             "data": {
@@ -944,7 +944,7 @@
             "id": "ARDE368",
             "position": {
                 "x": 1540,
-                "y": 300
+                "y": 200
             },
             "학년": 3,
             "data": {
@@ -972,7 +972,7 @@
             "id": "ARDE377",
             "position": {
                 "x": 1540,
-                "y": 400
+                "y": 300
             },
             "학년": 3,
             "data": {
