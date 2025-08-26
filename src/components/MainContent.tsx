@@ -105,19 +105,18 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
                 </a>
                 <span className={styles.separator}>|</span>
                 <a
-                  href="https://ibook.korea.ac.kr/Viewer/HF1ALNVYXCOW?_ga=2.73349011.1272927809.1734914653-1048059663.1731638360"
+                  href="hhttps://ibook.korea.ac.kr/Viewer/NPGJKQBX665K"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  2024학년도 교육과정편람
+                  2025학년도 교육과정편람
                 </a>
-                <span className={styles.separator}>|</span>
                 <a
-                  href="https://ibook.korea.ac.kr/Viewer/IZLUFTDAVIED?_ga=2.79141652.1272927809.1734914653-1048059663.1731638360"
+                  href="/2025학년도 개설학과별 교수요목(서울).pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  2024학년도 개설학과별 교수요목 (서울)
+                  2025학년도 개설학과별 교수요목 (서울)
                 </a>
               </li>
             </ul>
