@@ -111,6 +111,7 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
                 >
                   2025학년도 교육과정편람
                 </a>
+                <span className={styles.separator}>|</span>
                 <a
                   href="/2025학년도 개설학과별 교수요목(서울).pdf"
                   target="_blank"
