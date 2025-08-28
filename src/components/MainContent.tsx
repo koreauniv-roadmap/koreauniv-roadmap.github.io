@@ -105,7 +105,7 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
                 </a>
                 <span className={styles.separator}>|</span>
                 <a
-                  href="hhttps://ibook.korea.ac.kr/Viewer/NPGJKQBX665K"
+                  href="https://ibook.korea.ac.kr/Viewer/NPGJKQBX665K"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
