@@ -113,7 +113,7 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
                 </a>
                 <span className={styles.separator}>|</span>
                 <a
-                  href="/2025학년도 개설학과별 교수요목(서울).pdf"
+                  href="/2025학년도%20개설학과별%20교수요목(%EC%84%9C%EC%9A%B8).pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
