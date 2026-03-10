@@ -185,225 +185,57 @@
             }
         },
         {
-            "id": "PHYS151",
+            "id": "COLA173",
             "position": {
                 "x": 440,
                 "y": 0
             },
-            "학년": null,
+            "학년": 1,
             "data": {
-                "label": "일반물리학연습 I",
-                "학수번호": "PHYS151",
+                "label": "디지털인문학응용",
+                "학수번호": "COLA173",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 물리량을 기술하는 방법, Newton 역학, 파동현상, 열역학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습 "
+                "syllabus_kr": "해당 과목은 디지털 시대에 문과 학생들이 필수적으로 알아야 할 다양한 기술이 인문학 분야에서 어떻게 응용되는지 직접 배우고 연습해보는 기회를 제공한다. "
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "PHYS152",
+            "id": "COLA200",
             "position": {
                 "x": 440,
                 "y": 100
             },
-            "학년": null,
+            "학년": 1,
             "data": {
-                "label": "일반물리학연습 II",
-                "학수번호": "PHYS152",
+                "label": "인문융합세미나",
+                "학수번호": "COLA200",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 전자기학, 광학 및 현대물리학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습시간에 과제물에 대한 문제 "
+                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS161",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "학년": null,
-            "data": {
-                "label": "일반물리학실험 I",
-                "학수번호": "PHYS161",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일반물리학및연습 I 에서 강의 및 문제풀이로 배우는 내용을 실험을 통해서 배우는 과목이다. 주요 내용은 date분석법, Newton 역학, 파동현상, 열역학에 관한 실험이다. 한번 3시간 실험으로 진행되며, 2인 1조를 원칙으로 하고, 8개조가 한 반을 구성하여 조교 및 교수의  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS162",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "학년": null,
-            "data": {
-                "label": "일반물리학실험 II",
-                "학수번호": "PHYS162",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일반물리학및연습 II 에서 강의 및 문제풀이로 배우는 내용을 실험을 통해서 배우는 과목이다. 주요 내용은 date분석법, Newton 역학, 파동현상, 열역학에 관한 실험이다. 한번 3시간 실험으로 진행되며, 2인 1조를 원칙으로 하고, 8개조가 한 반을 구성하여 조교 및 교수의 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM151",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "학년": null,
-            "data": {
-                "label": "일반화학및연습 I",
-                "학수번호": "CHEM151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM152",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "학년": null,
-            "data": {
-                "label": "일반화학및연습 II",
-                "학수번호": "CHEM152",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM153",
-            "position": {
-                "x": 440,
-                "y": 600
-            },
-            "학년": null,
-            "data": {
-                "label": "일반화학실험 I",
-                "학수번호": "CHEM153",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM154",
-            "position": {
-                "x": 440,
-                "y": 700
-            },
-            "학년": null,
-            "data": {
-                "label": "일반화학실험 II",
-                "학수번호": "CHEM154",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -412,15 +244,15 @@
             "id": "GELI005",
             "position": {
                 "x": 440,
-                "y": 800
+                "y": 200
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
-                "label": "학문세계의탐구I",
+                "label": "학문세계의탐구 I",
                 "학수번호": "GELI005",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
@@ -437,46 +269,18 @@
             }
         },
         {
-            "id": "GEWR002",
-            "position": {
-                "x": 440,
-                "y": 900
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "IFLS800",
             "position": {
                 "x": 440,
-                "y": 1000
+                "y": 300
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
                 "label": "Academic English I",
                 "학수번호": "IFLS800",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
@@ -493,18 +297,102 @@
             }
         },
         {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ENGL155",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "학년": 1,
+            "data": {
+                "label": "고급영어",
+                "학수번호": "ENGL155",
+                "세부전공": null,
+                "전공역량": "소통을통한공동체기여능력",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 고급 영어 능력 및 다양한 학문 분야의 지식습득을 통한 비판적사고 능력 배양을 목적으로 하는 과목으로, 고급 수준의 영문 텍스트 및 자료를 학습하여 복합적인 영어 능력 향상에 초점을 둔다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "학년": 1,
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 1100
+                "y": 700
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
-                "label": "[진로창업]1학년세미나Ⅰ",
+                "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS007",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
@@ -524,15 +412,15 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 1200
+                "y": 800
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
                 "학수번호": "GECT002",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
@@ -549,102 +437,18 @@
             }
         },
         {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 1300
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH161",
-            "position": {
-                "x": 440,
-                "y": 1400
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "미적분학및연습I",
-                "학수번호": "MATH161",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일계함수의 미분과 적분, 적분의 응용, 극좌표계, 수열과 급수, 벡터와 벡터 공간"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY101",
-            "position": {
-                "x": 440,
-                "y": 1500
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "에너지공학실험실습기초I",
-                "학수번호": "ENGY101",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "광전기화학에너지의 생산, 활용: 저장에 대한 기축 이론을 이해하고 문제중도형 학습(PBL)에, 기초하여 실생활에서 응용 가능 한 구체적 사례를 학습한다. 이를 통해 광전기화학에너지 관련 소자들의 구동 원리와 응용 분야에 대한 지식을 습득한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEKS008",
             "position": {
                 "x": 660,
                 "y": 0
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
                 "label": "[진로창업]1학년세미나 II",
                 "학수번호": "GEKS008",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
@@ -666,14 +470,14 @@
                 "x": 660,
                 "y": 100
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "개설학과": null,
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
@@ -689,246 +493,22 @@
             }
         },
         {
-            "id": "MATH162",
-            "position": {
-                "x": 660,
-                "y": 200
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "미적분학및연습II",
-                "학수번호": "MATH162",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "다변수 함수의 미분, 다중적분, 선적분, 곡면적분, 발산정리"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY103",
-            "position": {
-                "x": 660,
-                "y": 300
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "에너지 기술사",
-                "학수번호": "ENGY103",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인류의 대생 이후 에너지의 형태 및 사용 방법의 빈화와 그로, 인한 물명의 변화 등에 대해 고찰해 보고 논의한다. 문명의 변화 에 대해 에너지의 의미와 역할 등에 대해서 조사해 본다. 에너지 형태의 변화에 따른 기술 역사를 되짚어 보며, 미래의 에너지 형태 및 관련 기술에 대해서 논의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EREN242",
+            "id": "ENGL201",
             "position": {
                 "x": 880,
                 "y": 0
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "데이터 학습과 지능",
-                "학수번호": "EREN242",
+                "label": "영미시개론",
+                "학수번호": "ENGL201",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
                 "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EREN241",
-            "position": {
-                "x": 880,
-                "y": 100
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "데이터 과학과 기초",
-                "학수번호": "EREN241",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY102",
-            "position": {
-                "x": 880,
-                "y": 200
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "융합에너지공학실험실습기초II",
-                "학수번호": "ENGY102",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생체 분자들을 기반으로 한 바이오에너지의 생산, 활용, 저장 및 정책에 관한 기초 이론과 실습을 통해 융합적 사고와 문제해결 능력의 토대를 만든다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY105",
-            "position": {
-                "x": 880,
-                "y": 300
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "융합에너지진로탐구및창업",
-                "학수번호": "ENGY105",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "1] 과목은 융합에너지공학과의 교육 및 공학적 목표를 소개하고 이를 통해 진로남구와 기업가정신 함양을 목표로 한다. 특히1류 복지에 필수적인 지속가능한 에너지 시스템을 구축하고 운영하기 위해 차별화된 융복합 해법을 제시하고자 하는 본 학교 의 교육 목표를 솜개하고, 창의융합형 에너지 공학, 사람중심의 공감 에너지 공학, 광전기 에너지 공학, 바이오 에너지 공학 에 대한 공학적 목표 및 진로, 그리고 창업 기회에 대해 탐구한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY201",
-            "position": {
-                "x": 880,
-                "y": 400
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "에너지공학실험실습I",
-                "학수번호": "ENGY201",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 에너지 신산업 분야의 우수한 역량과 창의적 문제해결 능력을 갖 추기 위해 광전기화학에너지 분야에 특화된 융합에 너지공학 실험실습을 1학년 에너지공학 실험실습기초| 과목과 연계해서 광전기화학에너지 생산, 활용 (전환), 저장의 3가지 영역에 대한 실험/실습 교육을 위한 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY204",
-            "position": {
-                "x": 880,
-                "y": 500
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "에너지과학기술입문",
-                "학수번호": "ENGY204",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "에너지 종류별 과학이론 및 기술에 대한 전반적인 개념과 응용에 대해 배운다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHBE207",
-            "position": {
-                "x": 880,
-                "y": 600
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "물리화학",
-                "학수번호": "CHBE207",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화공생명공학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "영미시의 일반적인 이해를 돕기 위해 영시의 장르, 형식, 운율, 시어, 주제, 비유법 등을 살펴보고, 영미의 주요 시인들의 비교적 길이가 짧은 작품을 읽고 비평적으로 분석해본다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -941,106 +521,246 @@
             }
         },
         {
-            "id": "ENGY202",
+            "id": "ENGL203",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "학년": 2,
+            "data": {
+                "label": "영미희곡개론",
+                "학수번호": "ENGL203",
+                "세부전공": null,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 영국희곡과 미국희곡을 함께 개관한다. 드라마란 장르의 이해를 돕기 위해 선택된 작품의 정치, 사회, 문화적 배경을 파악하고 공연을 전제로 한 텍스트 읽기와 드라마 실습을 겸한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ENGL211",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "영어학개론",
+                "학수번호": "ENGL211",
+                "세부전공": null,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "현대영어의 음성, 음운, 형태, 동사 및 의미조직에 대한 개력적인 고찰과 영어발달의 역사적 배경, 그리고 현대 언어이론을 적용한 영어기술방법 등을 소개한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ENGL220",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "학년": 2,
+            "data": {
+                "label": "전공영문글쓰기",
+                "학수번호": "ENGL220",
+                "세부전공": null,
+                "전공역량": "소통을통한공동체기여능력",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "영어영문학과 전공생으로서 전공분야의 전문지식에 관한 읽기와 글쓰기를 포괄적으로 훈련하여 학문적 수준의 영어구사력을 배양한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ENGL267",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "학년": 2,
+            "data": {
+                "label": "고전영문학의흐름",
+                "학수번호": "ENGL267",
+                "세부전공": null,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "고대에서부터 낭만주의까지 영문학의 주요 작가와 작품을 개관하고 고전영문학의 전체적인 흐름과 전통, 발달과정 등을 이해한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ENGL281",
+            "position": {
+                "x": 880,
+                "y": 500
+            },
+            "학년": 2,
+            "data": {
+                "label": "영미문학과대중문화",
+                "학수번호": "ENGL281",
+                "세부전공": null,
+                "전공역량": "소통을통한공동체기여능력",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 강의는 대중문화의 여러 장르, 현상들이 오늘날의 영문학과 교차하는 지점들을 살펴보고 학제화된 영문학의 외연을 넓히는 동시에 대중문화의 의미를 학문적으로 숙고하는 것을 목표로 한다. 급변하는 현대사회의 대중문화가 기술의 혁신과 표현매체의 다양화를 통해 어떻"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ENGL202",
             "position": {
                 "x": 1100,
                 "y": 0
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "융합에너지공학실험실습II",
-                "학수번호": "ENGY202",
+                "label": "영미소설개론",
+                "학수번호": "ENGL202",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "융합에너지공학 전공자들의 바이오 에너지 기초를 바탕으로 관련한 심화 연구 수행을 위한 실험 실습 능력을 배양함."
+                "syllabus_kr": "영미문학의 대표작들에 대한 꼼꼼한 독서와 해설을 통해 소설 장르의 기본 구성 요소와 독서 방식을 학습하고, 영미문학의 소설 장르에 학문적으로 접근할 수 있는 토대를 마련한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "ENGY203",
+            "id": "ENGL218",
             "position": {
                 "x": 1100,
                 "y": 100
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "지속가능한에너지",
-                "학수번호": "ENGY203",
+                "label": "응용언어학개론",
+                "학수번호": "ENGL218",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 2,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "에너지 생산 및 소비에 따른 사회경제적, 환경적 잉향을 다양한 사례를 통해 직접 분식해 본다. 지구의 한계 (Planetary boundaries) 및 글로벌 환경문제 를 고려할 때 지속가능한 에너지란 무엇인지 개념을 정립한다."
+                "syllabus_kr": "응용언어학의 기본 개념과 용어를 다루고 응용언어학의 하위 범주인 사회언어학, 제2언어습득, 사회언어학, 언어교육 등을 소개한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "ENGY208",
+            "id": "ENGL236",
             "position": {
                 "x": 1100,
                 "y": 200
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "융합생명공학",
-                "학수번호": "ENGY208",
+                "label": "영문법",
+                "학수번호": "ENGL236",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "현대 생명 과학의 기본 개념을 바탕으로 의학 및 생명공학 음용의 이해를 목표로 한다. 생명 공학 기술의 다학제적 이해를 및 분자 디자인을 포함한 생명 현상의 측정, 모사, 바이오 시스템 개발 등 실용적 응용이 가능한 의생명 기술의 이론과 실습을 병행할 수 있는 주제들을 학습한다"
+                "syllabus_kr": "현대영어의 구문구조를 전통영문법의 입장에서 논의하고 형태와 의미를 중심으로 한 영문법 기술방법과 분석방법을 연구한다. 영어구문을 형성하는 기본요소들도 철저하게 논의, 연구한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "ENGY206",
+            "id": "ENGL238",
             "position": {
                 "x": 1100,
                 "y": 300
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "에너지화학",
-                "학수번호": "ENGY206",
+                "label": "영어음성학",
+                "학수번호": "ENGL238",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "에너지, 재료/소자의 화학적, 메커니즘 이해 및 기초적인 합성 방법 이해를 위한 지식의 습득을 목적으로 한다. 화학 작용 기에 따른 오비탈의 변화 원리를 이해하고, 분자내 또는 분자간 에너지 흐름에 대하여 학습한다."
+                "syllabus_kr": "영어의 분절음에 대한 음성적 특성을 발음원리와 함께 고찰하고, 분절음의 연속에서 발생하는 여러 가지 발음 특성과 원리를 다룬다. 언어기술 단위로서 영어의 음소와 음절을 논의하고, 초분절음의 특성으로 강세와 억양을 공부한다. 이와 아울러 Lab을 통한 발음훈련이 강 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1053,22 +773,22 @@
             }
         },
         {
-            "id": "ENGY214",
+            "id": "ENGL270",
             "position": {
                 "x": 1100,
                 "y": 400
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "에너지물리",
-                "학수번호": "ENGY214",
+                "label": "근대영문학의흐름",
+                "학수번호": "ENGL270",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "에너지 물리는 에너지, 관하기술의 웅용을 위해 필요한 물리하의 기본 개념을 배우는 학문이다. 에너지 소스, 에너지 사용 및 에 너지 시스템을 관리하는 물리학적 원리에 대한 포괄적인 내용을 습득한다."
+                "syllabus_kr": "낭만주의 시대부터 현재에 이르기까지, 역사적 배경, 문학적 경향과 문제, 중요 작가와 작품을 중심으로 근대 영국문학사의 중요한 흐름을 고찰한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1081,22 +801,22 @@
             }
         },
         {
-            "id": "ENGY309",
+            "id": "ENGL280",
             "position": {
                 "x": 1100,
                 "y": 500
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "에너지변환소재",
-                "학수번호": "ENGY309",
+                "label": "미국문학의흐름",
+                "학수번호": "ENGL280",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "미국문학을 개괄하는 강좌로 미국문학 발생 초기부터 현재까지의 주요 작가, 작품, 경향들을 논의한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1109,162 +829,106 @@
             }
         },
         {
-            "id": "ACEE290",
-            "position": {
-                "x": 1100,
-                "y": 600
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "신재생에너지기초",
-                "학수번호": "ACEE290",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "전기전자공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS164",
-            "position": {
-                "x": 1100,
-                "y": 700
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "경영과 사회",
-                "학수번호": "BUSS164",
-                "세부전공": "에너지환경정책경영",
-                "전공역량": null,
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY207",
+            "id": "ENGL327",
             "position": {
                 "x": 1320,
                 "y": 0
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "에너지열역학",
-                "학수번호": "ENGY207",
+                "label": "영미문학과영화",
+                "학수번호": "ENGL327",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
+                "전공역량": "세계시민의자질",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "에너지의. 이용, 발생, 변환 및 저장에 필요한 기초 전기화학(Ionics 및 Electrodics)의 이혼과 전기화학 실의 설계 및 충정, 방법에 대해 폭넓게 강의한다. 물 분해, 연료전지, 태양전지 및 이차전지 등 전기화학시스템을 학습 하기 위한 기초 역량을 학습한다."
+                "syllabus_kr": "영미의 대표적 문학작품들이 영화화되는 과정에서 주제와 플롯이 어떻게 수정되며, 언어적 이미지가 영상 이미지로 변환될 때 어떤 변화가 일어나는지, 그리고 그 변화의 문화적, 매체 특성적 이유가 무엇인지를 연구한다. _x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "ENGY327",
+            "id": "ENGL329",
             "position": {
                 "x": 1320,
                 "y": 100
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "융합에너지종합설계I",
-                "학수번호": "ENGY327",
+                "label": "영어의사회언어학",
+                "학수번호": "ENGL329",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "전공역량": "세계시민의자질",
+                "개설학과": "영어영문학과",
                 "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "사회계층, 연령, 인종, 성별 등과 같은 사회적 문화적 변수가 영어사용에 미치는 영향과 영어의 변이현상을 사회문화적 관점에서 학습한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "ENGY301",
+            "id": "ENGL333",
             "position": {
                 "x": 1320,
                 "y": 200
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "에너지전기화학",
-                "학수번호": "ENGY301",
+                "label": "현대미국소설",
+                "학수번호": "ENGL333",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 2,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "에너지의 이용, 발생, 변환 및 저장에 필요한 기초 전기화학(lonics 및 Electrodics)의 이론과 전기화학 셀의 설계 및 주정 방법에 대해 폭넓게 강 의한다. 풀 분해, 연료전지, 대양전지 및 이차전지 등 전기화학시스템을 학습 하기 위한 기초 역량을 학습한다."
+                "syllabus_kr": "20세기 주요 미국소설가들의 작품을 읽고 비평적으로 분석하며 현대미국소설의 중요한 흐름을 파악한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "ENGY304",
+            "id": "ENGL335",
             "position": {
                 "x": 1320,
                 "y": 300
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "에너지 반도체",
-                "학수번호": "ENGY304",
+                "label": "영미시연구",
+                "학수번호": "ENGL335",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "에너지, 과학기술의 조석이 되는 반도체의 핵심. 개념과 전기적 광학적, 특성을 이해할 수 있는 지식을 학습하는 것을 녹적 으로 한다. 이를 바탕으로 반도체에서의 에너지변환 과정 및 소자의 기본 원리를 이해할 수 있도록 한다."
+                "syllabus_kr": "여러 시대, 다양한 종류의 영미시 작품을 읽고, 시의 주제, 문체, 형식, 미학 등에 대해 연구한다. 이 과목을 통해 영미시에 대한 전반적인 이해도와 친숙함을 높이고자 한다.  "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1277,22 +941,22 @@
             }
         },
         {
-            "id": "ENGY210",
+            "id": "ENGL343",
             "position": {
                 "x": 1320,
                 "y": 400
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "광공학 기초",
-                "학수번호": "ENGY210",
+                "label": "미국시",
+                "학수번호": "ENGL343",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "빛의 진행관 파동, 이미지의 생성과 수차, 빛의 간섭과 회절, 그리고 회정에 의한 해상도 한계 등 광학의 광범위한 기초적 원리 { 이해하는 데 목적이 있 다. 또한, 다양한 분야에서 핵심 광원으로 사용되고 있는 LED와 레이저, 그리고 광검출기의 원리 라 특성에 대해서도 함께 다른다. 마지막으로, 초고속 고효율 광동신을 가능하게 한 광섬유의 원리와 특성에 대해서도 힘 께 학습한다."
+                "syllabus_kr": "19세기부터 현재에 이르기까지 중요한 미국시인들의 작품을 선별하여 읽고, 미국시의 역사적 흐름과 배경, 그 특징을 고찰한다. 휘트먼, 디킨슨, 프로스트, 스티븐슨, 윌리엄스, 파운드, 무어, 휴즈, 비숍, 로월, 플라스 등의 시인을 연구한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1305,22 +969,22 @@
             }
         },
         {
-            "id": "NEIK411",
+            "id": "ENGL359",
             "position": {
                 "x": 1320,
                 "y": 500
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "태양에너지공학",
-                "학수번호": "NEIK411",
-                "세부전공": "광전기에너지공학",
-                "전공역량": null,
-                "개설학과": "에너지신산업융합전공",
-                "개설횟수": 1,
+                "label": "19세기영국소설",
+                "학수번호": "ENGL359",
+                "세부전공": null,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "19세기의 시대적 배경을 개괄하고 대표작을 강독하며, 19세기 영국소설 전통의 형성과정을 연구한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1333,22 +997,22 @@
             }
         },
         {
-            "id": "ENGY413",
+            "id": "ENGL361",
             "position": {
                 "x": 1320,
                 "y": 600
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "계면 공학",
-                "학수번호": "ENGY413",
-                "세부전공": "전기화학에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "영어발달사",
+                "학수번호": "ENGL361",
+                "세부전공": null,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "영어의 음운/형태/의미/통사적 발달과정을 통시적으로 고찰하며, 이를 통해 현대영어의 특징들을 고찰한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1361,22 +1025,22 @@
             }
         },
         {
-            "id": "ENGY415",
+            "id": "ENGL373",
             "position": {
                 "x": 1320,
                 "y": 700
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "바이오 에너지 공학",
-                "학수번호": "ENGY415",
-                "세부전공": "바이오에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "영어통사론",
+                "학수번호": "ENGL373",
+                "세부전공": null,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "영어구조전반에 대한 역사적인 고찰과 다양한 영어구조분석방법을 연구한다. Chomsky의 변형생성문법을 소개하고 전통문법, 구조주의 문법 등과의 비교연구"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1389,22 +1053,22 @@
             }
         },
         {
-            "id": "ENGY312",
+            "id": "ENGL375",
             "position": {
                 "x": 1320,
                 "y": 800
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "에너지 경제학",
-                "학수번호": "ENGY312",
-                "세부전공": "에너지환경정책경영",
-                "전공역량": null,
-                "개설학과": "에너지신산업융합전공",
-                "개설횟수": 1,
+                "label": "비평이론",
+                "학수번호": "ENGL375",
+                "세부전공": null,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": ""
+                "syllabus_kr": "문학비평의 준거가 되는 다양한 문학이론을 읽고, 영문학 작품과의 관계를 논의한다. "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1417,22 +1081,22 @@
             }
         },
         {
-            "id": "NEIK342",
+            "id": "ENGL383",
             "position": {
                 "x": 1320,
                 "y": 900
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "에너지기후변화정책",
-                "학수번호": "NEIK342",
-                "세부전공": "에너지환경정책경영",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "영국희곡",
+                "학수번호": "ENGL383",
+                "세부전공": null,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "중세부터 현재까지 영국희곡의 대표작을 선독하며 영국희곡의 발전과정과 각 작가의 특성을 고찰한다. _x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1445,22 +1109,22 @@
             }
         },
         {
-            "id": "ENGY336",
+            "id": "ENGL387",
             "position": {
                 "x": 1320,
                 "y": 1000
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "에너지고체화학",
-                "학수번호": "ENGY336",
+                "label": "미국산문",
+                "학수번호": "ENGL387",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "미국의 사회사상과 국민의식의 형성에 중요한 역할을 하였던 사상가, 문필가의 산문을 강독한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1473,22 +1137,22 @@
             }
         },
         {
-            "id": "ENGY339",
+            "id": "ENGL395",
             "position": {
                 "x": 1320,
                 "y": 1100
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "탄소중립시스템모델링",
-                "학수번호": "ENGY339",
+                "label": "번역연습",
+                "학수번호": "ENGL395",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 0,
+                "전공역량": "소통을통한공동체기여능력",
+                "개설학과": "영어영문학과",
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "한영, 영한 번역을 통해 두 언어의 표현법의 차이를 검토하고, 이를 통해 영어적 논리 전개의 특징을 숙지한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1501,50 +1165,78 @@
             }
         },
         {
-            "id": "ENGY334",
+            "id": "ENGL399",
+            "position": {
+                "x": 1320,
+                "y": 1200
+            },
+            "학년": 3,
+            "data": {
+                "label": "영어학연구",
+                "학수번호": "ENGL399",
+                "세부전공": null,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "영어학에 관련된 특정 주제를 선정하여 최근 이론들을 심도 있게 다룬다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ENGL332",
             "position": {
                 "x": 1540,
                 "y": 0
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "융합에너지종합설계II",
-                "학수번호": "ENGY334",
+                "label": "셰익스피어",
+                "학수번호": "ENGL332",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "Shakespeare의 주요 작품을 읽으며, 지난 4세기 동안의 비평, 공연, 영화사 등도 함께 논의한다. 실제 연극 실습이 포함될 수 있다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "ENGY328",
+            "id": "ENGL336",
             "position": {
                 "x": 1540,
                 "y": 100
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "전산에너지공학",
-                "학수번호": "ENGY328",
+                "label": "현대영국소설",
+                "학수번호": "ENGL336",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 2,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "모더니즘에서 오늘날에 이르는 주요 현대 영국소설가들의 작품을 읽고 비평적으로 분석하며 현대영국소설의 중요한 흐름을 파악한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1557,22 +1249,22 @@
             }
         },
         {
-            "id": "ENGY311",
+            "id": "ENGL338",
             "position": {
                 "x": 1540,
                 "y": 200
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "태양전지공학",
-                "학수번호": "ENGY311",
-                "세부전공": "광전기에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "현대영국시",
+                "학수번호": "ENGL338",
+                "세부전공": null,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "에너지, 과학기술의 조석이 되는 반도체의 핵심. 개념과 전기적 광학적, 특성을 이해할 수 있는 지식을 학습하는 것을 녹적 으로 한다. 이를 바탕으로 반도체에서의 에너지변환 과정 및 소자의 기본 원리를 이해할 수 있도록 한다."
+                "syllabus_kr": "20세기초에서 현재에 이르기까지 주요 영국 시인들의 작품을 읽고 비평적으로 분석하며 현대영시의 중요한 흐름을 파악한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1585,22 +1277,22 @@
             }
         },
         {
-            "id": "ENGY322",
+            "id": "ENGL358",
             "position": {
                 "x": 1540,
                 "y": 300
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "에너지 변환 광전자공학",
-                "학수번호": "ENGY322",
-                "세부전공": "광전기에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "19세기영국시",
+                "학수번호": "ENGL358",
+                "세부전공": null,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "영국 낭만주의 및 빅토리아 시대의 주요 시작품을 강독함으로써 19세기 영시의 일반적인 성격과 개별 시인들의 특징을 논의한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1613,22 +1305,22 @@
             }
         },
         {
-            "id": "ENGY340",
+            "id": "ENGL362",
             "position": {
                 "x": 1540,
                 "y": 400
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "에너지반도체소자",
-                "학수번호": "ENGY340",
+                "label": "19세기미국문학",
+                "학수번호": "ENGL362",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "19세기 미국의 주요 작가들을 중점적으로 강독하여 미국 사회와 문학에 대한 일반적 이해를 도모한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1641,22 +1333,22 @@
             }
         },
         {
-            "id": "ENGY341",
+            "id": "ENGL364",
             "position": {
                 "x": 1540,
                 "y": 500
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "융합생명공학II",
-                "학수번호": "ENGY341",
+                "label": "특수장르문학",
+                "학수번호": "ENGL364",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "본 과목은 공상과학소설, 판타지, 고딕, 호러, 탐정소설, 로맨스, 그래픽 노블, 아동문학, 실험 소설 등 특수 장르로 분류되는 문학 작품을 읽고 감상하는 것을 목표로 한다. 각각의?소설 장르의 특성을 탐구하고 그 탄생과 변천 과정을 영미 사회의 역사, 문화적 맥락과 연 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1669,22 +1361,22 @@
             }
         },
         {
-            "id": "ENGY330",
+            "id": "ENGL372",
             "position": {
                 "x": 1540,
                 "y": 600
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "유기에너지재료",
-                "학수번호": "ENGY330",
-                "세부전공": "전기화학에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "초기영국소설",
+                "학수번호": "ENGL372",
+                "세부전공": null,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "소설이라는 장르의 발생과정을 문화적, 역사적, 사상적 배경 등과 연결시켜 연구하고 18세기의 주요 소설가들의 작품을 심층 연구한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1697,22 +1389,22 @@
             }
         },
         {
-            "id": "NEIK321",
+            "id": "ENGL374",
             "position": {
                 "x": 1540,
                 "y": 700
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "에너지저장소재설계",
-                "학수번호": "NEIK321",
-                "세부전공": "전기화학에너지공학",
-                "전공역량": null,
-                "개설학과": "에너지신산업융합전공",
-                "개설횟수": 1,
+                "label": "미국흑인문학",
+                "학수번호": "ENGL374",
+                "세부전공": null,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "이 강의는 미국문학의 일부로서 흑인문학의 전통이 어떻게 미국의 정체성과 역사를 형성하고 재현하는 데 참여해왔는지를 살펴보고, 문학작품을 통해 인종, 차이, 자유의 문제가 지니는 의미를 숙고하는 것을 목표로 한다. 강의의 내용은 18세기 노예서사에서 최근의 흑인문 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1725,22 +1417,22 @@
             }
         },
         {
-            "id": "ENGY320",
+            "id": "ENGL376",
             "position": {
                 "x": 1540,
                 "y": 800
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "광화학",
-                "학수번호": "ENGY320",
-                "세부전공": "바이오에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "중세르네상스영문학",
+                "학수번호": "ENGL376",
+                "세부전공": null,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "중세와 16, 17세기 영문학을 연구하는 강의로서, 초서에서 밀튼에 이르기까지 각 시대로부터 선정된 주요 작품들을 통해 영문학의 전통과 그 시대의 역사적, 사회적, 문화적 배경 등을 연구한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1753,22 +1445,22 @@
             }
         },
         {
-            "id": "ENGY332",
+            "id": "ENGL378",
             "position": {
                 "x": 1540,
                 "y": 900
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "에너지환경의사결정",
-                "학수번호": "ENGY332",
-                "세부전공": "에너지환경정책경영",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "영어권문학의이해",
+                "학수번호": "ENGL378",
+                "세부전공": null,
+                "전공역량": "세계시민의자질",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "캐나다, 호주, 아프리카, 서인도제도, 인도 지역에서 영어로 쓰여진 작품을 통해 영어문학의 의의를 살펴본다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1781,22 +1473,22 @@
             }
         },
         {
-            "id": "ENGY335",
+            "id": "ENGL382",
             "position": {
                 "x": 1540,
                 "y": 1000
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "수소에너지개론",
-                "학수번호": "ENGY335",
+                "label": "미국영화",
+                "학수번호": "ENGL382",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 0,
+                "전공역량": "세계시민의자질",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "본 과목은 세계의 문화 산업을 주도해 나가는 미국의 할리우드 영화를 분석함으로써 미국사회와 문화를 이해하는데 그 목적이 있다. 이를 위해 미국 영화가 인종, 계급, 성의 문제에 대한 갈등을 어떻게 형상화하고 있으며 그것의 이해를 위해 어떠한 역할을 하는지에 대해  "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1809,22 +1501,22 @@
             }
         },
         {
-            "id": "ENGY337",
+            "id": "ENGL384",
             "position": {
                 "x": 1540,
                 "y": 1100
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "에너지환경촉매",
-                "학수번호": "ENGY337",
+                "label": "미국희곡",
+                "학수번호": "ENGL384",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "20세기 미국희곡의 대표작을 선독하며 미국희곡의 전반적 특성과 각 작가의 개별적 특성을 고찰한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1837,22 +1529,22 @@
             }
         },
         {
-            "id": "ENGY338",
+            "id": "ENGL386",
             "position": {
                 "x": 1540,
                 "y": 1200
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "도시회복탄력성",
-                "학수번호": "ENGY338",
+                "label": "영국산문",
+                "학수번호": "ENGL386",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "영국인의 세계관과 역사 의식에 중요한 영향을 미쳤던 문필가의 산문을 읽으면서 그 속에 담긴 사상과 문체의 예술성을 살펴본다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1865,50 +1557,134 @@
             }
         },
         {
-            "id": "ENGY419",
+            "id": "ENGL390",
+            "position": {
+                "x": 1540,
+                "y": 1300
+            },
+            "학년": 3,
+            "data": {
+                "label": "영어음운론",
+                "학수번호": "ENGL390",
+                "세부전공": null,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "영어음운론의 개론적 연구로 미국 구조주의 언어학과 생성음운론의 기본적인 사항들을 연구한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ENGL396",
+            "position": {
+                "x": 1540,
+                "y": 1400
+            },
+            "학년": 3,
+            "data": {
+                "label": "영어의미론",
+                "학수번호": "ENGL396",
+                "세부전공": null,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "영어의미론에 대한 개론으로 어휘의미론과 형식의미론의 기초를 다룬다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ENGL398",
+            "position": {
+                "x": 1540,
+                "y": 1500
+            },
+            "학년": 3,
+            "data": {
+                "label": "영어습득론",
+                "학수번호": "ENGL398",
+                "세부전공": null,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "다양한 영어습득이론을 연구, 검토하고, 이러한 이론을 적용하여 영어습득과정과 그 책략에 관한 제문제를 논의한다. 영어습득이론이 접학문분야와 어떠한 연관성을 가지고 있는지를 실제자료를 수집, 분류, 분석하는 등의 과정을 통하여 이해한다. 또한 효과적인 영어습득, "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ENGL401",
             "position": {
                 "x": 1760,
                 "y": 0
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "융합에너지창의연구I",
-                "학수번호": "ENGY419",
+                "label": "초기미국문학",
+                "학수번호": "ENGL401",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "미국문학사에서의 초기 내러티브 및 기타 문학장르를 개관한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COOP031",
+            "id": "ENGL419",
             "position": {
                 "x": 1760,
                 "y": 100
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "현장실습I",
-                "학수번호": "COOP031",
+                "label": "영미문학과젠더",
+                "학수번호": "ENGL419",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "인류의 절반인 여성들이 종속과 억압에서 해방되어 자아실현의 권리를 찾고 인간으로서의 존엄성을 회복하려는 노력이 영미문학에 어떻게 반영되어 있고 문학이 어떻게 그 투쟁의 중요한 수단이 되었는지를 살펴본다. _x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1921,22 +1697,22 @@
             }
         },
         {
-            "id": "ENGY412",
+            "id": "ENGL421",
             "position": {
                 "x": 1760,
                 "y": 200
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "에너지 전달현상",
-                "학수번호": "ENGY412",
+                "label": "영미문학특수과제I",
+                "학수번호": "ENGL421",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "영미문학의 특정한 작가나 특수한 문제를 집중적으로 연구하기 위해 중요 _x000D_\n 작품을 자세히 읽고 비평적으로 분석한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1949,22 +1725,22 @@
             }
         },
         {
-            "id": "ENGY406",
+            "id": "ENGL423",
             "position": {
                 "x": 1760,
                 "y": 300
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "저전력미래정보소자",
-                "학수번호": "ENGY406",
-                "세부전공": "광전기에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 2,
+                "label": "심리언어학",
+                "학수번호": "ENGL423",
+                "세부전공": null,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "심리언어학의 기본 개념을 소개하고 언어의 본질, 언어의 발달, 언어 사용 및 언어 장애에 대한 이해를 도모한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1977,22 +1753,22 @@
             }
         },
         {
-            "id": "ENGY423",
+            "id": "ENGL425",
             "position": {
                 "x": 1760,
                 "y": 400
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "열에너지공학개론",
-                "학수번호": "ENGY423",
-                "세부전공": "광전기에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "응용언어학특수과제",
+                "학수번호": "ENGL425",
+                "세부전공": null,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "응용영어학 분야에서 다루고 있는 여러 가지 주제와 쟁점을 최근 이론 중심으로 분석한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2005,22 +1781,22 @@
             }
         },
         {
-            "id": "ENGY313",
+            "id": "ENGL429",
             "position": {
                 "x": 1760,
                 "y": 500
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "에너지반도체공정",
-                "학수번호": "ENGY313",
-                "세부전공": "광전기에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "최근영미문학",
+                "학수번호": "ENGL429",
+                "세부전공": null,
+                "전공역량": "세계시민의자질",
+                "개설학과": "영어영문학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": ""
+                "syllabus_kr": "본 과목은 대략 1950년대부터 현재에 이르기까지의 영미문학을 연구하는 것을 그 목표로 한다. ??"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2033,22 +1809,22 @@
             }
         },
         {
-            "id": "ENGY425",
+            "id": "ENGL433",
             "position": {
                 "x": 1760,
                 "y": 600
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "에너지고체물리",
-                "학수번호": "ENGY425",
+                "label": "영어교과교재연구및지도법",
+                "학수번호": "ENGL433",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "전공역량": "소통을통한공동체기여능력",
+                "개설학과": "영어영문학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": ""
+                "syllabus_kr": "외국어로서의 영어교육 자료와 방법에 관한 최신 중요 쟁점을 소개하고 영어교육 이론과 실제를 접목시키는 방안을 논의한다. 중-고등학교 영어교재 분석, 영어수업지도안 작성, 영어교수방법, 영어평가항목 만들기 등 영어교과지도에 관한 실제 경향을 장려한다. "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2061,22 +1837,22 @@
             }
         },
         {
-            "id": "ACEE491",
+            "id": "ENGL435",
             "position": {
                 "x": 1760,
                 "y": 700
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "태양광시스템설계",
-                "학수번호": "ACEE491",
-                "세부전공": "광전기에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "영문학과계몽주의",
+                "학수번호": "ENGL435",
+                "세부전공": null,
+                "전공역량": "영어권언어와문화에대한전문지식",
+                "개설학과": "영어영문학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "이 강의는 왕정복고기와 18세기 영문학을 계몽주의라는 커다란 맥락 안에서 한다. 드라이든, 로처스터, 포프, 스위프트, 애디슨, 존슨 등의 작품을 선별적으로 읽을 것이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2089,106 +1865,22 @@
             }
         },
         {
-            "id": "ENGY409",
+            "id": "ENGL437",
             "position": {
                 "x": 1760,
                 "y": 800
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "이차전지",
-                "학수번호": "ENGY409",
-                "세부전공": "전기화학에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "NEIK422",
-            "position": {
-                "x": 1760,
-                "y": 900
-            },
-            "학년": 4.0,
-            "data": {
-                "label": "차세대에너지 저장변환공학",
-                "학수번호": "NEIK422",
-                "세부전공": "전기화학에너지공학",
-                "전공역량": null,
-                "개설학과": "에너지신산업융합전공",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY317",
-            "position": {
-                "x": 1760,
-                "y": 1000
-            },
-            "학년": 4.0,
-            "data": {
-                "label": "나노바이오기술",
-                "학수번호": "ENGY317",
-                "세부전공": "바이오에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY424",
-            "position": {
-                "x": 1760,
-                "y": 1100
-            },
-            "학년": 4.0,
-            "data": {
-                "label": "연료전지공학",
-                "학수번호": "ENGY424",
+                "label": "영어음성학응용",
+                "학수번호": "ENGL437",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 0,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "본 수업은 연료전지 기술과 적용에 관한 이론과 응용을 다룹니다. 학생들은 연료전지의 작동 원리부터 성능 향상을 위한 기술적 과제, 그리고 친환경적 에너지 솔류션으로의 잠재력까지 배웁니다. 다양한 연료전지 시스템의 최적화, 설계, 운전, 유지에 대한 엔지니어링 기술도 학습합니다."
+                "syllabus_kr": "영어의 자모음 발화와 인식을 이해하기 위한 분석과 합성에 필수 요소인 음성 신호 처리의 기본 개념을 학습한다. 영어 모음과 자음의 음향적 특성을 음원-필터 장치로서의 구강을 분석함으로써 이해한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2201,50 +1893,50 @@
             }
         },
         {
-            "id": "ENGY422",
+            "id": "ENGL416",
             "position": {
                 "x": 1980,
                 "y": 0
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "융합에너지창의연구II",
-                "학수번호": "ENGY422",
+                "label": "영어학특수과제",
+                "학수번호": "ENGL416",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "최근 영어학 이론이나 영어학의 특정 주제를 선택하여 심도있게 다룬다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COOP061",
+            "id": "ENGL418",
             "position": {
                 "x": 1980,
                 "y": 100
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "현장실습II",
-                "학수번호": "COOP061",
+                "label": "미국소수민족문학",
+                "학수번호": "ENGL418",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 5,
+                "전공역량": "세계시민의자질",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "흑인문학, 원주민 문학, 아시아계 미국문학, 멕시코/중남미계 미국 문학의 주요 작품들을 공부한다. _x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2257,19 +1949,19 @@
             }
         },
         {
-            "id": "ENGY410",
+            "id": "ENGL422",
             "position": {
                 "x": 1980,
                 "y": 200
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "에너지기기분석",
-                "학수번호": "ENGY410",
-                "세부전공": "광전기에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "영미문학특수과제II",
+                "학수번호": "ENGL422",
+                "세부전공": null,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": null
@@ -2285,22 +1977,22 @@
             }
         },
         {
-            "id": "ENGY407",
+            "id": "ENGL424",
             "position": {
                 "x": 1980,
                 "y": 300
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "신재생에너지 시스템 공학",
-                "학수번호": "ENGY407",
-                "세부전공": "전기화학에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "문화이론연구",
+                "학수번호": "ENGL424",
+                "세부전공": null,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "사회문화 현상을 분석하는 다양한 이론을 살펴보고, 이를 오늘의 문화 현상에 적용하는 작업을 연습한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2313,22 +2005,78 @@
             }
         },
         {
-            "id": "ENGY420",
+            "id": "ENGL426",
             "position": {
                 "x": 1980,
                 "y": 400
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "에너지 생화학",
-                "학수번호": "ENGY420",
-                "세부전공": "바이오에너지공학",
-                "전공역량": null,
-                "개설학과": "건축사회환경공학부",
-                "개설횟수": 1,
+                "label": "영문학과법",
+                "학수번호": "ENGL426",
+                "세부전공": null,
+                "전공역량": "전공지식의확장과응용",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "이 과목은 영미문학 속에서 법과 관련되는 주제를 다룬다. 작품 속에서 법과 개인, 법과 사회, 법과 인간의 본질의 문제 등을 탐구한다. 법제도, 정의, 소송, 범죄, 등의 다양한 주제를 담은 문학 작품을  읽고, 토론을 통하여 법이 개인의 삶이나 사회 안에서 지니는 복합적"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ENGL432",
+            "position": {
+                "x": 1980,
+                "y": 500
+            },
+            "학년": 4,
+            "data": {
+                "label": "영어교과교육론",
+                "학수번호": "ENGL432",
+                "세부전공": null,
+                "전공역량": "소통을통한공동체기여능력",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "외국어로서의 영어 학습 및 습득과정과 이에 연관된 여러 가지 개인적, 사회적, 교육적 요인을 연구, 검토하고 영어교육의 이론적, 역사적 배경과 영어교육과정 전반에 관한 분석을 시도한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ENGL434",
+            "position": {
+                "x": 1980,
+                "y": 600
+            },
+            "학년": 4,
+            "data": {
+                "label": "영어교과논리및논술",
+                "학수번호": "ENGL434",
+                "세부전공": null,
+                "전공역량": "소통을통한공동체기여능력",
+                "개설학과": "영어영문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "영어교사가 되고자하는 영문학과 전공생을 위한 과목으로 영어에 관한 비판적 사고와 영작문 기법을 포괄적으로 훈련하여 높은 수준의 영어구사력을 배양한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",

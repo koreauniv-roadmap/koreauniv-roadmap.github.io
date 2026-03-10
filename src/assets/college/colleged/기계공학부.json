@@ -185,40 +185,12 @@
             }
         },
         {
-            "id": "COLA200",
+            "id": "GELI005",
             "position": {
                 "x": 440,
                 "y": 0
             },
-            "학년": 1.0,
-            "data": {
-                "label": "인문융합세미나",
-                "학수번호": "COLA200",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #55aad4",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
                 "label": "학문세계의탐구 I",
                 "학수번호": "GELI005",
@@ -244,9 +216,9 @@
             "id": "IFLS800",
             "position": {
                 "x": 440,
-                "y": 200
+                "y": 100
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
                 "label": "Academic English I",
                 "학수번호": "IFLS800",
@@ -272,9 +244,9 @@
             "id": "GEBT001",
             "position": {
                 "x": 440,
-                "y": 300
+                "y": 200
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
                 "label": "[진로창업]생명과학의세계",
                 "학수번호": "GEBT001",
@@ -297,57 +269,29 @@
             }
         },
         {
-            "id": "PHIL020",
+            "id": "LIBS150",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 300
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
-                "label": "철학토픽코스I",
-                "학수번호": "PHIL020",
+                "label": "생명과학",
+                "학수번호": "LIBS150",
                 "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "21세기는 생명과학의 시대라고들 이야기한다. 이 과목은 21세기를 살아가는 현대인들이 기본적으로 알아야 할 생명의 기원, 세포학, 생화학, 유전학, 발생학, 생태 및 분류학과 같은 생명과학 분야 기본과목의 기초적인 이해에 그 목표가 있다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL191",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "서양철학개론",
-                "학수번호": "PHIL191",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "서양철학 일반에 대한 강의이다. 고대철학부터 현대철학까지의 주요 철학내용을 각 시기의 주요 철학자들의 작품에 대한 분석을 통해 그 이해를 시도한다.  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "border": "2px solid #F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -356,9 +300,9 @@
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 400
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
                 "label": "글쓰기",
                 "학수번호": "GEWR002",
@@ -384,9 +328,9 @@
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 700
+                "y": 500
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
                 "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS007",
@@ -412,9 +356,9 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 800
+                "y": 600
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
                 "학수번호": "GECT002",
@@ -437,29 +381,141 @@
             }
         },
         {
-            "id": "PHIL192",
+            "id": "MATH161",
             "position": {
-                "x": 660,
-                "y": 0
+                "x": 440,
+                "y": 700
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
-                "label": "동양철학개론",
-                "학수번호": "PHIL192",
+                "label": "미적분학및연습 I",
+                "학수번호": "MATH161",
                 "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
+                "전공역량": null,
+                "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "동양철학 일반에 대한 강의이다. 주요 철학자들의 작품에 대한 분석을 통해 주요 개념, 이론, 관점, 방법 등을 이해하도록 한다."
+                "syllabus_kr": "일계함수의 미분과 적분, 적분의 응용, 극좌표계, 수열과 급수, 벡터와 벡터 공간"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS151",
+            "position": {
+                "x": 440,
+                "y": 800
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반물리학및연습Ⅰ",
+                "학수번호": "PHYS151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 물리량을 기술하는 방법, Newton 역학, 파동현상, 열역학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS161",
+            "position": {
+                "x": 440,
+                "y": 900
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반물리학실험Ⅰ",
+                "학수번호": "PHYS161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일반물리학및연습 I 에서 강의 및 문제풀이로 배우는 내용을 실험을 통해서 배우는 과목이다. 주요 내용은 date분석법, Newton 역학, 파동현상, 열역학에 관한 실험이다. 한번 3시간 실험으로 진행되며, 2인 1조를 원칙으로 하고, 8개조가 한 반을 구성하여 조교 및 교수의  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM150",
+            "position": {
+                "x": 440,
+                "y": 1000
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반화학및연습",
+                "학수번호": "CHEM150",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM155",
+            "position": {
+                "x": 440,
+                "y": 1100
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반화학실험",
+                "학수번호": "CHEM155",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -468,11 +524,11 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 100
+                "y": 0
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
-                "label": "[진로창업]1학년세미나 II",
+                "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS008",
                 "세부전공": null,
                 "전공역량": null,
@@ -496,9 +552,9 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 200
+                "y": 100
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -521,190 +577,302 @@
             }
         },
         {
-            "id": "PHIL209",
+            "id": "MATH162",
+            "position": {
+                "x": 660,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "미적분학및연습 Ⅱ",
+                "학수번호": "MATH162",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "다변수 함수의 미분, 다중적분, 선적분, 곡면적분, 발산정리"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS152",
+            "position": {
+                "x": 660,
+                "y": 300
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반물리학및연습Ⅱ",
+                "학수번호": "PHYS152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 전자기학, 광학 및 현대물리학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습시간에 과제물에 대한 문제 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS162",
+            "position": {
+                "x": 660,
+                "y": 400
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반물리학실험Ⅱ",
+                "학수번호": "PHYS162",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일반물리학및연습 II 에서 강의 및 문제풀이로 배우는 내용을 실험을 통해서 배우는 과목이다. 주요 내용은 date분석법, Newton 역학, 파동현상, 열역학에 관한 실험이다. 한번 3시간 실험으로 진행되며, 2인 1조를 원칙으로 하고, 8개조가 한 반을 구성하여 조교 및 교수의 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EGRN103",
+            "position": {
+                "x": 660,
+                "y": 500
+            },
+            "학년": 1,
+            "data": {
+                "label": "창의설계",
+                "학수번호": "EGRN103",
+                "세부전공": null,
+                "전공역량": "전공지식",
+                "개설학과": "공과대학",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "공과대학에 입학한 학생들에게 창의성의 개념과 창의적 사고과정을 교육하고, 창의성에 바탕하여 도출된 기본적인 아이디어를 형성화하고 설계하여 간단한 재료와 도구로 제작하게 해 봄으로서 향후 접하게 될 전공과목에 대한 흥미를 유발하고 종합설계에 필요한 기본적인  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH201",
             "position": {
                 "x": 880,
                 "y": 0
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "기호논리학",
-                "학수번호": "PHIL209",
+                "label": "열역학I",
+                "학수번호": "MECH201",
                 "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 4,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "기호논리학을 명제논리와 한량논리로 나누어 추리의 정확성에 주안점을 두고 강의한다._x000D_\n"
+                "syllabus_kr": "에너지의 개념, 열역학의 기본 법칙들과 그 응용을 다루며, 내용은 질량보존법칙, 열역학 제1법칙, 제2법칙, 물질의 상태량 변화와 엔트로피의 개념등이다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "PHIL226",
+            "id": "MECH205",
             "position": {
                 "x": 880,
                 "y": 100
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "불교철학",
-                "학수번호": "PHIL226",
+                "label": "고체역학I",
+                "학수번호": "MECH205",
                 "세부전공": null,
-                "전공역량": "의사소통 ",
-                "개설학과": "철학과",
-                "개설횟수": 3,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "원시 불교철학의 주 관심사와 사상 체계를 살피고, 그러한 사상이 중국과 한국에서 어떻게 수용, 발휘되었는가를 소개한다. _x000D_\n"
+                "syllabus_kr": "  축의 비틀림, 전단력, 굽힘모멘트, 보의 응력, 보의 처짐, 부정정보 기초, 기둥의 기초"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "PHIL321",
+            "id": "MECH209",
             "position": {
                 "x": 880,
                 "y": 200
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "서양고대철학",
-                "학수번호": "PHIL321",
+                "label": "기계제작법및실습",
+                "학수번호": "MECH209",
                 "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 3,
+                "전공역량": "공학문제식별능력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "서양 고대 희랍철학 일반을 로고스(logos) 문화의 한 형태로 보는 관점에서 고대 철학에 있어서 언어, 논리, 인식, 존재, 윤리적 가치, 정치 등의 문제를 총괄적으로 다룬다. _x000D_\n"
+                "syllabus_kr": "주조, 소성가공, 열처리, 용접, 절삭가공, 연삭가공, 특수가공 등 모든 제작방법을 다루고, 기계를 구성하는 부품의 적절한 제작방법을 선정할 수 있게 하고, 공작기계를 이용하여 부품을 제작한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "PHIL322",
+            "id": "MECH210",
             "position": {
                 "x": 880,
                 "y": 300
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "서양중세철학",
-                "학수번호": "PHIL322",
+                "label": "전산기이용기계제도",
+                "학수번호": "MECH210",
                 "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
+                "전공역량": "문제해결능력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "기독교의 발생과 전파, 교회 세속권의 확장과 축소라는 역사적 맥락에서 전개되었던 중세철학 일반을 기독교 교의와 고대 희랍철학 간의 조화와 충돌, 교회와 세속 간의 문제, 신앙과 구원의 문제 등에 대한 문제의식을 갖고서 총괄적으로 다룬다. _x000D_\n"
+                "syllabus_kr": "기계나 구조물을 설계하고 제작하는 데 필요한 부품도와 조립도 등의 도면을 작성하고 판독하는 방법을 배우며, 이러한 지식을 바탕으로 컴퓨터를 이용한 도면의 작성 방법을 습득한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "PHIL331",
+            "id": "MECH211",
             "position": {
                 "x": 880,
                 "y": 400
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "중국선진철학",
-                "학수번호": "PHIL331",
+                "label": "기구학",
+                "학수번호": "MECH211",
                 "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 3,
+                "전공역량": "공학문제식별능력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "중국 先秦時代의 철학을 諸子百家의 학파별로 나누어 고찰한다. _x000D_\n"
+                "syllabus_kr": "기구학이란 기계를 구성하는 부품들 사이의 상대 운동 해석과 설계자가 원하는 원활한 운동을 하는 기계를 만들기 위해서는 어떠한 부품들을 어떻게 조합하여야 하는가를 다루는 학문으로 기계 설계에 있어 가장 근본이 된다. 본 강의에서는 다양한 기계를  구성하는  기구의"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "PHIL335",
+            "id": "MECH226",
             "position": {
                 "x": 880,
                 "y": 500
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "인도철학사",
-                "학수번호": "PHIL335",
+                "label": "동역학",
+                "학수번호": "MECH226",
                 "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 3,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "인도 고대철학의 발생과 전개, 그리고 불교철학의 創出 과정을 살피며 그들 철학사상이 인도 中古 및 근대 사상에 미친 영향을 고찰한다."
+                "syllabus_kr": " 동역학의 일반적인 원리에 대해 살펴보고 질점과 강체의 운동학과 뉴튼의 법칙, 일과 에너지의 법칙, 충격량과 운동량의 세 가지면에서 보는 운동역학을 여러 공학모델에 응용한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "PHIL345",
+            "id": "MECH215",
             "position": {
                 "x": 880,
                 "y": 600
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "독일고전철학",
-                "학수번호": "PHIL345",
+                "label": "공업수학I",
+                "학수번호": "MECH215",
                 "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 3,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "Kant 이후, Hegel, Schelling 등에 이르는 독일의 근대 철학사상가들을 포괄적이며 체계적인 관점에서 다룬다. _x000D_\n"
+                "syllabus_kr": "공학의 실용적인 문제와 관련하여 시스템의 운동이나 현상을 해석하고 예측하는데 필요한 수학을 학습한다. 주된 내용으로 전공과목에 곧바로 적용할 수 있는 미분방정식의 시리즈해법, 특수함수, 라플라스변환, 선형대수학 등을 다룬다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -717,22 +885,22 @@
             }
         },
         {
-            "id": "PHIL346",
+            "id": "MECH323",
             "position": {
                 "x": 880,
                 "y": 700
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "현대유럽철학",
-                "학수번호": "PHIL346",
+                "label": "유체역학II",
+                "학수번호": "MECH323",
                 "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "현대 유럽철학자들의 사상과 주요 저술들을 비판적으로 해석하고 이해한다. _x000D_\n"
+                "syllabus_kr": "움직이는 유체 내부에 작용하는 힘과 유동 특성, 압력 특성과의 관계를 이론적 실험적으로 해석하고 그 원리를 산업적으로 응용하는 방법을 익힌다. 강의 내용은 차원 해석과 상사율, 내류 점성유동, 외류 점성 유동, 압축성 유동, 개수로 유동, 터보기계를 다룬다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -745,302 +913,106 @@
             }
         },
         {
-            "id": "PHIL347",
-            "position": {
-                "x": 880,
-                "y": 800
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "현대영미철학",
-                "학수번호": "PHIL347",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL349",
-            "position": {
-                "x": 880,
-                "y": 900
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "중국근현대철학",
-                "학수번호": "PHIL349",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "明末淸初의 복잡다단한 사조들을 분석함으로써 중국에서 近代라는 개념의 정립 가능성을 탐색하고, 朱子學과 陽明學에 대한 반동이 淸代를 통해 어떻게 표현되었는가를 살핌으로써 淸末民初의 사상이 서구제국주의에 대처해 나간 연계점을 투시한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL351",
-            "position": {
-                "x": 880,
-                "y": 1000
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "심리철학",
-                "학수번호": "PHIL351",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "심신 관계에 관한 철학적 학설들의 역사를 개관하고, 현대 심리철학의 주요 문제들을 검토한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL356",
-            "position": {
-                "x": 880,
-                "y": 1100
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "과학철학",
-                "학수번호": "PHIL356",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "과학적 개념, 법칙, 확증, 설명, 예측, 논리 구성 등에 관련된 과학의 논리 문제와 과학성의 근거 및 한계 등에 관한 현대 과학철학의 주요 문제들을 다룬다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL381",
-            "position": {
-                "x": 880,
-                "y": 1200
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "해석학",
-                "학수번호": "PHIL381",
-                "세부전공": null,
-                "전공역량": "의사소통 ",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "Dilthey 이래의 해석학의 전개 과정을 강의한다. 이 교과는 Heidegger, Gadamer의 철학적 해석학과 그 후의 해석학적 이론들을 다룬다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL386",
-            "position": {
-                "x": 880,
-                "y": 1300
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "정치철학강의",
-                "학수번호": "PHIL386",
-                "세부전공": null,
-                "전공역량": "다문화포용",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정치적, 법적 그리고 경제 제도의 정당성을 평가하는 데 사용되는 다양한 도덕 개념들, 예컨대 정의, 평등, 자유 그리고 권리 개념들을 철학적으로 탐구한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL459",
-            "position": {
-                "x": 880,
-                "y": 1400
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "철학교과교육론",
-                "학수번호": "PHIL459",
-                "세부전공": null,
-                "전공역량": "윤리의식",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "교육 전반에 있어서 철학교육의 역할과 특성을 밝히고, 철학교육의 목표 교육과정 방법론 및 평가의 일반원칙들을 추구하며, 이와 관련된 논리학과 경험과학들의 성과를 검토 활용한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL030",
+            "id": "MECH204",
             "position": {
                 "x": 1100,
                 "y": 0
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "철학토픽코스II",
-                "학수번호": "PHIL030",
+                "label": "유체역학I",
+                "학수번호": "MECH204",
                 "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "기존의 개설 과목에서 다루기 힘든 최근의 혹은 특수한 철학적 주제를 탐구한다. 다루는 주제는 매 학기 달라진다."
+                "syllabus_kr": "유체정역학 및 운동학, 오일러식 및 에너지식, 운동량식의 응용, 차원 해석과 상사율, 충류 및 난류의 실제유동, 경계층 개념, 내류 및 외류 등을 다룬다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "PHIL207",
+            "id": "MECH300",
             "position": {
                 "x": 1100,
                 "y": 100
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "형이상학",
-                "학수번호": "PHIL207",
+                "label": "창의적기계설계:캡스톤디자인",
+                "학수번호": "MECH300",
                 "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
+                "전공역량": "창의적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "주로 지금까지 나와 세계 및 신을 어떻게 보아 왔으며, 그 관계가 어떻게 다루어졌느냐를 분석?검토한다. 아울러 이러한 문제들의 의의와 전망도 살핀다. _x000D_\n"
+                "syllabus_kr": "본 과목에서는 일상생활이나 산업환경에서 발생하는 공학적인 문제를 창의적으로 해결하는 방안의 하나로 기계설계의 원리와 절차를 강의한다. 강의는 설계 개념을 도출하는 방법, 추상적인 개념을 구체적인 형상으로 표현하는 방법, 각종 기계를 구성하는 요소들의 종류 및 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "PHIL220",
+            "id": "MECH329",
             "position": {
                 "x": 1100,
                 "y": 200
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "윤리학",
-                "학수번호": "PHIL220",
+                "label": "기계공학실험I",
+                "학수번호": "MECH329",
                 "세부전공": null,
-                "전공역량": "윤리의식",
-                "개설학과": "철학과",
-                "개설횟수": 4,
+                "전공역량": "문제해결능력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "도덕적 가치, 도덕적 판단 기준, 인간의 행복과 인생의 궁극적 목적, 도덕적 권리와 의무, 가치관 등에 관한 고전적 이론과 아울러 현대의 이론을 강의한다. _x000D_\n"
+                "syllabus_kr": "재료의 기계적 성질 및 시험법: 인장, 압축, 충격, 경도 및 부식 시험 재료역학 실험 : 비틀림, 압력 용기, 광탄성, 기초 진동 및 회전축 Whirling, 트러스의 행렬해석_x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "PHIL224",
+            "id": "MECH216",
             "position": {
                 "x": 1100,
                 "y": 300
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "유가철학",
-                "학수번호": "PHIL224",
+                "label": "공업수학II",
+                "학수번호": "MECH216",
                 "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "중국적 인문주의를 창도하여 중국 문화의 주류를 이루어 온 儒學이 초기에 형성.전개된 과정을 밝히고, 그들 학파의 대표자인 孔子, 孟子, 荀子 사상을 분석.검토한다._x000D_\n"
+                "syllabus_kr": "공업수학Ⅰ의 연속으로 전공심화과정에 필요한 수학을 배운다. 주요내용으로 편미분, 푸리에 변환 선형대수학 등을 공부한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1053,22 +1025,22 @@
             }
         },
         {
-            "id": "PHIL225",
+            "id": "MECH222",
             "position": {
                 "x": 1100,
                 "y": 400
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "도가철학",
-                "학수번호": "PHIL225",
+                "label": "열역학II",
+                "학수번호": "MECH222",
                 "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "老莊哲學이 중국사상계에서 차지하는 위치와 그 특성을 밝히고, 老子,莊子,列子의 중심 사상을 철학적으로 분석.검토하여, 그 사상이 중국 문화에 미친 영향을 소개한다._x000D_\n"
+                "syllabus_kr": "열역학의 기본 법칙들의 응용을 다루며, 내용은 제2법칙 해석, 가스와 증기 동력 사이클, 냉동 사이클, 상태량 관계식들 등이다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1081,22 +1053,22 @@
             }
         },
         {
-            "id": "PHIL311",
+            "id": "MECH236",
             "position": {
                 "x": 1100,
                 "y": 500
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "한국성리학",
-                "학수번호": "PHIL311",
+                "label": "고체역학Ⅱ",
+                "학수번호": "MECH236",
                 "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "조선시대 성리학자들의 사상을 형이상학, 윤리학, 철학적 인간학의 관점에서 당시의 사회사적 배경과 더불어 고찰한다._x000D_\n"
+                "syllabus_kr": "응력과 변형률 해석, 응력-변형률-온도관계, 부정정문제, 비대칭 굽힘, 비탄성 굽힘 및 비틀림, 좌굴 이론, 에너지방법. "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1109,386 +1081,470 @@
             }
         },
         {
-            "id": "PHIL312",
+            "id": "EGRN242",
             "position": {
                 "x": 1100,
                 "y": 600
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "한국철학사",
-                "학수번호": "PHIL312",
+                "label": "데이터학습과지능",
+                "학수번호": "EGRN242",
                 "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
+                "전공역량": "전공지식",
+                "개설학과": "공과대학",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "한국철학의 흐름을 개관하면서 각 시대의 정치,경제,사회적 배경과의 관련을 탐색한다. _x000D_\n"
+                "syllabus_kr": "기계학습 이론과 전문기술은 현대 데이터과학 응용에서 결정적인 역할을 하며, 다양한 분류, 회귀모델, 군집화, 차원축소, 강화학습 그리고 딥러닝을 포함합니다. 기계학습 문제와 관련 전문기술에 대한 큰 그림에 대해 이해하고 문제해결에 활용할 수 있도록 합니다. 이 강 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "PHIL332",
-            "position": {
-                "x": 1100,
-                "y": 700
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "중국양한위진철학",
-                "학수번호": "PHIL332",
-                "세부전공": null,
-                "전공역량": "다문화포용",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "제자백가들의 융합을 통한 새로운 형태의 도가와 유가의 출현 및 중국 해석학의 발생과 전개라는 측면에서 양한위진 시대의 철학을 고찰한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL334",
-            "position": {
-                "x": 1100,
-                "y": 800
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "중국송명철학",
-                "학수번호": "PHIL334",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "朱子學과 陽明學으로 대표되는 宋明時代 新儒學의 형성 및 전개 과정을 사상사적 시각에서 살펴보고, 나아가서 宋明理學이 지닌 철학적 구조에 대한 분석과 해석을 통하여 그 속의 세계관과 진리관, 그리고 정치관과 윤리관을 이해하도록 한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL344",
-            "position": {
-                "x": 1100,
-                "y": 900
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "서양근세철학",
-                "학수번호": "PHIL344",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "근대과학을 바탕으로 하는 서양 근대시민의 세계관이 깊이 분석?검토된다. 특히, 객관적 세계와 인간의 지성과의 관계가 중심 과제로 다루어진다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL353",
-            "position": {
-                "x": 1100,
-                "y": 1000
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "철학적인간학",
-                "학수번호": "PHIL353",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "Max Scheler, Helmuth Plessner가 기초를 세운 현대의 철학적 인간학의 역사와 경향, 그 중요한 문제와 성과를 문화인류학, 생물학적 인류학, 사회인류학, 심리학적, 의학적 인간학과 관련시켜 다룬다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL358",
-            "position": {
-                "x": 1100,
-                "y": 1100
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "미학",
-                "학수번호": "PHIL358",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "美의 본질, 미의식과 미적 체험, 미의 종류, 예술의 형식과 내용, 예술창작의 원리, 예술작품의 감상 등에 관하여 강의한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL395",
-            "position": {
-                "x": 1100,
-                "y": 1200
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "귀납논리",
-                "학수번호": "PHIL395",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL456",
-            "position": {
-                "x": 1100,
-                "y": 1300
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "철학교과교재연구및지도법",
-                "학수번호": "PHIL456",
-                "세부전공": null,
-                "전공역량": "의사소통 ",
-                "개설학과": "철학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "철학교육의 목표들과 연관하여 교재 구성의 기본원칙 설정, 교육 자료의 비교검토, 교재 유형과 내용 배열 및 타 교과 교재와의 비교평가, 모델교재 연구, 지도절차와 방법의 기법 연구 및 평가 기법과 그 한계성 등을 다루게 될 것이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL458",
-            "position": {
-                "x": 1100,
-                "y": 1400
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "철학교과논리및논술",
-                "학수번호": "PHIL458",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "교육 전반에 있어서 철학교육의 역할과 특성을 밝히고, 철학교육의 목표,교과과정,방법론 및 평가의 일반원칙들을 추구하며, 이와 관련된 논리학과 경험과학들의 성과를 검토,활용한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL355",
+            "id": "MECH317",
             "position": {
                 "x": 1320,
                 "y": 0
             },
             "학년": 3,
             "data": {
-                "label": "언어철학",
-                "학수번호": "PHIL355",
+                "label": "공학재료학",
+                "학수번호": "MECH317",
+                "세부전공": null,
+                "전공역량": "공학문제식별능력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "기계 부품 및 구조물 설계 시 가장 적합한 공학재료를 선택할 필요가 있다. 본 강의에서는 금속(합금), 세라믹, 포리머 그리고 복합재료의 기계적 성질과 미소 구조와의 상관관계 그리고 재료의 공정을 공부함으로서 공학 재료에 대한 기본 지식을 기른다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH330",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "학년": 3,
+            "data": {
+                "label": "기계공학실험II",
+                "학수번호": "MECH330",
+                "세부전공": null,
+                "전공역량": "문제해결능력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "열 및 유체공학의 기본실험으로서 레이놀즈 및 관마찰실험, 각종 유량계수 및 점성측정실험, 열전도실험, 발열량실험, 풍동실험 등을 포함한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH311",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "학년": 3,
+            "data": {
+                "label": "열전달",
+                "학수번호": "MECH311",
+                "세부전공": null,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "열전달 현상을 이해하기 위해서 일차원 및 다차원 정상열전도, 비정상 열전도, 강제 및 자연 대류 열전달, 복사 열전달을 소개하며 그 응용기관인 열교환기 등을 다룬다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH320",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "유체기계",
+                "학수번호": "MECH320",
+                "세부전공": null,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH373",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "기계진동학",
+                "학수번호": "MECH373",
+                "세부전공": null,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 1자유도 선형계의 자유진동을 소개하고, 설계, 측정 및 안정성에 대해서도 논한 다음 조화입력을 받는 1자유도계의 응답과 감쇠의 여러 형태, 일반적인 입력을 받는 1자유도계의 응답, 2자유도계와 모드해석, 진동해석과 측정 및 설계, 분포계의 진동해석, 모드실험해석 등 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH389",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "학년": 3,
+            "data": {
+                "label": "공학현장실습Ⅰ",
+                "학수번호": "MECH389",
+                "세부전공": null,
+                "전공역량": "지식융합능력",
+                "개설학과": "기계공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "기계공학 각 분야의 산업 또는 연구개발 현장에 직접 참여토록 하여, 학부과정에서 배운 이론과 실기능력을 적용하고 살아있는 지식을 습득할 수 있는 기회를 제공한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH399",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "학년": 3,
+            "data": {
+                "label": "공학현장실습Ⅱ",
+                "학수번호": "MECH399",
+                "세부전공": null,
+                "전공역량": "지식융합능력",
+                "개설학과": "기계공학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EGRN332",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "학년": 3,
+            "data": {
+                "label": "기술과창업",
+                "학수번호": "EGRN332",
+                "세부전공": null,
+                "전공역량": "문제해결능력",
+                "개설학과": "공과대학",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH312",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "응용열전달",
+                "학수번호": "MECH312",
+                "세부전공": null,
+                "전공역량": "전공지식",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "열전달에서 배운 전도 및 대류 기본 지식을 응용하여 열교환기설계, 상변화 열전달, 복사열전달, 물질전달 등 응용열전달분야를 심도있게 공부한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH318",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "학년": 3,
+            "data": {
+                "label": "냉동",
+                "학수번호": "MECH318",
+                "세부전공": null,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "증기압축 냉동사이클 및 그 해석, 압축기, 열교환기, 팽창장치, 흡수식냉동 그리고 열펌프 등에 대한 기초이론 및 응용기술을 다룬다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH328",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "학년": 3,
+            "data": {
+                "label": "기계요소설계",
+                "학수번호": "MECH328",
+                "세부전공": null,
+                "전공역량": "지식융합능력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "기계를 구성하는 각종 요소의 기능과 구조를 이해하고, 이들을 적절히 선택하여 기계나 장치를 설계하는 방법을 학습한다. 본 과목은 기초 설계론 , 설계 사례 및 각종 기계요소에 대한 이론 강의와 설계 경연대회 출전용 KIT 의 고안 및 설계의 실습을 포함한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH334",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "유한요소법",
+                "학수번호": "MECH334",
+                "세부전공": null,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "유한 요소법의 기초이론과 이를 여러 가지 공학 문제에 적용하는 방법을 배운다. 이를 위해 트러스, 보, 2차원 및 3차원 요소 등 각종 요소에 대해 배우고, 지배 방정식의 구성, 동적 해석 등에 필요한 지식을 습득한다. 또한 상용 프로그램과 예제 프로그램을 사용하여 실제"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH352",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "전산기응용설계",
+                "학수번호": "MECH352",
+                "세부전공": null,
+                "전공역량": "문제해결능력",
+                "개설학과": "기계공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "2차원과 3차원 컴퓨터 그래픽스 및 기하학적 모델링, 솔        리드 모델링 등에 사용되는 기본적인 수학적 이론과 설계의 데이터베이스 및 최적설계의 수학적인 기초 등을 다룬다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH386",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "학년": 3,
+            "data": {
+                "label": "전기전자공학개론",
+                "학수번호": "MECH386",
+                "세부전공": null,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "전기전자공학개론은 기계공학과 학생들을 대상으로, 기계공학에 필요한 전기 및 전자공학의 기초를 가르치는 과목이다. 전반부에서는 선형 전기회로의 기본원리 및 이를 구성하는 저항, 커패시터, 인덕터 등을 학습하고, 이를 바탕으로 교류회로 및 선형회로의 시간영역 및  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH387",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "학년": 3,
+            "data": {
+                "label": "자동제어",
+                "학수번호": "MECH387",
+                "세부전공": null,
+                "전공역량": "창의적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "기계, 전기 장치 등의 동적 시스템을 모델링하고 분석하는 방법과 기본 제어이론 및 응용을 배운다. 피드백 제어 시스템의 특성, 과도응답 및 정상상태 성능, 안정성 해석과 근궤적 기법, 주파수 응답 기법 등의 설계 기법을 익힌다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "NEIK424",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "열에너지변환공학",
+                "학수번호": "NEIK424",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": "전공역량 안적혀있음",
-                "syllabus_kr": "언어의 본질, 기능, 분류의 문제를 비롯해 意味論과 話用論 등에 관한 현대철학의 문제를 개괄한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL375",
-            "position": {
-                "x": 1320,
-                "y": 100
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "논리철학",
-                "학수번호": "PHIL375",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "논리학의 기능이 무엇인지를, 또한 제기되는 철학적 문제들이 어떤 것인지를 대체적으로 정리하고, 표준적인 記號論理 이외에 樣相論理나 多値論理 또는 時制論理(tense logic) 등 여러 체계들을 개관한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL376",
-            "position": {
-                "x": 1320,
-                "y": 200
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "고급논리",
-                "학수번호": "PHIL376",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "현대의 기호논리학에서 限量論理를 자세히 다루고 樣相命題論理와 多値論理를 개략적으로 취급한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL398",
-            "position": {
-                "x": 1320,
-                "y": 300
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "수리철학",
-                "학수번호": "PHIL398",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업에서는 다음 문제들에 관한 고전적인 이론들과 현대의 논쟁들에 관해 연구 한다: 수학적 지식과 수학적 존재의 본성은 어떤 것인가? 수학적 진술의 의미는 어떻게 주어지는가? 수학적 필연성의 본성은 어떤 것인가? 수학적 진리와 증명의 관계는 어떤 것인가?"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL414",
-            "position": {
-                "x": 1320,
-                "y": 400
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "불교철학특강",
-                "학수번호": "PHIL414",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
+                "개설학과": "에너지신산업",
                 "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "불교철학의 대표적인 학파 또는 개념을 깊이 있게 다루어 학생들로 하여금 문제의식과 탐구욕을 기르게 한다. _x000D_\n"
+                "syllabus_kr": "신재생에너지 또는 미활용 에너지 기술 기반으로 생산된 열에너지를 더 유용한 열에너지로 변환할 수 있는 에너지변환시스템의 이해"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1501,22 +1557,22 @@
             }
         },
         {
-            "id": "PHIL418",
+            "id": "MECH411",
             "position": {
-                "x": 1320,
-                "y": 500
+                "x": 1760,
+                "y": 100
             },
-            "학년": 3.0,
+            "학년": 4,
             "data": {
-                "label": "서양고대철학특강",
-                "학수번호": "PHIL418",
+                "label": "초소형기전공학",
+                "학수번호": "MECH411",
                 "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
+                "전공역량": "공학문제식별능력",
+                "개설학과": "기계공학부",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "자연론자들, 소피스트들, Socrates, Platon, Aristoteles, Hellenism-Roman 시대의 철학자들의 사상들 중에서 특정 주제들을 선택하여 집중적으로 다룬다. 예를 들어 “고대 희랍인들의 정의관”, “Aristoteles의 logos철학”, “Platon에 있어서 지식의 문제”, “소피스트"
+                "syllabus_kr": "MEMS(Micro-Electro-Mechanical System)에서 이용되는 공정을 공부하고, 이러한 공정은 이용한 초소형 센서와 액츄에이터의 설계 및 제작에 관해 고전적인 방법들과 최신의 동향을 알아보고 이를 기반으로 하여 MEMS 소자나 시스템을 설계하는 경험을 갖도록 한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1529,22 +1585,22 @@
             }
         },
         {
-            "id": "PHIL419",
+            "id": "MECH415",
             "position": {
-                "x": 1320,
-                "y": 600
+                "x": 1760,
+                "y": 200
             },
-            "학년": 3.0,
+            "학년": 4,
             "data": {
-                "label": "서양근세철학특강",
-                "학수번호": "PHIL419",
+                "label": "공기조화",
+                "학수번호": "MECH415",
                 "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
+                "전공역량": "지식융합능력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "서양 근세철학사의 특정한 이론이나 학파, 사상가들을 중점적으로 강의한다. _x000D_\n"
+                "syllabus_kr": "습공기 계산, 습공기 과정 및 습공기 선도, 냉난방 부하와 에너지 소요량 산정, 공기조화 시스템 및 그 제어, 송풍기 및 덕트 시스템, 펌프 및 배관시스템 등에 대한 기초 이론을 다룬다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1557,190 +1613,22 @@
             }
         },
         {
-            "id": "PHIL424",
+            "id": "MECH419",
             "position": {
-                "x": 1320,
-                "y": 700
+                "x": 1760,
+                "y": 300
             },
-            "학년": 3.0,
+            "학년": 4,
             "data": {
-                "label": "서양현대철학특강",
-                "학수번호": "PHIL424",
+                "label": "에너지공학",
+                "학수번호": "MECH419",
                 "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "서양 현대철학의 특정한 이론이나 학파, 사상가들을 중점적으로 강의한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL431",
-            "position": {
-                "x": 1320,
-                "y": 800
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "이론철학연습",
-                "학수번호": "PHIL431",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이론철학 분야의 주요 문제들을 깊이 있게 탐구한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL432",
-            "position": {
-                "x": 1320,
-                "y": 900
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "실천철학연습",
-                "학수번호": "PHIL432",
-                "세부전공": null,
-                "전공역량": "윤리의식",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "실천철학 분야의 주요 문제들을 깊이 있게 탐구한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL435",
-            "position": {
-                "x": 1320,
-                "y": 1000
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "동양철학연습",
-                "학수번호": "PHIL435",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목에서는 동양철학에서 중요시되는 특수한 주제들을 심도 있게 탐구한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL436",
-            "position": {
-                "x": 1320,
-                "y": 1100
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "서양고대철학연습",
-                "학수번호": "PHIL436",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "소크라테스 이전 철학부터 헬레니즘 철학까지를 주로 형이상학이나 인식론과 같은 이론철학 중심으로 분석적으로 다룬다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL446",
-            "position": {
-                "x": 1320,
-                "y": 1200
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "서양철학원전연구",
-                "학수번호": "PHIL446",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "서양철학에 관계되는 중요한 원전을 선정하여, 전체 혹은 직접 강독하면서 그 의미를 논구한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL222",
-            "position": {
-                "x": 1540,
-                "y": 0
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "인식론",
-                "학수번호": "PHIL222",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
+                "전공역량": "공학문제식별능력",
+                "개설학과": "기계공학부",
                 "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "인식의 기원, 본질, 대상, 구조, 타당성, 한계, 가치, 기능 등에 대한 여러 문제들을 강의한다._x000D_\n"
+                "syllabus_kr": "에너지의 개념과 열역학, 유체역학, 열전달의 관점에서 에너지의 전달해석 등 기초 이론을 설명하고 이를 에너지 변환 시스템에 적용한다. 기존 및 신 에너지를 얻기 위한 여러 응용 시스템을 알아본다. 에너지의 재활용 및 보존, 경제성을 살펴보고, 환경 문제도 다룬다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1753,106 +1641,22 @@
             }
         },
         {
-            "id": "PHIL365",
+            "id": "MECH421",
             "position": {
-                "x": 1540,
-                "y": 100
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "동양윤리와법사상",
-                "학수번호": "PHIL365",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목에서는 동양의 전통사회를 주도해온 유가의 법과 윤리에 내재된 규범적 특징과 이념적 지향을 사회철학적 시각에서 탐구해보기로 한다. 한 사회의 규범은 그것을 탄생케 한 정치·경제적 토대와 밀접한 관련이 있는 만큼, 동양윤리와 법사상을 탐구하는 과정에서 지성"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL367",
-            "position": {
-                "x": 1540,
-                "y": 200
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "법철학",
-                "학수번호": "PHIL367",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "법철학의 주요문제들을 개괄한다. 법의 본질, 법과 도덕의 관계, 법을 지켜야 하는 의무 등의 주제와 더불어 권리, 약속, 계약, 형벌 등 보다 구체적인 문제까지 다룬다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL391",
-            "position": {
-                "x": 1540,
-                "y": 300
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "사회철학",
-                "학수번호": "PHIL391",
-                "세부전공": null,
-                "전공역량": "윤리의식",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "사회의 본질, 사회적 가치 등에 관한 철학적 고찰을 한다. 특히 이상적 사회에 대한 여러 철학자들의 견해를 소개, 비판한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL394",
-            "position": {
-                "x": 1540,
+                "x": 1760,
                 "y": 400
             },
-            "학년": 3.0,
+            "학년": 4,
             "data": {
-                "label": "응용윤리학",
-                "학수번호": "PHIL394",
+                "label": "내연기관",
+                "학수번호": "MECH421",
                 "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
+                "전공역량": "공학문제식별능력",
+                "개설학과": "기계공학부",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "이 강의는 전통 윤리학이 무력함을 드러내고 있는 현대 사회에서의 여러 문제들, 이를테면 인공 임신중절, 뇌사와 장기이식, 안락사와 같은 생명윤리의 여러 문제들이나 자연의 가치, 쓰레기와 자연관, 환경과 기업과 같은 환경윤리의 여러 문제들에 대한 논리적으로 일관되 "
+                "syllabus_kr": null
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1865,22 +1669,22 @@
             }
         },
         {
-            "id": "PHIL413",
+            "id": "MECH431",
             "position": {
-                "x": 1540,
+                "x": 1760,
                 "y": 500
             },
-            "학년": 3.0,
+            "학년": 4,
             "data": {
-                "label": "한국철학특강",
-                "학수번호": "PHIL413",
+                "label": "생체공학",
+                "학수번호": "MECH431",
                 "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "한국철학의 대표적인 학파 또는 개념을 깊이 있게 다루어 학생들로 하여금 문제의식과 탐구욕을 기르게 한다._x000D_\n"
+                "syllabus_kr": " 일반적인 생체 구조 및 생리학적 및 현상에 대한 이해를 토대로 기계, 전자 및 화학 등의 공학 전반에 걸친 지식의 융합적 접근을 통해 인체 생리현상에 대한 새로운 해석과 이를 통한 관련 의료공학으로의 응용을 다룬다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1893,22 +1697,22 @@
             }
         },
         {
-            "id": "PHIL420",
+            "id": "MECH437",
             "position": {
-                "x": 1540,
+                "x": 1760,
                 "y": 600
             },
-            "학년": 3.0,
+            "학년": 4,
             "data": {
-                "label": "독일고전철학특강",
-                "학수번호": "PHIL420",
+                "label": "메카트로닉스",
+                "학수번호": "MECH437",
                 "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 0,
+                "전공역량": "창의적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "본 과목은 칸트철학과 헤겔철학을 중심으로 독일고전철학에 대한 심화 학습을 목표한다. "
+                "syllabus_kr": "  각종 센서 및 계측 시스템, 디지털 전자공학의 기초, DC모터, AC모터의 원리 및 제어, 마이크로프로세서의 구조, 컴퓨터 인터페이싱, 마이크로프로세서에 기초한 기계시스템의 설계 등의 주제를 강의와 실습을 통해서 취급한다._x000D_\n_x000D_\n "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1921,22 +1725,22 @@
             }
         },
         {
-            "id": "PHIL447",
+            "id": "MECH457",
             "position": {
-                "x": 1540,
+                "x": 1760,
                 "y": 700
             },
-            "학년": 3.0,
+            "학년": 4,
             "data": {
-                "label": "동양철학원전연구",
-                "학수번호": "PHIL447",
+                "label": "수치해석",
+                "학수번호": "MECH457",
                 "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "동양철학의 대표적인 고전을 선정하여, 전체 혹은 일부를 직접 강독하면서 그 의미를 논구한다. _x000D_\n"
+                "syllabus_kr": "수학문제를 컴퓨터를 이용하여 근사적인 수치해를 구하는 방법들, 즉  고차방정식의 근 및 선형 연립방정식의 근을 구하는 법, 근사식 및 보간법, 수치적인 미분과 적분, 상미분방정식 및 편미분 방정식 등의 수치해법을 다룬다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1949,22 +1753,22 @@
             }
         },
         {
-            "id": "PHIL450",
+            "id": "MECH463",
             "position": {
-                "x": 1540,
+                "x": 1760,
                 "y": 800
             },
-            "학년": 3.0,
+            "학년": 4,
             "data": {
-                "label": "유가철학특강",
-                "학수번호": "PHIL450",
+                "label": "마이크로프로세서프로그래밍",
+                "학수번호": "MECH463",
                 "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
+                "전공역량": "전공지식",
+                "개설학과": "기계공학부",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": " 이 과목의 목표는 선진시대의 원시유학과 송명대의 신유학을 철학치료의 관점에서 심층적으로 검토하는데 있다. 이 과목에서는 선진유학과 송명유학의 수양론을 인간의 잘못된 사고와 감정을 치유하고 교정하려는 철학치료(philosophical therapy) 또는 치료철학(medical ph"
+                "syllabus_kr": "기계요소설계, 자동제어, 전기전자공학, 메카트로닉스 등의 과목에서 학습한 내용을 종합하여, 지능기계의 해석, 설계, 제작 및 운영 능력을 배양한다. 본 과목은 이론 강의와 실습으로 구성되며, 메카니즘 설계, 컴퓨터 프로그래밍, 인터페이싱, 회로설계 및 성능평가 등을 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1977,22 +1781,22 @@
             }
         },
         {
-            "id": "PHIL452",
+            "id": "MECH471",
             "position": {
-                "x": 1540,
+                "x": 1760,
                 "y": 900
             },
-            "학년": 3.0,
+            "학년": 4,
             "data": {
-                "label": "도가철학특강",
-                "학수번호": "PHIL452",
+                "label": "종합설계",
+                "학수번호": "MECH471",
                 "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
+                "전공역량": "전공지식",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "도가철학의 주요 개념과 사유를 심도 있게 다루거나, 특정의 철학적 문제에 대한 도가철학적 관점을 탐구한다. "
+                "syllabus_kr": "산업 현장의 다양한 사례 연구를 통해 기계공학의 각종 원리들이 실제 문제에 어떻게 적용되는가를 이해하고, 다양한 기계공학 원리들의 종합적인 응용을 통해 설계문제에 대한 해결책을 구하는 능력을 배양한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2005,134 +1809,22 @@
             }
         },
         {
-            "id": "PHIL454",
-            "position": {
-                "x": 1540,
-                "y": 1000
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "한국철학연습",
-                "학수번호": "PHIL454",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "한국철학에서 중요시되는 특수한 주제들을 심도 있게 탐구한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL437",
-            "position": {
-                "x": 1760,
-                "y": 0
-            },
-            "학년": 4.0,
-            "data": {
-                "label": "서양철학연습",
-                "학수번호": "PHIL437",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "서양철학의 주요 쟁점과 이론들을 선별하여 비판적으로 검토한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL449",
-            "position": {
-                "x": 1760,
-                "y": 100
-            },
-            "학년": 4.0,
-            "data": {
-                "label": "서양고대철학원전연구",
-                "학수번호": "PHIL449",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "서양고대철학 관련 작품을 강독한다. 특히 플라톤 대화편과 아리스토텔레스 주요작품을 직접 읽고 그 내용과 의미를 이해한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL460",
-            "position": {
-                "x": 1760,
-                "y": 200
-            },
-            "학년": 4.0,
-            "data": {
-                "label": "철학연구방법론",
-                "학수번호": "PHIL460",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 강좌는 철학 이론에서 사용되는 여러 방법을 탐구한다. 강의 내용은 주로 철학적인 논쟁에 들어있는 방법론적인 고찰에 대한 예시와 다양한 철학적인 방법의 수용가능성에 관한 토론으로 구성된다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL451",
+            "id": "MECH424",
             "position": {
                 "x": 1980,
                 "y": 0
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "유가와민주주의",
-                "학수번호": "PHIL451",
+                "label": "연소공학",
+                "학수번호": "MECH424",
                 "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 0,
+                "전공역량": "공학문제식별능력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "이 과목은 동아시아의 전통사상인 유학이 민주주의와 어떻게 융합될 수 있는지 탐색하는 것을 그 목적으로 한다. 오늘날 중국에서 유학이 다시 소환되는 맥락이 ‘민주주의’, ‘자본주의’라는 정치경제의 이념적인 체제 경쟁과 연동됨을 탐색하고 전통적 사유의 해석과 재 "
+                "syllabus_kr": "연소에 관련된 이론과 화염의 응용 및 제어, 즉 연소 효율 증대, 공해 물질 생성 억제 및 추진 등을 다룬다. 이를 위하여 화학반응이 수반되는 유동에서의 운동량, 열 및 물질 전달의 복합적인 현상에 대해 이론을 다룬다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2145,22 +1837,22 @@
             }
         },
         {
-            "id": "PHIL453",
+            "id": "MECH436",
             "position": {
                 "x": 1980,
                 "y": 100
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "중국신유학특강",
-                "학수번호": "PHIL453",
+                "label": "응용유체역학",
+                "학수번호": "MECH436",
                 "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
+                "전공역량": "창의적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "이 과목은 명말청초에서 20세기 중반에 이르는 중국의 주요 유가철학자들의 사상을 검토하는 것을 그 목적으로 한다. 그 흐름 속에서 우리는 전통유학의 근대적 전환과 현대신유학의 등장을 확인할 수 있다. 이 과목을 통해 동아시아의 전통적 사유가 집중했던 문제, 그리고 "
+                "syllabus_kr": "유체역학 이론과 유동실험 동영상 교재를 통하여 다양한 유동 현상의 물리적 특성을 배우고, 이를 이용한 유체역학적 설계 기술을 습득한다. 특히 유동에 의해 발생하는 항력, 양력, 소음 등을 최적화 할 수 있는 제어 기술들을 고찰하고, 전산해석 S/W를 이용하여 이를 최적"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2168,6 +1860,230 @@
             "style": {
                 "backgroundColor": "#f8f8f8",
                 "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH446",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "학년": 4,
+            "data": {
+                "label": "재료거동학",
+                "학수번호": "MECH446",
+                "세부전공": null,
+                "전공역량": "지식융합능력",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "고체역학과 기계재료학의 기본 개념을 바탕으로 기계부품 설계의 핵심요소인 소성 평가, 파괴강도 평가, 피로 수명 설계, 크리프파손및 산화와 관련된 이론을 공부함으로서 궁극적으로 신소재를 이용한 새로운 기계/전자 부품의 설계 및 신뢰성 평가를 위한 기초 지식을 습득"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH460",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "학년": 4,
+            "data": {
+                "label": "생산공학",
+                "학수번호": "MECH460",
+                "세부전공": null,
+                "전공역량": "창의적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "폴리머, 복합 재료 및 세라믹의 가공과 첨단 생산 및 가공 시스템을 다루며, 생산 일정 계획, 생산 자동화 및 통합 생산 시스템(CAD/CAM, FMS), 최적화, 경제성 평가 등에 대해 공부한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH482",
+            "position": {
+                "x": 1980,
+                "y": 400
+            },
+            "학년": 4,
+            "data": {
+                "label": "나노공학입문",
+                "학수번호": "MECH482",
+                "세부전공": null,
+                "전공역량": "전공지식",
+                "개설학과": "기계공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목에서는 우선 에너지와 물질의 연속성에 기반한 고전적 역학체계에 익숙한 기계공학 전공자들이 나노공학을 이해할 수 있도록 기본적인 양자역학, 통계역학 등 나노공학을 이해하는데 필요한 기초적인 이론을 소개한다. 이를 토대로 나노 계측 기법, 나노물질 제조 기 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH483",
+            "position": {
+                "x": 1980,
+                "y": 500
+            },
+            "학년": 4,
+            "data": {
+                "label": "로봇공학",
+                "학수번호": "MECH483",
+                "세부전공": null,
+                "전공역량": "전공지식",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 로봇 머니퓰레이터와 이동로봇의 해석 및 설계에 대한 기본을 강의한다. 로봇기구학(동차변환 및 역기구학, 속도기구학), 정역학, 동역학(순동역학 및 역동역학), 궤적계획 및 생성, 오프라인 프로그래밍, 산업용 로봇의 액츄에이터 및 센서, 로봇 제어, 이동로봇의 구조 및"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH492",
+            "position": {
+                "x": 1980,
+                "y": 600
+            },
+            "학년": 4,
+            "data": {
+                "label": "자동차공학",
+                "학수번호": "MECH492",
+                "세부전공": null,
+                "전공역량": "종합적사고력",
+                "개설학과": "기계공학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MECH498",
+            "position": {
+                "x": 1980,
+                "y": 700
+            },
+            "학년": 4,
+            "data": {
+                "label": "학부논문연구",
+                "학수번호": "MECH498",
+                "세부전공": null,
+                "전공역량": "전공지식",
+                "개설학과": "기계공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목에서는 학부학생들로 하여금 직접 연구를 수행하고, 학위논문을 쓰게 하여 연구에 대한 이해를 높이고 학위논문작성법을 익히게 한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EGRN430",
+            "position": {
+                "x": 1980,
+                "y": 800
+            },
+            "학년": 4,
+            "data": {
+                "label": "공학인턴십Ⅰ",
+                "학수번호": "EGRN430",
+                "세부전공": null,
+                "전공역량": "문제해결능력",
+                "개설학과": "공과대학",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인턴쉽프로그램을 통해 수업에서 배운 이론을 실제로 적용하는 기회를 제공한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EGRN440",
+            "position": {
+                "x": 1980,
+                "y": 900
+            },
+            "학년": 4,
+            "data": {
+                "label": "공학인턴십Ⅱ",
+                "학수번호": "EGRN440",
+                "세부전공": null,
+                "전공역량": "문제해결능력",
+                "개설학과": "공과대학",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인턴쉽프로그램을 통해 R&D 분야와 같은 다양한 공학 현장에서 이론과 기술적 사항들을 실제 적용하는 기회를 제공한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }

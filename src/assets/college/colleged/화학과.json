@@ -353,57 +353,169 @@
             }
         },
         {
-            "id": "LESE151",
+            "id": "MATH161",
             "position": {
                 "x": 440,
                 "y": 600
             },
             "학년": 1,
             "data": {
-                "label": "식품자원경제학개론",
-                "학수번호": "LESE151",
+                "label": "미적분학및연습I",
+                "학수번호": "MATH161",
                 "세부전공": null,
-                "전공역량": "[창의·융합] 통합적사고",
-                "개설학과": "식품자원경제학과",
+                "전공역량": null,
+                "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "식품자원경제의 기본개념과 문제들을 이론적으로 파악하고, 기초적인 경제이론 및 분석도구를 이해시켜 식품산업분야에 응용하는 능력을 배양한다. _x000D_\n"
+                "syllabus_kr": "일계함수의 미분과 적분, 적분의 응용, 극좌표계, 수열과 급수, 벡터와 벡터 공간"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #92c3a5",
+                "border": "2px solid #F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "LESE153",
+            "id": "CHEM151",
             "position": {
                 "x": 440,
                 "y": 700
             },
             "학년": 1,
             "data": {
-                "label": "시장과경제",
-                "학수번호": "LESE153",
+                "label": "일반화학및연습 I",
+                "학수번호": "CHEM151",
                 "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
+                "전공역량": "전문가적 사고|통합적 사고|창의적 사고|문제 해결적 사고",
+                "개설학과": "화학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "소비자, 생산자의 경제적 행위를 분석하고 그들이 모여서 이루어진 시장의 기능과 역할 및 우리 사회가 가지고 있는 경제 문제들이 어떻게 해결되는지를 논의한다._x000D_\n"
+                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #92c3a5",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM153",
+            "position": {
+                "x": 440,
+                "y": 800
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반화학실험 I",
+                "학수번호": "CHEM153",
+                "세부전공": null,
+                "전공역량": "전문가적 사고|통합적 사고|창의적 사고|문제 해결적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS151",
+            "position": {
+                "x": 440,
+                "y": 900
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반물리학및연습 I",
+                "학수번호": "PHYS151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 물리량을 기술하는 방법, Newton 역학, 파동현상, 열역학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS152",
+            "position": {
+                "x": 440,
+                "y": 1000
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반물리학및연습 II",
+                "학수번호": "PHYS152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 전자기학, 광학 및 현대물리학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습시간에 과제물에 대한 문제 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS161",
+            "position": {
+                "x": 440,
+                "y": 1100
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반물리학실험 I",
+                "학수번호": "PHYS161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일반물리학및연습 I 에서 강의 및 문제풀이로 배우는 내용을 실험을 통해서 배우는 과목이다. 주요 내용은 date분석법, Newton 역학, 파동현상, 열역학에 관한 실험이다. 한번 3시간 실험으로 진행되며, 2인 1조를 원칙으로 하고, 8개조가 한 반을 구성하여 조교 및 교수의  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -465,50 +577,274 @@
             }
         },
         {
-            "id": "LESE154",
+            "id": "MATH162",
             "position": {
                 "x": 660,
                 "y": 200
             },
             "학년": 1,
             "data": {
-                "label": "세계화와국가경제",
-                "학수번호": "LESE154",
+                "label": "미적분학및연습II",
+                "학수번호": "MATH162",
                 "세부전공": null,
-                "전공역량": "[공감·소통] 다문화포용",
-                "개설학과": "식품자원경제학과",
+                "전공역량": null,
+                "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "경제 전체의 소득, 물가, 고용이 어떻게 결정되며, 정부의 정책, 대외 교역 등이 부의 성장에 어떻게 영향을 주는 지에 대해 논의한다._x000D_\n"
+                "syllabus_kr": "다변수 함수의 미분, 다중적분, 선적분, 곡면적분, 발산정리"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #92c3a5",
+                "border": "2px solid #F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "LESE152",
+            "id": "CHEM152",
             "position": {
                 "x": 660,
                 "y": 300
             },
             "학년": 1,
             "data": {
-                "label": "경제통계학",
-                "학수번호": "LESE152",
+                "label": "일반화학및연습 II",
+                "학수번호": "CHEM152",
                 "세부전공": null,
-                "전공역량": "[창의·융합] 통합적사고",
-                "개설학과": "식품자원경제학과",
+                "전공역량": "전문가적 사고|통합적 사고|창의적 사고|문제 해결적 사고",
+                "개설학과": "화학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "경제연구에 필요한 통계학적 분석방법 및 원리를 이해시키고 생산 및 수요 추정을 위한 계량경제학적 기초를 이해하도록 한다._x000D_\n"
+                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM156",
+            "position": {
+                "x": 660,
+                "y": 400
+            },
+            "학년": 1,
+            "data": {
+                "label": "화학수학",
+                "학수번호": "CHEM156",
+                "세부전공": null,
+                "전공역량": "전문가적 사고|통합적 사고|창의적 사고|문제 해결적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "화학 및 과학을 전공하는 학부생들에게 필요한 기초적인 수학을 정리함. 교과과정을 통해서 학생들이 기수학한 수학의 복습과 물리과학을 공부하는데 필요한 새로운 수학기술을 소개함. 미적분학, 미분방정식, 선형대수 외에 실질적으로 화학 문제를 해결하는데 필수적인 수 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM160",
+            "position": {
+                "x": 660,
+                "y": 500
+            },
+            "학년": 1,
+            "data": {
+                "label": "고급일반화학실험",
+                "학수번호": "CHEM160",
+                "세부전공": null,
+                "전공역량": "전문가적 사고|통합적 사고|창의적 사고|문제 해결적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일반화학 강의에서 배운 기초지식을 바탕으로 화합물의 합성과 구조분석 및 구조-물성 상관 관계에 대한 보다 심도 있는 실험을 수행한다. 또한, 현재 실제 연구실에서 사용하고 있는 화합물의 최첨단 구조분석 장비를 이용하여 화합물의 분석 원리, 화학적 물리적 특성 등에"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS162",
+            "position": {
+                "x": 660,
+                "y": 600
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반물리학실험 II",
+                "학수번호": "PHYS162",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일반물리학및연습 II 에서 강의 및 문제풀이로 배우는 내용을 실험을 통해서 배우는 과목이다. 주요 내용은 date분석법, Newton 역학, 파동현상, 열역학에 관한 실험이다. 한번 3시간 실험으로 진행되며, 2인 1조를 원칙으로 하고, 8개조가 한 반을 구성하여 조교 및 교수의 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH221",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "학년": 2,
+            "data": {
+                "label": "선형대수Ⅰ및연습",
+                "학수번호": "MATH221",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "벡터 공간과 연립 일차 방정식, 선형사상과 행렬, 내적 벡터 공간, 행렬식"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH240",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "학년": 2,
+            "data": {
+                "label": "미분방정식및연습",
+                "학수번호": "MATH240",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일차 상미분 방성식, 이차 선형 상미분 방정식, 이차 선형 상미분 방정식에 대한 급수해, 고차 선형 상미분 방정식, Laplace 변환"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIST201",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "세포생물학Ⅰ",
+                "학수번호": "LIST201",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명체의 기본단위인 세포들의 일반적 구조와 기능, 세포들과 주위의 미세환경과의 상호연관관계에 관한 특성을 강의한다_x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS233",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "학년": 2,
+            "data": {
+                "label": "수리물리학",
+                "학수번호": "PHYS233",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "학부에서 필수적으로 수강하는 고전역학, 전자기학 및 양자역학에서 필요한 수학적인 방법을 강의한다. 강의 내용으로는 고급 미적분학, 수열, 행렬, 복소함수론, 미분방정식 등을 배운다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM201",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "학년": 2,
+            "data": {
+                "label": "물리화학Ⅰ",
+                "학수번호": "CHEM201",
+                "세부전공": null,
+                "전공역량": "전문가적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "물리학의 기본원리인 열역학과 양자역학의 개념을 습득하고 이를 적용하여 화합물의 성질 및 반응을 배운다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -521,22 +857,22 @@
             }
         },
         {
-            "id": "LESE155",
+            "id": "CHEM207",
             "position": {
                 "x": 880,
-                "y": 0
+                "y": 500
             },
             "학년": 2,
             "data": {
-                "label": "응용경제수학",
-                "학수번호": "LESE155",
+                "label": "분석화학Ⅰ",
+                "학수번호": "CHEM207",
                 "세부전공": null,
-                "전공역량": "[창의·융합] 통합적사고",
-                "개설학과": "식품자원경제학과",
+                "전공역량": "전문가적 사고",
+                "개설학과": "화학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "경제학 전공을 위한 기본도구과목으로서 경제분석에 대한 수학의 응용이 주된 내용이며 미적분, 행렬, 미분방정식, 시차방정식, 선형계획 등을 경제학에 응용한다._x000D_\n"
+                "syllabus_kr": "이 과목은 분석화학의 첫 번째 과목으로서, 분석화학의 원리에 대해서 배우며 물질에 대한 성분 분석(정석분석)과 양의 측정(정량분석)에 관한 기본 지식을 다룸. 주된 내용으로는 화합물 측정, 오차, 통계, 평형, 활성도, 산-염기, 적정, 질량분석 및 액체크로마토 그래피가"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -549,246 +885,134 @@
             }
         },
         {
-            "id": "LESE205",
+            "id": "CHEM205",
             "position": {
                 "x": 880,
-                "y": 100
+                "y": 600
             },
             "학년": 2,
             "data": {
-                "label": "공공경제학",
-                "학수번호": "LESE205",
+                "label": "유기화학Ⅰ",
+                "학수번호": "CHEM205",
                 "세부전공": null,
-                "전공역량": "[창의·융합] 통합적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "공공부문의 투자재원조달, 공공재 이론 및 비시장배분을 포함한 공공선택이론을 이해시키고 공공투자분석, 공공부문 가격결정, 농지세 등의 과세이론과 재정정책을  강의한다_x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE207",
-            "position": {
-                "x": 880,
-                "y": 200
-            },
-            "학년": 2,
-            "data": {
-                "label": "응용계량경제학",
-                "학수번호": "LESE207",
-                "세부전공": null,
-                "전공역량": "[창의·융합] 창의적사고",
-                "개설학과": "식품자원경제학과",
+                "전공역량": "전문가적 사고",
+                "개설학과": "화학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "회귀모형의 이해, 추정 및 통계적 추리, 그리고 계량경제모형에 대한 응용능력을 배양한다._x000D_\n"
+                "syllabus_kr": "유기화합물들의 명명법, 구조-성질 관계, 반응성, 반응메카니즘과 합성에 대해 자세히 배우며, 유기물질의 구조 결정을 위한 화학적 및 분광학적 방법들에 대해 익힌다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "LESE230",
-            "position": {
-                "x": 880,
-                "y": 300
-            },
-            "학년": 2,
-            "data": {
-                "label": "기후변화와국제식량안보",
-                "학수번호": "LESE230",
-                "세부전공": null,
-                "전공역량": "[창의·융합] 문제해결",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "농업과 식량 생산은 그 본질적인 특성 때문에 기후변화의 위험에 지속적으로 노출되어 있다. 본 과목에서는 이러한 농업과 식량 생산의 특성을 고려하여 기후변화와 국제 식량안보 간의 상호작용을 경제학적으로 접근한다. 특히, 기후위험이 국제적으로 또 국지적으로 식량 생산과 식량안보에 어떠한 영향을 미치는지를 이해하고, 기후변화에 대한 저항성과 식량안보 및 농업 발전을 이루기 위한 정책적 도구들을 학습한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE209",
-            "position": {
-                "x": 880,
-                "y": 400
-            },
-            "학년": 2,
-            "data": {
-                "label": "미시경제분석",
-                "학수번호": "LESE209",
-                "세부전공": null,
-                "전공역량": "[창의·융합] 창의적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "소비자이론, 생산자이론, 자원의 분배 등 미시경제에 대한 전반적인 문제를 다루고 이들 이론의 응용에 대해 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE221",
-            "position": {
-                "x": 880,
-                "y": 500
-            },
-            "학년": 2,
-            "data": {
-                "label": "보건경제학원론",
-                "학수번호": "LESE221",
-                "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "경제학의 기본이론과 분석방법에 대한 이해를 토대로 이를 보건의료서비스부문에 응용함으로써 보건의료서비스의 생산, 분배 및 소비에 관한 이해와 그와 관련된 정책수단 및 정책효과를 강론함. 구체적으로 보건의료서비스의 수요와 공급결정요인 및 의료보험이 보건의료서 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE210",
+            "id": "CHEM202",
             "position": {
                 "x": 1100,
                 "y": 0
             },
             "학년": 2,
             "data": {
-                "label": "식품마케팅",
-                "학수번호": "LESE210",
+                "label": "물리화학Ⅱ",
+                "학수번호": "CHEM202",
                 "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 4,
+                "전공역량": "전문가적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "식료품의 유통과 분배에 관련된 일반적인 법칙을 경제학적으로 규명하고 이에 대한 사경제적 내지 국민경제적 측면에서의 역할을 강독한다._x000D_\n"
+                "syllabus_kr": "물리학의 기본원리인 열역학과 양자역학의 개념을 습득하고 이를 적용하여 화합물의 성질 및 반응을 배운다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "LESE212",
+            "id": "CHEM206",
             "position": {
                 "x": 1100,
                 "y": 100
             },
             "학년": 2,
             "data": {
-                "label": "응용후생경제학",
-                "학수번호": "LESE212",
+                "label": "유기화학Ⅱ",
+                "학수번호": "CHEM206",
                 "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 3,
+                "전공역량": "전문가적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "파레토 최적의 시장균형, 복지수준의 측정, 사회복지함수, 정부정책의 역할과 기능 등의 기본개념을 살피고, 실제 응용에 대해서 논의한다._x000D_\n"
+                "syllabus_kr": "유기화합물들의 명명법, 구조-성질 관계, 반응성, 반응메카니즘과 합성에 대해 자세히 배우며, 유기물질의 구조 결정을 위한 화학적 및 분광학적 방법들에 대해 익힌다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "LESE216",
+            "id": "CHEM214",
             "position": {
                 "x": 1100,
                 "y": 200
             },
             "학년": 2,
             "data": {
-                "label": "거시경제분석",
-                "학수번호": "LESE216",
+                "label": "유기화학실험",
+                "학수번호": "CHEM214",
                 "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
+                "전공역량": "문제 해결적 사고",
+                "개설학과": "화학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "국민소득의 결정과 관련된 여러 가지 거시경제모형에 대해 고찰하고 정부 정책의 효과에 대해 강의한다._x000D_\n"
+                "syllabus_kr": "잘알려진 유기반응들을 통해 유기화합물의 분리, 정제, 확인 및 합성에 필요한 실험기술과 방법등을 익힌다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "LESE218",
+            "id": "CHEM208",
             "position": {
                 "x": 1100,
                 "y": 300
             },
             "학년": 2,
             "data": {
-                "label": "식품산업조직론",
-                "학수번호": "LESE218",
+                "label": "분석화학Ⅱ *",
+                "학수번호": "CHEM208",
                 "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 4,
+                "전공역량": "전문가적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "식품산업의 시장구조, 협동조합과 기업행동, 시장성과의 결정요인과 이에 대한 다양한 공공정책에 관한 이론적, 실증적, 제도적 분석을 주 내용으로 한다._x000D_\n"
+                "syllabus_kr": "이 과목은 분석화학의 두 번째 과목으로서, 분석화학의 원리에 대해서 배우며 물질에 대한 성분 분석(정석분석)과 양의 측정(정량분석)에 관한 기본 지식을 다룸. 주된 내용으로는 전기화학기초, 전기화학적 분석, 산화 환원 적정 분광학 기초, 분광학 응용, 침전 적정, 연소"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -801,442 +1025,246 @@
             }
         },
         {
-            "id": "LESE318",
+            "id": "CHEM391",
             "position": {
                 "x": 1320,
                 "y": 0
             },
             "학년": 3,
             "data": {
-                "label": "실험경제학",
-                "학수번호": "LESE318",
+                "label": "화학교과교육론",
+                "학수번호": "CHEM391",
                 "세부전공": null,
-                "전공역량": "[공감·소통] 다문화포용",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 5,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": " "
+                "syllabus_kr": "체계적인 중등 화학 교육이 이루어지도록 중등학교의 화학 교육과정을 비교 분석하며, 교직과정 이수자에게 개설됨._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #ccc",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "LESE307",
+            "id": "SCED303",
             "position": {
                 "x": 1320,
                 "y": 100
             },
             "학년": 3,
             "data": {
-                "label": "애그리비지니스세미나",
-                "학수번호": "LESE307",
+                "label": "과학교과논리및논술",
+                "학수번호": "SCED303",
                 "세부전공": null,
-                "전공역량": "[창의·융합] 통합적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 1,
+                "전공역량": null,
+                "개설학과": "이과대학",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "농업의 전후방 산업을 포함하는 애그리비지니스의 발전 과정, 최근 동향,  그리고 향후 전망 등에 관하여 조사, 분석하고 토의한다. 본 강의는 학생들이 직접 참여하는 세미나 형식으로 운영되어, 학생들이 애그리비지니스에 대하여 보다 직접적이고 긴밀한 지식과 이해를 가"
+                "syllabus_kr": "과학 지식 습득 과정에 필요한 논리적 서술 즉 말하기와 글쓰기 능력 습득"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #ccc",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "LESE309",
+            "id": "CHEM394",
             "position": {
                 "x": 1320,
                 "y": 200
             },
             "학년": 3,
             "data": {
-                "label": "국제식품정책론",
-                "학수번호": "LESE309",
+                "label": "화학교과교재연구및지도법",
+                "학수번호": "CHEM394",
                 "세부전공": null,
-                "전공역량": "[창의·융합] 사회공헌",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 2,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "세계 농업 및 식품정책의 변화가 농업과 일반경제에 미치는 효과와 거시경제와 국민경제의 변화가 농업과 식품산업에 미치는 영향을 분석한다._x000D_\n"
+                "syllabus_kr": "중등학교 화학 교사 지망자들을 위해 일반화학 수준의 강의 방법과 교재 이용법을 소개한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #ccc",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "LESE313",
+            "id": "LIST301",
             "position": {
                 "x": 1320,
                 "y": 300
             },
             "학년": 3,
             "data": {
-                "label": "불확실성과경제행위",
-                "학수번호": "LESE313",
+                "label": "분자생물학Ⅰ",
+                "학수번호": "LIST301",
                 "세부전공": null,
-                "전공역량": "[창의·융합] 통합적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 3,
+                "전공역량": null,
+                "개설학과": "생명과학대학",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "개인의 의사결정과 그것이 시장에 미치는 영향을 분석하는 미시경제분석에 주안점을 두고, 불확실성하의 경제분석에서의 기본개념과 실제 응용에 대해서 논의한다._x000D_\n"
+                "syllabus_kr": "생명현상을 분자수준에서 이해를 도모한다. 특히 유전자의 구조, 기능, 발현 및 조절 등 기작을 포함하여 재조합, 전환, 신호 전달현상 등을 심도 있게 다루며 또한 주요 유전자 조작기법의 원리를 강의한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "LESE317",
+            "id": "PHYS304",
             "position": {
                 "x": 1320,
                 "y": 400
             },
             "학년": 3,
             "data": {
-                "label": "식품소비자경제학",
-                "학수번호": "LESE317",
+                "label": "현대물리학실험",
+                "학수번호": "PHYS304",
                 "세부전공": null,
-                "전공역량": "[창의·융합] 통합적사고",
-                "개설학과": "식품자원경제학과",
+                "전공역량": null,
+                "개설학과": "물리학과",
                 "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "소비자의 식품소비행태 결정요인과, 기업의 마케팅과 정책에 의한 구매행위의 변화를 분석할 수 있는 방법론 강의_x000D_\n"
+                "syllabus_kr": null
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "LESE319",
+            "id": "CHEM305",
             "position": {
                 "x": 1320,
                 "y": 500
             },
             "학년": 3,
             "data": {
-                "label": "응용재무경제학",
-                "학수번호": "LESE319",
+                "label": "무기화학Ⅰ",
+                "학수번호": "CHEM305",
                 "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
+                "전공역량": "전문가적 사고",
+                "개설학과": "화학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "기업재무, 투자, 금융기관이 직면하는 다양한 문제를 해결하기 위한 경제 이론과 실증분석방법에 대해 강의한다. _x000D_\n"
+                "syllabus_kr": "분자구조에 관한 현대적 이론인 군이론으로 분제궤도함수이론을 이해하고 착물화학에 관한 전반적인 개념을 배운다. 착물의 흡수스펙트럼에 관한 이론 및 해석방법과 반응메카니즘을 다룬다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "LESE321",
+            "id": "CHEM307",
             "position": {
                 "x": 1320,
                 "y": 600
             },
             "학년": 3,
             "data": {
-                "label": "에너지경제론",
-                "학수번호": "LESE321",
+                "label": "생화학Ⅰ",
+                "학수번호": "CHEM307",
                 "세부전공": null,
-                "전공역량": "[창의·융합] 문제해결",
-                "개설학과": "식품자원경제학과",
+                "전공역량": "통합적 사고",
+                "개설학과": "화학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "인류경제의 지속가능성을 위한 효율적인 에너지 체계의 달성이 요구되는 바, 다양한 에너지원의 수요 및 공급, 개발에 관한 이해능력과 응용방법을 소개한다._x000D_\n"
+                "syllabus_kr": "생명 현상에 중요한 화학과 화합물을 다룬다. 대사과정과 효소에 의한 생화학반응의 촉매, 생합성과정 등에 따르는 물리화학적인 면도 살펴본다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "LESE302",
+            "id": "CHEM313",
             "position": {
-                "x": 1540,
-                "y": 0
-            },
-            "학년": 3,
-            "data": {
-                "label": "환경경제학",
-                "학수번호": "LESE302",
-                "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "환경문제에 관련된 경제학의 기초개념과 주요 환경경제이론을 이해시키고, 외부성 문제에 대한 접근방안, 환경오염의 유형별 경제분석 및 정책대응 등을 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE304",
-            "position": {
-                "x": 1540,
-                "y": 100
-            },
-            "학년": 3,
-            "data": {
-                "label": "자원환경정책",
-                "학수번호": "LESE304",
-                "세부전공": null,
-                "전공역량": "[창의·융합] 통합적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "자연자원과 환경에 대한 경제이론 및 정책문제를 강의하고, 이용·개발·보전에 영향을 미치는 경제적 제도적 요인을 분석하며, 세대간 자원관리문제와 자연환경문제에 대한 자원정책 이론과 기법을 응용하는 능력을 배양한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE306",
-            "position": {
-                "x": 1540,
-                "y": 200
-            },
-            "학년": 3,
-            "data": {
-                "label": "식품산업재무관리",
-                "학수번호": "LESE306",
-                "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "농업과 식품산업에 있어서 자금의 조달, 투자의사결정, 위험 하에서 자기자본의 보호, 재무분석, 농산업금융기관의 기능과 농산업금융정책에 대하여 논의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE308",
-            "position": {
-                "x": 1540,
-                "y": 300
-            },
-            "학년": 3,
-            "data": {
-                "label": "상품선물및옵션거래",
-                "학수번호": "LESE308",
-                "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "상품 선물 및 옵션 시장과 거래에 관련된 기본적인 이해를 제공하기 위하여, 선물 거래의 이론, 거래 방법, 제 규정 등을 다룬다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE312",
-            "position": {
-                "x": 1540,
-                "y": 400
-            },
-            "학년": 3,
-            "data": {
-                "label": "자원가치평가론",
-                "학수번호": "LESE312",
-                "세부전공": null,
-                "전공역량": "[창의·융합] 문제해결",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "자연자원과 환경자원의 가치평가에 관한 이론과 방법론을 이해시키고, 후생변화측정과 간접편익 추정의 기초이론, 확대비용편익 평가방법과 비시장가치 평가방법 특히 여행비용평가법, 특성가격평가법, 임의가치평가법 등에 대하여 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE314",
-            "position": {
-                "x": 1540,
-                "y": 500
-            },
-            "학년": 3,
-            "data": {
-                "label": "국제농산물무역론",
-                "학수번호": "LESE314",
-                "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "농산물무역에 관련된 기초이론, 무역의 패턴, 자유무역과 보호무역의 배경, 농산물무역정책의 분석 등에 관하여 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE322",
-            "position": {
-                "x": 1540,
-                "y": 600
-            },
-            "학년": 3,
-            "data": {
-                "label": "노년경제학",
-                "학수번호": "LESE322",
-                "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "요즘 사회문제화 되고 있는 고령화 현상이 경제 각 분야에 미치는 영향을 분석하고 특히 고령화 현상으로 인한 의료비 급증 문제 및 long-term care service의 효율적인 공급과 관련된 제 현상을 분석하고 이를 활용하여 이 문제에 대한 정부의 각종 정책에 대한 효과분석을 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE324",
-            "position": {
-                "x": 1540,
+                "x": 1320,
                 "y": 700
             },
             "학년": 3,
             "data": {
-                "label": "바이오산업시장론",
-                "학수번호": "LESE324",
+                "label": "물리화학실험",
+                "학수번호": "CHEM313",
                 "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 3,
+                "전공역량": "문제 해결적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "인류경제의 지속가능성을 위한 효율적인 에너지 체계의 달성이 요구되는 바, 다양한 에너지원의 수요 및 공급, 개발에 관한 이해능력과 응용방법을 소개한다. _x000D_\n"
+                "syllabus_kr": "물리화학적 개념의 이해를 돕기 위해, 다양한 형태의 실험을 수행하고, 이를 위해 필요한 실험방법 습득 및 실험기기제작 실제 경험 등을 배운다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "LESE326",
+            "id": "CHEM321",
             "position": {
-                "x": 1540,
+                "x": 1320,
                 "y": 800
             },
             "학년": 3,
             "data": {
-                "label": "식품안전경제학",
-                "학수번호": "LESE326",
+                "label": "양자화학 *",
+                "학수번호": "CHEM321",
                 "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 4,
+                "전공역량": "창의적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "_x000D_\n최근 식품안전 문제는 식품에 대한 소비자의 인식과 소비패턴, 식품생산 및 국민보건에 이르기까지 많은 영향을 미치고 있다. 본 과목에서는 식품안전 문제와 관련하여 식품소비자의 의사결정에 어떠한 요인들이 합리적 의사결정의 장애요인으로 작용하는지 살펴보고 이와 "
+                "syllabus_kr": "양자역학적 사고력과 계산능력을 기른 다음, 그 원칙을 원자구조, 전자의 겹침과 화학 결합, 분자의 반응성 등에 응용한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1249,22 +1277,22 @@
             }
         },
         {
-            "id": "LESE328",
+            "id": "CHEM322",
             "position": {
-                "x": 1540,
+                "x": 1320,
                 "y": 900
             },
             "학년": 3,
             "data": {
-                "label": "국제농업개발협력론",
-                "학수번호": "LESE328",
+                "label": "물리유기화학 *",
+                "학수번호": "CHEM322",
                 "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
+                "전공역량": "통합적 사고",
+                "개설학과": "화학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "_x000D_\n국제식량수급 현황과 변화요인에 관한 분석을 바탕으로 국제농업개발과 협력에 관한 이론과 사례를 학습한다. 개도국을 위한 지속가능한 개발전략의 수립과 관련해 UN, OECD 등 국제기구의 연구와 활동을 학습하고, 한국이 이에 협력하고 추구할 방향을 논의한다."
+                "syllabus_kr": "유기반응을 체계화하여 반응 메커니즘, 분자구조와 반응성 및 화학적 성질 사이의 관계를 다룬다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1277,50 +1305,50 @@
             }
         },
         {
-            "id": "LESE407",
+            "id": "CHEM308",
             "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 0
             },
-            "학년": 4,
+            "학년": 3,
             "data": {
-                "label": "부동산경제론",
-                "학수번호": "LESE407",
+                "label": "무기화학Ⅱ",
+                "학수번호": "CHEM308",
                 "세부전공": null,
-                "전공역량": "[창의·융합] 문제해결",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 4,
+                "전공역량": "창의적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "토지 및 주택 등 부동산에 대한 경제적 이론과 접근방법 그리고 지가문제, 주택문제, 국토계획과 부동산거래 등 부동산 관련 정책에 대해 강의한다._x000D_\n"
+                "syllabus_kr": "생명 현상에 중요한 화학과 화합물을 다룬다. 대사과정과 효소에 의한 생화학반응의 촉매, 생합성과정 등에 따르는 물리화학적인 면도 살펴본다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "LESE411",
+            "id": "CHEM300",
             "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 100
             },
-            "학년": 4,
+            "학년": 3,
             "data": {
-                "label": "응용경제세미나",
-                "학수번호": "LESE411",
+                "label": "전공심화연구I",
+                "학수번호": "CHEM300",
                 "세부전공": null,
-                "전공역량": "[창의·융합] 문제해결",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 2,
+                "전공역량": "전문가적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "식품유통과 소비분석, 정보경제와 후생경제, 응용재무관리와 금융경제, 자원·환경경제, 보건의료경제, 식품·자원·보건정책, 국제무역과 국제금융시장, 애그리비지니스, 선물거래와 가격분석 등 응용경제학 분야에 관련된 주요 이슈들에 대해 토의와 강의한다._x000D_\n"
+                "syllabus_kr": "현재 화학연구에서 실재로 사용되는 실험, 이론적 연구방법을 실험실 체험을 통하여 직접 습득하여 현대화학연구의 전반적 연구방향과 연구방법에 대한 심화된 이해를 돕는다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1333,78 +1361,22 @@
             }
         },
         {
-            "id": "LESE413",
+            "id": "CHEM326",
             "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 200
             },
-            "학년": 4,
+            "학년": 3,
             "data": {
-                "label": "법경제학",
-                "학수번호": "LESE413",
+                "label": "기기분석",
+                "학수번호": "CHEM326",
                 "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "법경제학은 경제이론이 법, 제도 및 거래비용을 고려하지 않음으로 인해 발생하는 문제를 해결하기 위해 Coase의 거래비용 이론에 기초하여 법, 제도의 경제학적 분석을 공부한다. 구체적으로 사유재산권제도, 계약법, 불법행위법을 공부한다._x000D_\n_x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE406",
-            "position": {
-                "x": 1980,
-                "y": 0
-            },
-            "학년": 4,
-            "data": {
-                "label": "국제통상협상론",
-                "학수번호": "LESE406",
-                "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국제통상협상과 관련된 경제이론과 WTO, FTA 협상과 관련된 다양한 사례에 대한 강의와 토의한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE408",
-            "position": {
-                "x": 1980,
-                "y": 100
-            },
-            "학년": 4,
-            "data": {
-                "label": "계량분석론",
-                "학수번호": "LESE408",
-                "세부전공": null,
-                "전공역량": "[창의·융합] 창의적사고",
-                "개설학과": "식품자원경제학과",
+                "전공역량": "전문가적 사고",
+                "개설학과": "화학과",
                 "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "정책분석과 경제예측에 활용되는 최적화방법론과 시뮬레이션, 시계열분석에 대한 실증연구방법에 대해 강의와 토론한다. _x000D_\n"
+                "syllabus_kr": "연구대상 물질에 들어 있는 원소와 화합물의 확인 및 정량을 위한 여러종류의 분광분석법, 전자분광법, 질량분석법, 분리등의 원리와 관련지식을 다룬다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1417,22 +1389,190 @@
             }
         },
         {
-            "id": "LESE410",
+            "id": "CHEM328",
             "position": {
-                "x": 1980,
+                "x": 1540,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "생화학Ⅱ",
+                "학수번호": "CHEM328",
+                "세부전공": null,
+                "전공역량": "통합적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명 현상에 중요한 화학과 화합물을 다룬다. 대사과정과 효소에 의한 생화학반응의 촉매, 생합성과정 등에 따르는 물리화학적인 면도 살펴본다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM452",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "계산화학",
+                "학수번호": "CHEM452",
+                "세부전공": null,
+                "전공역량": "통합적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "화학 전분야의 데이터 처리방법, 오차분석 및 반응이나 분자의 모델링 등을 컴퓨터 실습을 통하여 배운다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM455",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "학년": 3,
+            "data": {
+                "label": "유기합성화학",
+                "학수번호": "CHEM455",
+                "세부전공": null,
+                "전공역량": "통합적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "유기합성반응의 메카니즘, 새로운 합성방법 및 천연화합물 합성에의 응용, 입체화학 등 유기합성의 기초적인 내용을 다룬다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM461",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "학년": 3,
+            "data": {
+                "label": "고분자화학I",
+                "학수번호": "CHEM461",
+                "세부전공": null,
+                "전공역량": "전문가적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "고분자화합물의 물리,화학적 성질, 합성과정에서의 반응속도 및 열역학 또 그 메커니즘 및 공업적인 응용을 살펴본다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS482",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "고체물리학",
+                "학수번호": "PHYS482",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "결정 구조와 격자진동, 에너지띠 구조 등 응집물질의 공통적인 특성을 공부한다. 아울러 금속, 반도체, 절연체 등의 물리적 특성을 이해한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM411",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "무기화학실험",
+                "학수번호": "CHEM411",
+                "세부전공": null,
+                "전공역량": "문제 해결적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "무기화합물의 합성 및 정제방법들, 특히 산소에 민감한 물질을 다루는 방법을 익히고, 착물의 물성조사 및 반응성등을 실험한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM310",
+            "position": {
+                "x": 1760,
                 "y": 200
             },
             "학년": 4,
             "data": {
-                "label": "기술경제학",
-                "학수번호": "LESE410",
+                "label": "전공심화연구II",
+                "학수번호": "CHEM310",
                 "세부전공": null,
-                "전공역량": "[창의·융합] 통합적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 4,
+                "전공역량": "전문가적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "경제발전에 있어서 핵심인 연구개발과 기술혁신과 관련된 경제이론과 모형, 실증연구방법론, 다양한 사례와 정책적 시사점들을 강의한다._x000D_\n"
+                "syllabus_kr": "현재 화학연구에서 실재로 사용되는 실험, 이론적 연구방법을 실험실 체험을 통하여 직접 습득하여 현대화학연구의 전반적 연구방향과 연구방법에 대한 심화된 이해를 돕는다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1445,22 +1585,218 @@
             }
         },
         {
-            "id": "LESE412",
+            "id": "CHEM453",
             "position": {
-                "x": 1980,
+                "x": 1760,
                 "y": 300
             },
             "학년": 4,
             "data": {
-                "label": "농식품가격분석론",
-                "학수번호": "LESE412",
+                "label": "유기분광화학",
+                "학수번호": "CHEM453",
                 "세부전공": null,
-                "전공역량": "[창의·융합] 창의적사고",
-                "개설학과": "식품자원경제학과",
+                "전공역량": "통합적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "유기화합물의 구조 결정방법 및 유기혼합물의 분리, 정제와 확인법을 강의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM458",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "학년": 4,
+            "data": {
+                "label": "물리화학III",
+                "학수번호": "CHEM458",
+                "세부전공": null,
+                "전공역량": "전문가적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "물리화학1,2의 주제인 열역학과 양자역학의 기초 원리를 바탕으로 반응동력학, 표면화학, 응용전기화학 등 현대 화학분야에서 진행되고 있는 여러 주제들을 다룬다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM462",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "학년": 4,
+            "data": {
+                "label": "고분자화학II",
+                "학수번호": "CHEM462",
+                "세부전공": null,
+                "전공역량": "전문가적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "고분자화합물의 물리,화학적 성질, 합성과정에서의 반응속도 및 열역학 또 그 메커니즘 및 공업적인 응용을 살펴본다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM464",
+            "position": {
+                "x": 1760,
+                "y": 600
+            },
+            "학년": 4,
+            "data": {
+                "label": "의약화학",
+                "학수번호": "CHEM464",
+                "세부전공": null,
+                "전공역량": "전문가적 사고",
+                "개설학과": "화학과",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "농식품가격의 형성원리·특징 및 그 통제를 강의한다._x000D_\n"
+                "syllabus_kr": "인류의 건강 보호와 삶의 질 향상에 사용되는 화합물들에 관한 내용을 다룬다. 의약화합물들의 발견, 그들의 작용 기전 규명, 안정성 검증 및 임상실험 등 유기화합물이 의약품으로 확립되어가는 전 과정에 대한 개요를 공부한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM467",
+            "position": {
+                "x": 1760,
+                "y": 700
+            },
+            "학년": 4,
+            "data": {
+                "label": "무기화학Ⅲ",
+                "학수번호": "CHEM467",
+                "세부전공": null,
+                "전공역량": "창의적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM469",
+            "position": {
+                "x": 1760,
+                "y": 800
+            },
+            "학년": 4,
+            "data": {
+                "label": "재료화학",
+                "학수번호": "CHEM469",
+                "세부전공": null,
+                "전공역량": "통합적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "무기화합물의 구조에 대한 기초지식을 바탕으로 재료에 발현되는 물질의 기초적인 성질을 이해한다. 또한 고체 재료의 결합 이론, 분석 원리, 전자기적 특성 등에 대해 고찰하고 다양하고 광범위한 응용성에 대해 학습한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM457",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "나노화학",
+                "학수번호": "CHEM457",
+                "세부전공": null,
+                "전공역량": "창의적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "나노미터 크기의 물질의 합성, 특성화, 물리 및 화학적 성질, 응용에 대하여 공부한다. 특히 현재 연구동향에 관한 지식을 습득하여 나노-바이오, 나노-정보 등의 새로운 다학제간 연구에 필요한 창의성과 적응력을 기른다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM466",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "생유기화학",
+                "학수번호": "CHEM466",
+                "세부전공": null,
+                "전공역량": "통합적 사고",
+                "개설학과": "화학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "유기화합물의 구조와 반응에 대한 기초지식을 바탕으로 생명현상과 연관된 유기화합물의 역할을 이해한다. 탄수화물, 단백질, 핵산 등의 합성과정과 구조, 생명체 내에서의 역할과 기능에 대해 학습한다. 생명현상을 분자수준에서 이해하고 조절하기 위해 사용되는 유기화합 "
             },
             "type": "customNode",
             "sourcePosition": "Right",

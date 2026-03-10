@@ -185,242 +185,18 @@
             }
         },
         {
-            "id": "PHYS151",
+            "id": "GELI005",
             "position": {
                 "x": 440,
                 "y": 0
             },
-            "학년": null,
+            "학년": 1,
             "data": {
-                "label": "일반물리학연습 I",
-                "학수번호": "PHYS151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 물리량을 기술하는 방법, Newton 역학, 파동현상, 열역학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS152",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
-            "학년": null,
-            "data": {
-                "label": "일반물리학연습 II",
-                "학수번호": "PHYS152",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 전자기학, 광학 및 현대물리학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습시간에 과제물에 대한 문제 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS161",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "학년": null,
-            "data": {
-                "label": "일반물리학실험 I",
-                "학수번호": "PHYS161",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일반물리학및연습 I 에서 강의 및 문제풀이로 배우는 내용을 실험을 통해서 배우는 과목이다. 주요 내용은 date분석법, Newton 역학, 파동현상, 열역학에 관한 실험이다. 한번 3시간 실험으로 진행되며, 2인 1조를 원칙으로 하고, 8개조가 한 반을 구성하여 조교 및 교수의  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS162",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "학년": null,
-            "data": {
-                "label": "일반물리학실험 II",
-                "학수번호": "PHYS162",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일반물리학및연습 II 에서 강의 및 문제풀이로 배우는 내용을 실험을 통해서 배우는 과목이다. 주요 내용은 date분석법, Newton 역학, 파동현상, 열역학에 관한 실험이다. 한번 3시간 실험으로 진행되며, 2인 1조를 원칙으로 하고, 8개조가 한 반을 구성하여 조교 및 교수의 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM151",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "학년": null,
-            "data": {
-                "label": "일반화학및연습 I",
-                "학수번호": "CHEM151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM152",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "학년": null,
-            "data": {
-                "label": "일반화학및연습 II",
-                "학수번호": "CHEM152",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM153",
-            "position": {
-                "x": 440,
-                "y": 600
-            },
-            "학년": null,
-            "data": {
-                "label": "일반화학실험 I",
-                "학수번호": "CHEM153",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM154",
-            "position": {
-                "x": 440,
-                "y": 700
-            },
-            "학년": null,
-            "data": {
-                "label": "일반화학실험 II",
-                "학수번호": "CHEM154",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 800
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "학문세계의탐구I",
+                "label": "학문세계의탐구 I",
                 "학수번호": "GELI005",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
@@ -437,46 +213,18 @@
             }
         },
         {
-            "id": "GEWR002",
-            "position": {
-                "x": 440,
-                "y": 900
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "IFLS800",
             "position": {
                 "x": 440,
-                "y": 1000
+                "y": 100
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
                 "label": "Academic English I",
                 "학수번호": "IFLS800",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
@@ -493,18 +241,74 @@
             }
         },
         {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "학년": 1,
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 1100
+                "y": 400
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
-                "label": "[진로창업]1학년세미나Ⅰ",
+                "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS007",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
@@ -524,15 +328,15 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 1200
+                "y": 500
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
                 "학수번호": "GECT002",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
@@ -549,78 +353,50 @@
             }
         },
         {
-            "id": "GEBT001",
+            "id": "JMCO203",
             "position": {
                 "x": 440,
-                "y": 1300
+                "y": 600
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
+                "label": "미디어학입문",
+                "학수번호": "JMCO203",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH161",
-            "position": {
-                "x": 440,
-                "y": 1400
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "미적분학및연습I",
-                "학수번호": "MATH161",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일계함수의 미분과 적분, 적분의 응용, 극좌표계, 수열과 급수, 벡터와 벡터 공간"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY101",
-            "position": {
-                "x": 440,
-                "y": 1500
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "에너지공학실험실습기초I",
-                "학수번호": "ENGY101",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
                 "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "광전기화학에너지의 생산, 활용: 저장에 대한 기축 이론을 이해하고 문제중도형 학습(PBL)에, 기초하여 실생활에서 응용 가능 한 구체적 사례를 학습한다. 이를 통해 광전기화학에너지 관련 소자들의 구동 원리와 응용 분야에 대한 지식을 습득한다."
+                "syllabus_kr": "언론과 매스미디어의 기본 개념과 역사, 현대 사회에서의 매스미디어의 기능, 기초적인 연구방법 등을 학습하는 기본 과목이다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO247",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "학년": 1,
+            "data": {
+                "label": "창의적미디어기획과표현",
+                "학수번호": "JMCO247",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "다양한 미디어를 기반으로 한 일련의 그룹 프로젝트를 통해 팀워크 상황에서의 창의적인 기획과 표현 역량을 습득한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -638,13 +414,13 @@
                 "x": 660,
                 "y": 0
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
-                "label": "[진로창업]1학년세미나 II",
+                "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS008",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
@@ -666,14 +442,14 @@
                 "x": 660,
                 "y": 100
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "개설학과": null,
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
@@ -689,806 +465,134 @@
             }
         },
         {
-            "id": "MATH162",
+            "id": "JMCO248",
             "position": {
                 "x": 660,
                 "y": 200
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
-                "label": "미적분학및연습II",
-                "학수번호": "MATH162",
+                "label": "미디어데이터사이언스입문",
+                "학수번호": "JMCO248",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "다변수 함수의 미분, 다중적분, 선적분, 곡면적분, 발산정리"
+                "syllabus_kr": "지능정보사회의 근간이 되는 핵심 자원인 데이터를 심층적으로 이해하고 데이터를 수집, 분석, 활용하기 위한 다양한 과학적 접근과 기법을 학습한다. 아울러 데이터의 역사적, 철학적 이해 등 인문학적 관점을 함양한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "ENGY103",
+            "id": "JMCO269",
             "position": {
                 "x": 660,
                 "y": 300
             },
-            "학년": 1.0,
+            "학년": 1,
             "data": {
-                "label": "에너지 기술사",
-                "학수번호": "ENGY103",
+                "label": "미디어경제",
+                "학수번호": "JMCO269",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "인류의 대생 이후 에너지의 형태 및 사용 방법의 빈화와 그로, 인한 물명의 변화 등에 대해 고찰해 보고 논의한다. 문명의 변화 에 대해 에너지의 의미와 역할 등에 대해서 조사해 본다. 에너지 형태의 변화에 따른 기술 역사를 되짚어 보며, 미래의 에너지 형태 및 관련 기술에 대해서 논의한다."
+                "syllabus_kr": "미디어 기업과 산업, 정책을 이해하기 위해 필요한 미시경제학과 산업조직론, 독점규제이론 등 경제학 방법론을 원용하여 미디어산업을 경제적 관점에서 이해하고 분석하는 이론적 틀을 제공한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "EREN242",
+            "id": "JMCO279",
+            "position": {
+                "x": 660,
+                "y": 400
+            },
+            "학년": 1,
+            "data": {
+                "label": "애널리틱스프로그래밍",
+                "학수번호": "JMCO279",
+                "세부전공": null,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "소셜컴퓨팅, 빅데이터 분석 등을 위한 R과 Python 등의 기본 프로그램 언어 및 프로그램 개발 과정에 대해 실습을 위주로 교육한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO253",
             "position": {
                 "x": 880,
                 "y": 0
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "데이터 학습과 지능",
-                "학수번호": "EREN242",
+                "label": "저널리즘의이해",
+                "학수번호": "JMCO253",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 4,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "뉴스의 생산 원리와 메커니즘, 기자의 역할, 언론과 민주주의 관계 등을 배우고 뉴스의 비판적 소비 능력을 함양한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "EREN241",
+            "id": "JMCO255",
             "position": {
                 "x": 880,
                 "y": 100
             },
-            "학년": 2.0,
+            "학년": 2,
             "data": {
-                "label": "데이터 과학과 기초",
-                "학수번호": "EREN241",
+                "label": "미디어와정치",
+                "학수번호": "JMCO255",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY102",
-            "position": {
-                "x": 880,
-                "y": 200
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "융합에너지공학실험실습기초II",
-                "학수번호": "ENGY102",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생체 분자들을 기반으로 한 바이오에너지의 생산, 활용, 저장 및 정책에 관한 기초 이론과 실습을 통해 융합적 사고와 문제해결 능력의 토대를 만든다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY105",
-            "position": {
-                "x": 880,
-                "y": 300
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "융합에너지진로탐구및창업",
-                "학수번호": "ENGY105",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "1] 과목은 융합에너지공학과의 교육 및 공학적 목표를 소개하고 이를 통해 진로남구와 기업가정신 함양을 목표로 한다. 특히1류 복지에 필수적인 지속가능한 에너지 시스템을 구축하고 운영하기 위해 차별화된 융복합 해법을 제시하고자 하는 본 학교 의 교육 목표를 솜개하고, 창의융합형 에너지 공학, 사람중심의 공감 에너지 공학, 광전기 에너지 공학, 바이오 에너지 공학 에 대한 공학적 목표 및 진로, 그리고 창업 기회에 대해 탐구한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY201",
-            "position": {
-                "x": 880,
-                "y": 400
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "에너지공학실험실습I",
-                "학수번호": "ENGY201",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 에너지 신산업 분야의 우수한 역량과 창의적 문제해결 능력을 갖 추기 위해 광전기화학에너지 분야에 특화된 융합에 너지공학 실험실습을 1학년 에너지공학 실험실습기초| 과목과 연계해서 광전기화학에너지 생산, 활용 (전환), 저장의 3가지 영역에 대한 실험/실습 교육을 위한 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY204",
-            "position": {
-                "x": 880,
-                "y": 500
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "에너지과학기술입문",
-                "학수번호": "ENGY204",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "에너지 종류별 과학이론 및 기술에 대한 전반적인 개념과 응용에 대해 배운다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHBE207",
-            "position": {
-                "x": 880,
-                "y": 600
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "물리화학",
-                "학수번호": "CHBE207",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화공생명공학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY202",
-            "position": {
-                "x": 1100,
-                "y": 0
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "융합에너지공학실험실습II",
-                "학수번호": "ENGY202",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "융합에너지공학 전공자들의 바이오 에너지 기초를 바탕으로 관련한 심화 연구 수행을 위한 실험 실습 능력을 배양함."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY203",
-            "position": {
-                "x": 1100,
-                "y": 100
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "지속가능한에너지",
-                "학수번호": "ENGY203",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "에너지 생산 및 소비에 따른 사회경제적, 환경적 잉향을 다양한 사례를 통해 직접 분식해 본다. 지구의 한계 (Planetary boundaries) 및 글로벌 환경문제 를 고려할 때 지속가능한 에너지란 무엇인지 개념을 정립한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY208",
-            "position": {
-                "x": 1100,
-                "y": 200
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "융합생명공학",
-                "학수번호": "ENGY208",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "현대 생명 과학의 기본 개념을 바탕으로 의학 및 생명공학 음용의 이해를 목표로 한다. 생명 공학 기술의 다학제적 이해를 및 분자 디자인을 포함한 생명 현상의 측정, 모사, 바이오 시스템 개발 등 실용적 응용이 가능한 의생명 기술의 이론과 실습을 병행할 수 있는 주제들을 학습한다"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY206",
-            "position": {
-                "x": 1100,
-                "y": 300
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "에너지화학",
-                "학수번호": "ENGY206",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "에너지, 재료/소자의 화학적, 메커니즘 이해 및 기초적인 합성 방법 이해를 위한 지식의 습득을 목적으로 한다. 화학 작용 기에 따른 오비탈의 변화 원리를 이해하고, 분자내 또는 분자간 에너지 흐름에 대하여 학습한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY214",
-            "position": {
-                "x": 1100,
-                "y": 400
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "에너지물리",
-                "학수번호": "ENGY214",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "에너지 물리는 에너지, 관하기술의 웅용을 위해 필요한 물리하의 기본 개념을 배우는 학문이다. 에너지 소스, 에너지 사용 및 에 너지 시스템을 관리하는 물리학적 원리에 대한 포괄적인 내용을 습득한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY309",
-            "position": {
-                "x": 1100,
-                "y": 500
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "에너지변환소재",
-                "학수번호": "ENGY309",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ACEE290",
-            "position": {
-                "x": 1100,
-                "y": 600
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "신재생에너지기초",
-                "학수번호": "ACEE290",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "전기전자공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS164",
-            "position": {
-                "x": 1100,
-                "y": 700
-            },
-            "학년": 2.0,
-            "data": {
-                "label": "경영과 사회",
-                "학수번호": "BUSS164",
-                "세부전공": "에너지환경정책경영",
-                "전공역량": null,
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY207",
-            "position": {
-                "x": 1320,
-                "y": 0
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "에너지열역학",
-                "학수번호": "ENGY207",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "에너지의. 이용, 발생, 변환 및 저장에 필요한 기초 전기화학(Ionics 및 Electrodics)의 이혼과 전기화학 실의 설계 및 충정, 방법에 대해 폭넓게 강의한다. 물 분해, 연료전지, 태양전지 및 이차전지 등 전기화학시스템을 학습 하기 위한 기초 역량을 학습한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY327",
-            "position": {
-                "x": 1320,
-                "y": 100
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "융합에너지종합설계I",
-                "학수번호": "ENGY327",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY301",
-            "position": {
-                "x": 1320,
-                "y": 200
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "에너지전기화학",
-                "학수번호": "ENGY301",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "에너지의 이용, 발생, 변환 및 저장에 필요한 기초 전기화학(lonics 및 Electrodics)의 이론과 전기화학 셀의 설계 및 주정 방법에 대해 폭넓게 강 의한다. 풀 분해, 연료전지, 대양전지 및 이차전지 등 전기화학시스템을 학습 하기 위한 기초 역량을 학습한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY304",
-            "position": {
-                "x": 1320,
-                "y": 300
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "에너지 반도체",
-                "학수번호": "ENGY304",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "에너지, 과학기술의 조석이 되는 반도체의 핵심. 개념과 전기적 광학적, 특성을 이해할 수 있는 지식을 학습하는 것을 녹적 으로 한다. 이를 바탕으로 반도체에서의 에너지변환 과정 및 소자의 기본 원리를 이해할 수 있도록 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY210",
-            "position": {
-                "x": 1320,
-                "y": 400
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "광공학 기초",
-                "학수번호": "ENGY210",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "빛의 진행관 파동, 이미지의 생성과 수차, 빛의 간섭과 회절, 그리고 회정에 의한 해상도 한계 등 광학의 광범위한 기초적 원리 { 이해하는 데 목적이 있 다. 또한, 다양한 분야에서 핵심 광원으로 사용되고 있는 LED와 레이저, 그리고 광검출기의 원리 라 특성에 대해서도 함께 다른다. 마지막으로, 초고속 고효율 광동신을 가능하게 한 광섬유의 원리와 특성에 대해서도 힘 께 학습한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "NEIK411",
-            "position": {
-                "x": 1320,
-                "y": 500
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "태양에너지공학",
-                "학수번호": "NEIK411",
-                "세부전공": "광전기에너지공학",
-                "전공역량": null,
-                "개설학과": "에너지신산업융합전공",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY413",
-            "position": {
-                "x": 1320,
-                "y": 600
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "계면 공학",
-                "학수번호": "ENGY413",
-                "세부전공": "전기화학에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY415",
-            "position": {
-                "x": 1320,
-                "y": 700
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "바이오 에너지 공학",
-                "학수번호": "ENGY415",
-                "세부전공": "바이오에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY312",
-            "position": {
-                "x": 1320,
-                "y": 800
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "에너지 경제학",
-                "학수번호": "ENGY312",
-                "세부전공": "에너지환경정책경영",
-                "전공역량": null,
-                "개설학과": "에너지신산업융합전공",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": ""
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "NEIK342",
-            "position": {
-                "x": 1320,
-                "y": 900
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "에너지기후변화정책",
-                "학수번호": "NEIK342",
-                "세부전공": "에너지환경정책경영",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY336",
-            "position": {
-                "x": 1320,
-                "y": 1000
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "에너지고체화학",
-                "학수번호": "ENGY336",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY339",
-            "position": {
-                "x": 1320,
-                "y": 1100
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "탄소중립시스템모델링",
-                "학수번호": "ENGY339",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "전공역량": "윤리적 사회공헌",
+                "개설학과": "미디어학부",
                 "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "이 강좌는 미디어, 정치, 시민 사이의 상호작용 과정과 그 효과를 탐색한다. 다양한 정치커뮤니케이션 이론과 모델을 통해 정치 미디어의 담론과 효과를 분석하고 궁극적으로 미디어가 정치 민주주의에서 담당해야 하는 규범적 역할을 이해한다. 초연결사회의 미디어 지형에 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1501,50 +605,694 @@
             }
         },
         {
-            "id": "ENGY334",
+            "id": "JMCO257",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "한국의문화와미디어",
+                "학수번호": "JMCO257",
+                "세부전공": null,
+                "전공역량": "글로벌 의사소통",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 한국의 문화에 익숙하지 않은 유학생 및 교환학생들을 위해 특별히 디자인된 수업으로, 한국 영화, 방송, 음악, 저널리즘, 한류의 역사와 주요 쟁점을 논의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO259",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "학년": 2,
+            "data": {
+                "label": "다문화사회와미디어",
+                "학수번호": "JMCO259",
+                "세부전공": null,
+                "전공역량": "글로벌 의사소통",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "다문화사회의 핵심 개념인 문화적 다양성을 둘러싼 주요 이슈를 인종과 섹슈얼리티를 중심으로 논의한다. 인종 및 성소수자의 개념이 형성되어 온 역사적 관점 뿐 아니라 차별금지법과 같은 법적 쟁점, 소수자우대정책과 같은 정책적 쟁점, 다문화 사회에서 미디어가 수행하 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO267",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "학년": 2,
+            "data": {
+                "label": "광고의이해",
+                "학수번호": "JMCO267",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "마케팅 커뮤니케이션의 주요 구성요인인 광고의 기본 개념, 주요 이론과 실제를 현대사회의 경제적, 사회적, 문화적, 미디어 환경과 관련하여 학습한다. 광고기획, 제작, 조사, 미디어전략 등 광고의 실무과정 전반과 광고학의 기본원리를 이해하여 광고에 대한 기본지식을  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO273",
+            "position": {
+                "x": 880,
+                "y": 500
+            },
+            "학년": 2,
+            "data": {
+                "label": "영화론",
+                "학수번호": "JMCO273",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "현대 영상 미디어의 근간인 영화를 역사에서부터 문화, 산업적 관점에서 접근한다. 영화의 미디어적 특징과 세계 각국의 영화 역사, 문화 차이 등을 다룬다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO275",
+            "position": {
+                "x": 880,
+                "y": 600
+            },
+            "학년": 2,
+            "data": {
+                "label": "영상콘텐츠기초제작실습",
+                "학수번호": "JMCO275",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "다양한 실습을 통해 영상 콘텐츠 제작 기초를 연마한다. 기획 단계부터 디자인, 연출까지 핵심적 제작 방법들을 단계별로 습득한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO277",
+            "position": {
+                "x": 880,
+                "y": 700
+            },
+            "학년": 2,
+            "data": {
+                "label": "저널리즘글쓰기",
+                "학수번호": "JMCO277",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "신문, 방송, 온라인 등 다양한 매체를 위한 기본적인 기사 작성 능력을 함양한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO240",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "학년": 2,
+            "data": {
+                "label": "PR의이해",
+                "학수번호": "JMCO240",
+                "세부전공": null,
+                "전공역량": "글로벌 의사소통",
+                "개설학과": "미디어학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "Public Relations의 기본 개념을 학습하고 리서치, 기획, 전략 및 전술 수립, 실행 등 PR커뮤니케이션의 필수적인 과정을 이해한다. 기업, 정부, 공공기관, 지방자치단체, 교육기관 등 다양한 조직에서의 PR커뮤니케이션 실무에 대해 소개하고 직업으로써의 가능성을 탐색한 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO252",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "학년": 2,
+            "data": {
+                "label": "미디어테크놀로지와문화",
+                "학수번호": "JMCO252",
+                "세부전공": null,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "테크놀로지와 미디어의 관계를 살펴보고, 새로운 미디어 테크놀로지가 우리의 일상과 문화에 어떤 영향을 끼쳤는지, 기존의 커뮤니케이션 양식을 어떻게 바꾸면서 사회를 변화시키고 있는지 알아본다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO262",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "미디어와젠더",
+                "학수번호": "JMCO262",
+                "세부전공": null,
+                "전공역량": "윤리적 사회공헌",
+                "개설학과": "미디어학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 강좌는 미디어와 젠더 이슈에 대한 다양한 이론적 시각을 조망한다. 미디어가 여성성과 남성성을 재현하는 방식을 탐색하고 젠더 정체성에 작용하는 미디어의 영향력을 이해한다. 디지털 플랫폼에서 발생하는 새로운 젠더 이슈들을 논의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO264",
+            "position": {
+                "x": 1100,
+                "y": 300
+            },
+            "학년": 2,
+            "data": {
+                "label": "대인커뮤니케이션",
+                "학수번호": "JMCO264",
+                "세부전공": null,
+                "전공역량": "글로벌 의사소통",
+                "개설학과": "미디어학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "대인커뮤니케이션 이론과 연구 결과들을 소개하고 학생 스스로 대인적 관계에 적용, 분석하도록 한다. 예를 들어 메시지의 종류, 이해와 오해, 갈등, 개인 및 문화 간 차이 등을 다룬다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO266",
+            "position": {
+                "x": 1100,
+                "y": 400
+            },
+            "학년": 2,
+            "data": {
+                "label": "설득커뮤니케이션",
+                "학수번호": "JMCO266",
+                "세부전공": null,
+                "전공역량": "글로벌 의사소통",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "광고 및 PR 뿐만 아니라 대인적 설득 상황에서 사용 가능한 정보원, 메시지, 그리고 미디어 유형을 학습하고 수용자에게 미치는 효과를 학습한다. 프로젝트를 통해 구체적인 상황에 맞는 효과적 설득 전략을 기획하고 실행하는 연습을 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO268",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "학년": 2,
+            "data": {
+                "label": "소비자의이해",
+                "학수번호": "JMCO268",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "광고와 PR 등 마케팅 커뮤니케이션의 출발점은 소비자에 대한 이해다. 소비자의 심리와 의사결정과정과 관련된 개념과 이론을 학습함으로써 마케팅 커뮤니케이션의 궁극적 대상인 소비자의 행동과 이에 영향을 미치는 요인들을 파악한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO272",
+            "position": {
+                "x": 1100,
+                "y": 600
+            },
+            "학년": 2,
+            "data": {
+                "label": "방송론",
+                "학수번호": "JMCO272",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "방송의 사회 문화적 위치에 기반해 제작자, 콘텐츠, 수용자에 이르는 다양한 방송 구성 요소들을 이해한다. 전통적인 방송 구조에서부터 다매체시대에 방송이 변화하는 양상까지 이해의 폭을 넓히고 미래의 변화를 예측한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO274",
+            "position": {
+                "x": 1100,
+                "y": 700
+            },
+            "학년": 2,
+            "data": {
+                "label": "뉴미디어영화론",
+                "학수번호": "JMCO274",
+                "세부전공": null,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 수업에서는 “뉴미디어 영화론 ? 현전의 기술: 디지털 시대의 영화 매_x000D_\n체”라는 대주제 하에 서사분석, 매체이론, 그리고 비평철학 담론에 대한 _x000D_\n고찰을 통해 영화를 비롯한 영상 미디어의 재현 기제와 해석 방식을 탐_x000D_\n구한다. 매주 특정 뉴미디어 기술 부문 관련 주제"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO276",
+            "position": {
+                "x": 1100,
+                "y": 800
+            },
+            "학년": 2,
+            "data": {
+                "label": "미디어대본작성",
+                "학수번호": "JMCO276",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "미디어 창작의 기본을 이루는 미디어 대본을 직접 작성한다. 방송, 영화 등 기존의 미디어에서부터 인터넷 기반의 콘텐츠까지 다양한 미디어에 맞는 대본 작성요령을 습득한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO363",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "미디어효과이론",
+                "학수번호": "JMCO363",
+                "세부전공": null,
+                "전공역량": "윤리적 사회공헌",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "미디어 이용과 수용자 효과에 대한 각종 이론들을 배우고 비판적 미디어 소비자로서의 역량을 키운다.\t"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO375",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "학년": 3,
+            "data": {
+                "label": "광고미디어전략과기획",
+                "학수번호": "JMCO375",
+                "세부전공": null,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "광고는 TV, 신문, 잡지, 인터넷, 라디오 등 주요 전통 미디어뿐 아니라 인터넷, 모바일 등 디지털 미디어를 포함한 다양한 미디어를 활용하여 목표소비자에게 설득메시지를 전달하고 있다. 광고에서 활용하는 다양한 미디어의 특성, 미디어 전략의 수립, 실행, 미디어 기획과"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO377",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "학년": 3,
+            "data": {
+                "label": "미디어기술",
+                "학수번호": "JMCO377",
+                "세부전공": null,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인터넷, 모바일, 빅데이터, 로봇, 인공지능, 사물인터넷 등 주요 뉴미디어의 발전과정을 고찰하고 뉴미디어의 기술적, 산업적인 특성과 활용사례 및 미래 발전방향을 개관한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO379",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "미디어산업과융합",
+                "학수번호": "JMCO379",
+                "세부전공": null,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "미디어산업의 확장과 진화를 이종 산업간 융합 즉 미디어산업과 전통산업과의 융합 현상으로 이해하고 분석한다. 구체적으로는 미디어산업과 의료산업, 미디어산업과 금융산업, 미디어산업과 자동차산업, 미디어산업과 교육산업의 융합 등을 기술의 융합, 비즈니스 모델의 융"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO385",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "미디어비평",
+                "학수번호": "JMCO385",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "비평에 대한 개론 과목으로 현대 미디어에 대한 비판적인 접근법을 학습한다. 전통 미디어에서 최근 미디어까지 포괄하여 각 미디어별 특징에 기반한 비평을 배운다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO387",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "학년": 3,
+            "data": {
+                "label": "영상이론",
+                "학수번호": "JMCO387",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "영상 미학 이론에 기반을 두고 현대 미디어 환경의 주요한 축인 영상이 가진 사회문화적 의미를 이해한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO395",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "학년": 3,
+            "data": {
+                "label": "드라마프로덕션",
+                "학수번호": "JMCO395",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "드라마제작에 관련된 제작 기초를 배우는 과정으로 대본 작성, 제작 기획, 다양한 제작 환경에서의 드라마 촬영, 연기 연출 등의 드라마적 요소들을 이해한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO397",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "학년": 3,
+            "data": {
+                "label": "미디어데이터마이닝",
+                "학수번호": "JMCO397",
+                "세부전공": null,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "데이터 마이닝에 대한 기본적인 개념과 구체적인 기법을 이해하고 숙지한다. 특히 미디어 관련 텍스트 데이터를 분석하고 질적인 자료를 수량화(Quantifying)하는 과정을 교육한다. 또한 분석결과를 제공하는 데이터 시각화에 대한 다양한 접근방법을 학습한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO360",
             "position": {
                 "x": 1540,
                 "y": 0
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "융합에너지종합설계II",
-                "학수번호": "ENGY334",
+                "label": "대중문화연구",
+                "학수번호": "JMCO360",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "대중문화를 문화연구의 관점에서 비판적으로 분석하고, 변화하는 미디어 환경과 대중문화의 관계를 유기적으로 학습한다. 이데올로기와 사회구조, 이미지 조작과 저항성 등의 다양한 관점을 대중문화에 초점을 맞추어 학습한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "ENGY328",
+            "id": "JMCO362",
             "position": {
                 "x": 1540,
                 "y": 100
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "전산에너지공학",
-                "학수번호": "ENGY328",
+                "label": "미디어경영",
+                "학수번호": "JMCO362",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 2,
+                "전공역량": "글로벌 의사소통",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "본 과목은 미디어 경영에 대한 전반적인 이해를 도모하고 미디어 경영 마인드를 갖추는 것을 목표로 한다. 미디어 기업 특히 뉴미디어 기업을 경영학적인 틀로 이해하고 분석할 수 있는 전문적인 식견을 함양하고 미디어 기업을 창업할 수 있는 기업가정신을 고취한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1557,22 +1305,22 @@
             }
         },
         {
-            "id": "ENGY311",
+            "id": "JMCO374",
             "position": {
                 "x": 1540,
                 "y": 200
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "태양전지공학",
-                "학수번호": "ENGY311",
-                "세부전공": "광전기에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "디지털미디어와민주주의프로젝트",
+                "학수번호": "JMCO374",
+                "세부전공": null,
+                "전공역량": "윤리적 사회공헌",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "에너지, 과학기술의 조석이 되는 반도체의 핵심. 개념과 전기적 광학적, 특성을 이해할 수 있는 지식을 학습하는 것을 녹적 으로 한다. 이를 바탕으로 반도체에서의 에너지변환 과정 및 소자의 기본 원리를 이해할 수 있도록 한다."
+                "syllabus_kr": "이 강좌에서 학생들은 디지털 미디어를 활용하여 한국사회 전체 혹은 지역사회의 시민적, 민주주의 지표를 향상시킬 수 있는 창의적인 프로젝트를 제안하고 실행한다. 새로운 디지털 플랫폼을 통해 참여민주주의를 확대하고 정치 갈등을 해소할 수 있는 이론적 모델을 검토하"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1585,22 +1333,22 @@
             }
         },
         {
-            "id": "ENGY322",
+            "id": "JMCO376",
             "position": {
                 "x": 1540,
                 "y": 300
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "에너지 변환 광전자공학",
-                "학수번호": "ENGY322",
-                "세부전공": "광전기에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "PR사례연구",
+                "학수번호": "JMCO376",
+                "세부전공": null,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "위기 및 갈등, 기업의 사회 책임(CSR), MPR 등 PR커뮤니케이션 주제와 관련된 다양한 사례들을 학습한다. 국내외 문헌을 검토해 이론적 토대를 쌓고 사례를 심층 분석해 문제점을 파악한 후 개선점과 대안을 제시해본다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1613,22 +1361,22 @@
             }
         },
         {
-            "id": "ENGY340",
+            "id": "JMCO382",
             "position": {
                 "x": 1540,
                 "y": 400
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "에너지반도체소자",
-                "학수번호": "ENGY340",
+                "label": "엔터테인먼트산업",
+                "학수번호": "JMCO382",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "게임, 영화, 음악, 스포츠 등 엔터테인먼트 산업의 발전 추세와 제도적, 기술적, 문화적 특징을 고찰하고, 국내외 엔터테인먼트 산업의 현황과 주요 쟁점을 학습한다. "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1641,22 +1389,22 @@
             }
         },
         {
-            "id": "ENGY341",
+            "id": "JMCO384",
             "position": {
                 "x": 1540,
                 "y": 500
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "융합생명공학II",
-                "학수번호": "ENGY341",
+                "label": "미디어제작기획",
+                "학수번호": "JMCO384",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "미디어 프로듀싱의 전 과정을 실제 프로젝트 중심으로 학습한다. 스토리 콘셉트, 대본평가 및 분석, 트리트먼트, 시놉시스 작성뿐 아니라 예산 및 마케팅 전략까지 포함하는 프로듀싱 과정을 심도 있게 학습한다. 개설 학기에 따라서 주 관심 미디어는 변경이 가능하다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1669,22 +1417,22 @@
             }
         },
         {
-            "id": "ENGY330",
+            "id": "JMCO389",
             "position": {
                 "x": 1540,
                 "y": 600
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "유기에너지재료",
-                "학수번호": "ENGY330",
-                "세부전공": "전기화학에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "label": "포토에세이",
+                "학수번호": "JMCO389",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "사진의 원리와 이론을 공부하며 사진으로 이슈를 전달하는 기법을 배운다. 특히 크고 작은 사진 서너 장으로 스토리를 만들고, 제법 긴 사진설명을 작성하는 실습도 해본다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1697,22 +1445,22 @@
             }
         },
         {
-            "id": "NEIK321",
+            "id": "JMCO392",
             "position": {
                 "x": 1540,
                 "y": 700
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "에너지저장소재설계",
-                "학수번호": "NEIK321",
-                "세부전공": "전기화학에너지공학",
-                "전공역량": null,
-                "개설학과": "에너지신산업융합전공",
-                "개설횟수": 1,
+                "label": "멀티미디어리포팅",
+                "학수번호": "JMCO392",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "기사 텍스트와 사진, 영상을 결합한 입체적 보도를 실습하고, 결과물을 인터렉티브 환경에서 표출하는 방법을 배운다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1725,22 +1473,22 @@
             }
         },
         {
-            "id": "ENGY320",
+            "id": "JMCO394",
             "position": {
                 "x": 1540,
                 "y": 800
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "광화학",
-                "학수번호": "ENGY320",
-                "세부전공": "바이오에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "다큐멘터리프로덕션",
+                "학수번호": "JMCO394",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "다큐멘터리 기획과 제작을 통해 현실을 구성하는 다큐멘터리의 기능과 그 사회문화적 함의에 대해 이해한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1753,22 +1501,22 @@
             }
         },
         {
-            "id": "ENGY332",
+            "id": "JMCO396",
             "position": {
                 "x": 1540,
                 "y": 900
             },
-            "학년": 3.0,
+            "학년": 3,
             "data": {
-                "label": "에너지환경의사결정",
-                "학수번호": "ENGY332",
-                "세부전공": "에너지환경정책경영",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "label": "빅데이터분석과미디어",
+                "학수번호": "JMCO396",
+                "세부전공": null,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "본 강의는 최근 사회 전 영역에 걸쳐서 화두가 되고 있는 빅데이터 분석을 다양한 사회과학적 패러다임 속에서 논의하며 이해의 폭을 넓히고자 한다. 또한 미디어 및 커뮤니케이션 분야에서 활용가능한 빅데이터를 직접 수집해서 의미있는 분석 결과를 도출해 봄으로써 학생 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1781,134 +1529,50 @@
             }
         },
         {
-            "id": "ENGY335",
-            "position": {
-                "x": 1540,
-                "y": 1000
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "수소에너지개론",
-                "학수번호": "ENGY335",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY337",
-            "position": {
-                "x": 1540,
-                "y": 1100
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "에너지환경촉매",
-                "학수번호": "ENGY337",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY338",
-            "position": {
-                "x": 1540,
-                "y": 1200
-            },
-            "학년": 3.0,
-            "data": {
-                "label": "도시회복탄력성",
-                "학수번호": "ENGY338",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGY419",
+            "id": "JMCO447",
             "position": {
                 "x": 1760,
                 "y": 0
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "융합에너지창의연구I",
-                "학수번호": "ENGY419",
+                "label": "PR캠페인",
+                "학수번호": "JMCO447",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "클라이언트의 의뢰를 받아 전략적 PR커뮤니케이션 기획안을 수립하고 실행한다. 이 과정에서 상황 분석, 공중 분석, 커뮤니케이션 목표 수립, 전략 및 전술 개발, 일정과 예산 작성 등 PR 실무 전반에 필요한 훈련을 한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COOP031",
+            "id": "JMCO451",
             "position": {
                 "x": 1760,
                 "y": 100
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "현장실습I",
-                "학수번호": "COOP031",
+                "label": "미디어서비스개발과창업",
+                "학수번호": "JMCO451",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 5,
+                "전공역량": "글로벌 의사소통",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "게임, 영화, 웹툰, 가상현실 등 다양한 미디어서비스를 개발하기 위한 기본적인 개념을 도출하고 구체적인 서비스 내용을 정의하며 이를 구현하기 위한 기술적인 방향을 설계하고 실제적인 개발까지 시도한다. 또한 미디어서비스 기반의 미디어기업을 창업하기 위한 제반 이 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1921,22 +1585,22 @@
             }
         },
         {
-            "id": "ENGY412",
+            "id": "JMCO453",
             "position": {
                 "x": 1760,
                 "y": 200
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "에너지 전달현상",
-                "학수번호": "ENGY412",
+                "label": "탐사기획보도",
+                "학수번호": "JMCO453",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "일상에서 쉽게 접할 수 있거나 사회적으로 현안이 될 만한 사안을 기사의 주제로 발굴하여 취재하고 기획기사로 완성한 다음에 상업매체에 보도하는 것을 목적으로 한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1949,22 +1613,22 @@
             }
         },
         {
-            "id": "ENGY406",
+            "id": "JMCO455",
             "position": {
                 "x": 1760,
                 "y": 300
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "저전력미래정보소자",
-                "학수번호": "ENGY406",
-                "세부전공": "광전기에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 2,
+                "label": "미디어제작워크샵Ⅰ",
+                "학수번호": "JMCO455",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "문화, 기술 변화에 따라 진화하는 다양한 형태의 미디어 제작을 경험할 수 있도록 특별한 분야를 선정해 제작 워크샵을 제공하는 강좌 중 하나이다._x000D_\n예를 들어 라디오와 팟캐스팅에 적합한 창작물을 제작하면서, 동시에 수강생 개인의 창의적 목소리와 스타일을 계발하고 정"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1977,22 +1641,22 @@
             }
         },
         {
-            "id": "ENGY423",
+            "id": "JMCO457",
             "position": {
                 "x": 1760,
                 "y": 400
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "열에너지공학개론",
-                "학수번호": "ENGY423",
-                "세부전공": "광전기에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "미디어제작워크샵Ⅱ",
+                "학수번호": "JMCO457",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "문화, 기술 변화에 따라 진화하는 다양한 형태의 미디어 제작을 경험할 수 있도록 특별한 분야를 선정해 제작 워크샵을 제공하는 강좌 중 하나이다. _x000D_\n예를 들어 수강생들은 영상물 제작에 필요한 다양한 기법을 습득하고 작품을 완성해 자신의 포트폴리오를 구성하는 기회를"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2005,22 +1669,22 @@
             }
         },
         {
-            "id": "ENGY313",
+            "id": "JMCO459",
             "position": {
                 "x": 1760,
                 "y": 500
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "에너지반도체공정",
-                "학수번호": "ENGY313",
-                "세부전공": "광전기에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "미디어데이터분석특강",
+                "학수번호": "JMCO459",
+                "세부전공": null,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": ""
+                "syllabus_kr": "미디어 분야 데이터 사이언스 관련 최신 동향을 개관하고 특정 사례를 집중적으로 분석한다. "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2033,22 +1697,22 @@
             }
         },
         {
-            "id": "ENGY425",
+            "id": "JMCO461",
             "position": {
                 "x": 1760,
                 "y": 600
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "에너지고체물리",
-                "학수번호": "ENGY425",
+                "label": "미디어·커뮤니케이션특강Ⅰ",
+                "학수번호": "JMCO461",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "전공역량": "윤리적 사회공헌",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": ""
+                "syllabus_kr": "미디어 및 커뮤니케이션과 관련된 특별한 주제를 선정해 심화 학습하는 강좌 중 하나이다. 학생들에게 필요한 이슈와 교수의 전문성을 고려해 학기마다 새로운 강의가 제공될 수 있다. 예를 들어 문화 간 커뮤니케이션과 같은 특별 주제의 강의를 한 학기 제공할 수 있다.  "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2061,22 +1725,22 @@
             }
         },
         {
-            "id": "ACEE491",
+            "id": "JMCO463",
             "position": {
                 "x": 1760,
                 "y": 700
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "태양광시스템설계",
-                "학수번호": "ACEE491",
-                "세부전공": "광전기에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "미디어인턴십Ⅰ",
+                "학수번호": "JMCO463",
+                "세부전공": null,
+                "전공역량": "윤리적 사회공헌",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "학생이 현장실습 기관에서 전공 지식을 활용하고 현장에서 요구하는 역량을 습득함으로써 직무적응능력을 육성하는 산학협력 교과목이다. _x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2089,22 +1753,22 @@
             }
         },
         {
-            "id": "ENGY409",
+            "id": "JMCO464",
             "position": {
                 "x": 1760,
                 "y": 800
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "이차전지",
-                "학수번호": "ENGY409",
-                "세부전공": "전기화학에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "미디어인턴십Ⅱ",
+                "학수번호": "JMCO464",
+                "세부전공": null,
+                "전공역량": "윤리적 사회공헌",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "학생이 현장실습 기관에서 전공 지식을 활용하고 현장에서 요구하는 역량을 습득함으로써 직무적응능력을 육성하는 산학협력 교과목이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2117,22 +1781,22 @@
             }
         },
         {
-            "id": "NEIK422",
+            "id": "JMCO469",
             "position": {
                 "x": 1760,
                 "y": 900
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "차세대에너지 저장변환공학",
-                "학수번호": "NEIK422",
-                "세부전공": "전기화학에너지공학",
-                "전공역량": null,
-                "개설학과": "에너지신산업융합전공",
-                "개설횟수": 1,
+                "label": "캡스톤디자인P",
+                "학수번호": "JMCO469",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "미디어 현장 수요를 반영하는 콘텐츠 제작(Production) 및 기획 실무역량을 제고하기 위해 현장과 협업을 통해 진행하는 실습과정이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2145,22 +1809,22 @@
             }
         },
         {
-            "id": "ENGY317",
+            "id": "JMCO470",
             "position": {
                 "x": 1760,
                 "y": 1000
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "나노바이오기술",
-                "학수번호": "ENGY317",
-                "세부전공": "바이오에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "캡스톤디자인B",
+                "학수번호": "JMCO470",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "미디어 현장 수요를 반영한 미디어 사업(Business) 및 벤처 운영 기획 실무역량을 제고하기 위한 실습과정이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2173,22 +1837,22 @@
             }
         },
         {
-            "id": "ENGY424",
+            "id": "JMCO471",
             "position": {
                 "x": 1760,
                 "y": 1100
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "연료전지공학",
-                "학수번호": "ENGY424",
+                "label": "캡스톤디자인R",
+                "학수번호": "JMCO471",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
                 "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "본 수업은 연료전지 기술과 적용에 관한 이론과 응용을 다룹니다. 학생들은 연료전지의 작동 원리부터 성능 향상을 위한 기술적 과제, 그리고 친환경적 에너지 솔류션으로의 잠재력까지 배웁니다. 다양한 연료전지 시스템의 최적화, 설계, 운전, 유지에 대한 엔지니어링 기술도 학습합니다."
+                "syllabus_kr": "미디어 현장의 문제와 미디어 관련 사회적 쟁점의 해결을 위한 연구(Research)를 진행하는 과정이다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2201,50 +1865,50 @@
             }
         },
         {
-            "id": "ENGY422",
+            "id": "JMCO414",
             "position": {
                 "x": 1980,
                 "y": 0
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "융합에너지창의연구II",
-                "학수번호": "ENGY422",
+                "label": "미디어연구방법",
+                "학수번호": "JMCO414",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "미디어 연구를 설계하고 적합한 방법론을 선정, 활용하는 과정을 학습한다. 이를 위해 다양한 질적, 양적 방법론을 소개하고 각 방법론의 실제적인 적용사례를 분석하며 방법론을 활용하기 위한 통계적 기법이나 도구들을 숙지한다.  "
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COOP061",
+            "id": "JMCO444",
             "position": {
                 "x": 1980,
                 "y": 100
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "현장실습II",
-                "학수번호": "COOP061",
+                "label": "미디어법과윤리",
+                "학수번호": "JMCO444",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 5,
+                "전공역량": "윤리적 사회공헌",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "언론 자유, 명예훼손, 프라이버시, 알 권리 등 언론보도와 관련된 윤리적 딜레마와 법적 쟁점을 논의하고, 정부, 기업 및 미디어 이용자들이 디지털 테크놀로지를 활용하면서 발생하는 법적 이슈들과 사례들을 분석한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2257,22 +1921,22 @@
             }
         },
         {
-            "id": "ENGY410",
+            "id": "JMCO446",
             "position": {
                 "x": 1980,
                 "y": 200
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "에너지기기분석",
-                "학수번호": "ENGY410",
-                "세부전공": "광전기에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
-                "개설횟수": 1,
+                "label": "광고캠페인",
+                "학수번호": "JMCO446",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "광고에 관한 다양한 개념과 이론을 실제 전략 수립과 시행에 적용하여 광고 기획, 제작의 전체 과정에 대한 실무적 훈련을 습득한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2285,22 +1949,22 @@
             }
         },
         {
-            "id": "ENGY407",
+            "id": "JMCO448",
             "position": {
                 "x": 1980,
                 "y": 300
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "신재생에너지 시스템 공학",
-                "학수번호": "ENGY407",
-                "세부전공": "전기화학에너지공학",
-                "전공역량": null,
-                "개설학과": "융합에너지공학과",
+                "label": "전략커뮤니케이션리서치",
+                "학수번호": "JMCO448",
+                "세부전공": null,
+                "전공역량": "글로벌 의사소통",
+                "개설학과": "미디어학부",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "전통적인 설득 전략 뿐만 아니라 내러티브나 게임과 같은 엔터테인먼트를 활용한 새로운 형태의 전략적 커뮤니케이션의 효과를 평가할 수 있는 리서치 방법을 학습한다. 이후 프로젝트를 통해 상업적 캠페인이나 공공 캠페인 현실에 적용 가능한 리서치 기획과 수행 능력을  "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2313,22 +1977,78 @@
             }
         },
         {
-            "id": "ENGY420",
+            "id": "JMCO452",
             "position": {
                 "x": 1980,
                 "y": 400
             },
-            "학년": 4.0,
+            "학년": 4,
             "data": {
-                "label": "에너지 생화학",
-                "학수번호": "ENGY420",
-                "세부전공": "바이오에너지공학",
-                "전공역량": null,
-                "개설학과": "건축사회환경공학부",
+                "label": "미디어정책",
+                "학수번호": "JMCO452",
+                "세부전공": null,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": null
+                "syllabus_kr": "미디어정책과 규제의 필요성에 대한 다양한 시각과 논쟁을 검토하고, 진입규제, 소유·겸영규제, 내용·편성·광고규제, 경쟁규제 등 국내외 미디어 관련 시장에서 발생하는 정부 규제 현안 과 정책 이슈들을 비판적으로 분석하여 바람직한 미디어정책·규제 방향을 설계한다"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO458",
+            "position": {
+                "x": 1980,
+                "y": 500
+            },
+            "학년": 4,
+            "data": {
+                "label": "미디어제작워크샵Ⅲ",
+                "학수번호": "JMCO458",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "문화, 기술 변화에 따라 진화하는 다양한 형태의 미디어 제작을 경험할 수 있도록 특별한 분야를 선정해 제작 워크샵을 제공하는 강좌 중 하나이다._x000D_\n예를 들어 수강생들은 방송 프로그램 구성작법을 학습하고 몇 회차의 프로그램을 완성해 자신의 작품 포트폴리오를 만들 수"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO462",
+            "position": {
+                "x": 1980,
+                "y": 600
+            },
+            "학년": 4,
+            "data": {
+                "label": "미디어·커뮤니케이션특강Ⅱ",
+                "학수번호": "JMCO462",
+                "세부전공": null,
+                "전공역량": "윤리적 사회공헌",
+                "개설학과": "미디어학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "미디어 및 커뮤니케이션과 관련된 특별한 주제를 선정해 심화 학습하는 강좌 중 하나이다. 학생들에게 필요한 이슈와 교수의 전문성을 고려해 학기마다 새로운 강의가 제공될 수 있다. 예를 들어 로봇저널리즘과 같은 특별 주제의 강의를 한 학기 제공할 수 있다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
