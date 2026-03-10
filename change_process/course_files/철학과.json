@@ -44,7 +44,7 @@
     "syllabus_en": "This course reviews recent or special philosophical issues which can’t be dealt with in pre-existent courses. The topics in the course are different every semester."
   },
   {
-    "구분": "전공선택",
+    "구분": "전공필수",
     "학수번호": "PHIL191",
     "교과목명": "서양철학개론",
     "학점": 3,
@@ -66,7 +66,7 @@
     "syllabus_en": "An Introductory course to western philosophy from ancient Greek philosophy to modern and contemporary philosophy focusing on the primary philosophical texts of major philosophers. "
   },
   {
-    "구분": "전공선택",
+    "구분": "전공필수",
     "학수번호": "PHIL192",
     "교과목명": "동양철학개론",
     "학점": 3,
