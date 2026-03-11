@@ -1,0 +1,1981 @@
+{
+    "nodes": [
+        {
+            "id": "year-1",
+            "position": {
+                "x": 440,
+                "y": -120
+            },
+            "data": {
+                "label": "1학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "year-2",
+            "position": {
+                "x": 880,
+                "y": -120
+            },
+            "data": {
+                "label": "2학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "year-3",
+            "position": {
+                "x": 1320,
+                "y": -120
+            },
+            "data": {
+                "label": "3학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "year-4",
+            "position": {
+                "x": 1760,
+                "y": -120
+            },
+            "data": {
+                "label": "4학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "semester-1-1",
+            "position": {
+                "x": 440,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-1-2",
+            "position": {
+                "x": 660,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-2-1",
+            "position": {
+                "x": 880,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-2-2",
+            "position": {
+                "x": 1100,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-3-1",
+            "position": {
+                "x": 1320,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-3-2",
+            "position": {
+                "x": 1540,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-4-1",
+            "position": {
+                "x": 1760,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-4-2",
+            "position": {
+                "x": 1980,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "학년": 1,
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "학년": 1,
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "학년": 1,
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM101",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "학년": 1,
+            "data": {
+                "label": "사회와건강",
+                "학수번호": "KHPM101",
+                "세부전공": null,
+                "전공역량": "보건정책 관리의 기초자질 (기초역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "사회학적 접근방법을 통하여 보건의료시스템을 배태한 사회의 정치, 경제, 문화적 특징과 보건으료시스템 조직의 특징, 그를 운영하는 다양한 행위자에 대해 학습한다. 또한 질병과 건강이 사회적으로 어떻게 생성되며, 이러한 인식에 기반한 건강증진의 방식은 무엇인지에  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM107",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "학년": 1,
+            "data": {
+                "label": "국제보건론",
+                "학수번호": "KHPM107",
+                "세부전공": null,
+                "전공역량": "국제보건 리더쉽 (글로벌역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "세계화로 인하여 모든 국가들이 정치적, 경제적, 사회적으로 서로 상호 의존하고 있는 현재 시대의 질병과 보건 문제들은 국제보건의 틀로 이해하는 것이 중요하며, 국경을 초월한 국제사회의 연대를 통해 해결을 하는 것이 필요합니다. 본 수업은 국제적인 관점에서 다양한 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM109",
+            "position": {
+                "x": 440,
+                "y": 800
+            },
+            "학년": 1,
+            "data": {
+                "label": "건강정의론",
+                "학수번호": "KHPM109",
+                "세부전공": null,
+                "전공역량": "보건정책 관리의 기초자질 (기초역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목에서 학생들은 건강과 공중보건, 정의, 건강정의의 개념에 대하여 검토하고 이를 실질적 예시를 통하여 이해한다. 또한 건강정의의 제도적 기반과 건강정의를 실현에 있어서 민주주의의 중요성에 대하여 토론한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅱ는 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 학교에 대한 소속감을 강화하고 창직 및 창업 등의 진로 방향성을 고민해볼 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 100
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM102",
+            "position": {
+                "x": 660,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "공중보건학",
+                "학수번호": "KHPM102",
+                "세부전공": null,
+                "전공역량": "보건정책 관리의 기초자질 (기초역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건학의 기초과목으로서 조직화된 지역사회의 노력을 통한 질병의 예방, 생명의 연장 및 심신의 효율을 증진하는데 필요한 내용을 강술하고, 보건학도로서 국민 건강증진에 체계적으로 접근하고 기여할 수 있도록 한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM104",
+            "position": {
+                "x": 660,
+                "y": 300
+            },
+            "학년": 1,
+            "data": {
+                "label": "보건의료경영",
+                "학수번호": "KHPM104",
+                "세부전공": null,
+                "전공역량": "보건정책 관리의 기초자질 (기초역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건의료기관의 과학적 경영에 필요한 경영학의 개념과 이론적 지식, 그리고 전략적 관리기법을 강의한다. 이 강좌는 장차 국내외 보건의료기관의 창의적 리더로서의 자질을 함양하기 위한 기초 교과목이다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM204",
+            "position": {
+                "x": 660,
+                "y": 400
+            },
+            "학년": 1,
+            "data": {
+                "label": "보건학도를위한의학개론",
+                "학수번호": "KHPM204",
+                "세부전공": null,
+                "전공역량": "보건정책 관리의 기초자질 (기초역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건행정학은 인문사회과학적 방법론을 사용하지만 건강을 다룬다는 점에서 의학과도 연관성을 갖는다. 이 수업에서는 보건학도들이 기본적인 교양으로 알아두어야 할 임상의학적 내용에 대해 소개하는 내용으로 진행하고, 마지막으로 임상의학과 보건학 간의 연관성에 대해 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM221",
+            "position": {
+                "x": 660,
+                "y": 500
+            },
+            "학년": 1,
+            "data": {
+                "label": "인간과생명",
+                "학수번호": "KHPM221",
+                "세부전공": null,
+                "전공역량": "보건정책 관리의 기초자질 (기초역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 강좌는 보건정책관리학부를 비롯한 인문사회계열의 학부생들에게 생물학에 대하여 쉽게 접근할 수 있도록 소개하는 기초과목이다. 생명현상을 이해하는데 필수적인 개념과 구조, 호흡과 생식 활동 등을 살펴보고 이를 활용하여 통합적 사고를 갖는 전문인으로서의 자질을 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM201",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "학년": 2,
+            "data": {
+                "label": "보건정책관리학개론",
+                "학수번호": "KHPM201",
+                "세부전공": null,
+                "전공역량": "융합적 접근 (융합역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건정책관리학은 인구집단의 건강유지와 향상이라는 목표를 달성하기 위하여 합리적으로 행동하는 과정 전반에 대한 학문을 일컫는다. 이 수업에서는 보건정책관리학의 개념과 필요성, 조직과 기능, 보건의료자원의 효율적 활용 방안, 보건정책의 기획, 집행 및 평가방법 등"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM203",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "학년": 2,
+            "data": {
+                "label": "보건통계학개론",
+                "학수번호": "KHPM203",
+                "세부전공": null,
+                "전공역량": "보건정책 관리방법론 (융합역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "건강수준과 관련된 보건지표에 대하여 이해하고 통계적 추정을 통하여 불확실한 사안에 대한 판단의 근거를 마련하는 등 보건의료분야에서 사용하는 통계학적 이론과 기술을 습득하여 활용하도록 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM205",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "법과보건정책관리",
+                "학수번호": "KHPM205",
+                "세부전공": null,
+                "전공역량": "융합적 접근 (융합역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건정책관리학의 많은 부분은 입법 및 사법과 밀접한 관계를 맺고 이루어진다. 이 수업에서는 보건정책관리학에 있어서 법의 의미를 알아보고 건강증진을 위해 보건정책관리 과정에서 법을 어떻게 사용할 수 있는 지에 대해서 논의한다. 또한 헌법과 행정법 등 보건정책관리"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM213",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "학년": 2,
+            "data": {
+                "label": "보건의료조직관리론",
+                "학수번호": "KHPM213",
+                "세부전공": null,
+                "전공역량": "보건의료조직관리 및 운영 (리더역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건의료조직의 특성을 고려한 조직행동 이론과 조직설계, 그리고 조직시스템의 과학적 관리기법을 강의한다. 또한 급변하고 있는 보건의료 환경 하에서의 보건의료조직의 변화 양상을 이해하고 발전방안을 토론한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM215",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "학년": 2,
+            "data": {
+                "label": "보건의료정보관리학",
+                "학수번호": "KHPM215",
+                "세부전공": null,
+                "전공역량": "보건의료조직관리 및 운영 (리더역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "EHR(Electronic Health Record) 환경 하에서 보건의료관련 자료의 수집과 정보의 관리 및 활용에 관한 내용을 소개한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM219",
+            "position": {
+                "x": 880,
+                "y": 500
+            },
+            "학년": 2,
+            "data": {
+                "label": "치아와건강",
+                "학수번호": "KHPM219",
+                "세부전공": null,
+                "전공역량": "보건산업 이해와 관리 (리더역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 강좌에서는 치아 및 구강과 관련된 전반적인 내용을 이해하고, 또한 치아 및 구강질환의 발생 및 예방과 관련된 올바른 지식을 함양하게 함으로써, 건강한 치아의 유지와 아울러 전신건강의 증진에 도움이 되고자 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM223",
+            "position": {
+                "x": 880,
+                "y": 600
+            },
+            "학년": 2,
+            "data": {
+                "label": "보건의료전산학",
+                "학수번호": "KHPM223",
+                "세부전공": null,
+                "전공역량": "보건산업 이해와 관리 (리더역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건 및 의료관련 기관에서 컴퓨터의 활용능력을 높이기 위하여 컴퓨터의 하드웨어, 소프트웨어(인공지능 포함), 컴퓨터 통신에 대한 전반적인 지식을 다룬다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM225",
+            "position": {
+                "x": 880,
+                "y": 700
+            },
+            "학년": 2,
+            "data": {
+                "label": "보건데이터분석R기초",
+                "학수번호": "KHPM225",
+                "세부전공": null,
+                "전공역량": "보건정책 관리방법론 (융합역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건의료분야에는 검진기록, 인구 통계등 많은 데이터가 만들어지고 이를 분석하여 유용한 보건 정보를 얻는 활동이 행해진다. 주어진 데이터에 대한 분석을 위해 다양한 통계 기법을 사용하고 있으며 대부분 많은 양의 계산을 하기 위해 컴퓨터를 사용한다. 본 과목은 데이 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM202",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "학년": 2,
+            "data": {
+                "label": "역학개론",
+                "학수번호": "KHPM202",
+                "세부전공": null,
+                "전공역량": "보건정책 관리방법론 (융합역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "역학은 질병에 이환된 질병군 뿐만 아니라 건강군을 포함한 전체 인구집단에 대한 질병연구라 할 수 있다. 역학 연구 자료의 종류, 수집 및 분류방법, 그리고 역학의 분석방법론에 관해 학습한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM206",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "학년": 2,
+            "data": {
+                "label": "중급보건통계학",
+                "학수번호": "KHPM206",
+                "세부전공": null,
+                "전공역량": "보건정책 관리방법론 (융합역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "통계학에 대한 기본 지식을 바탕으로 회귀분석, 분산분석, 요인분석, 주성분_x000D_\n분석 등의 원리를 이해하고, 보건의료 자료를 이용하여 분석방법을 습득한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM208",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "의료보장론",
+                "학수번호": "KHPM208",
+                "세부전공": null,
+                "전공역량": "융합적 접근 (융합역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "의료보장제도가 어떻게 운영되고 있는가를 알아본다. 이를 위해 건강보험의 기능과 역할, 보험자와 의료공급자의 역할과 기능, 가입자의 권리와 의무에 관한사항, 보험료의 부과방법, 보험급여의 내용과 종류, 진료보수지불방식, 보험재정 등에 관해 학습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM212",
+            "position": {
+                "x": 1100,
+                "y": 300
+            },
+            "학년": 2,
+            "data": {
+                "label": "보건정보시스템",
+                "학수번호": "KHPM212",
+                "세부전공": null,
+                "전공역량": "보건산업 이해와 관리 (리더역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM216",
+            "position": {
+                "x": 1100,
+                "y": 400
+            },
+            "학년": 2,
+            "data": {
+                "label": "구강보건학",
+                "학수번호": "KHPM216",
+                "세부전공": null,
+                "전공역량": "보건산업 이해와 관리 (리더역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "구강질병의 원인 및 양상을 분석하고 구강병 및 악안면 이상을 효율적으로 관리할 수 있도록 구강보건 전반에 관한 기본적인 지식을 습득하도록 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM218",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "학년": 2,
+            "data": {
+                "label": "의료회계및원가관리",
+                "학수번호": "KHPM218",
+                "세부전공": null,
+                "전공역량": "보건의료조직관리 및 운영 (리더역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "의료기관에 적용되고 있는 회계의 기본 개념과 회계원칙, 회계처리 방법, 그리고 원가 관리 과정을 이해하고 실습한다. 회계와 원가 정보를 토대로 보건의료기관의 실무자 및 관리자로서 직무수행에 필요한 실무능력을 습득한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM226",
+            "position": {
+                "x": 1100,
+                "y": 600
+            },
+            "학년": 2,
+            "data": {
+                "label": "보건인구학",
+                "학수번호": "KHPM226",
+                "세부전공": null,
+                "전공역량": "국제보건 리더쉽 (글로벌역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 보건인구학의 주요개념, 이론, 그리고 분석적 틀에 대한 전반적인 이해를 제공한다. 인구학은 인구의 크기, 구성, 지리적 분포의 변화를 출산, 사망, 이주 등의 요인을 통해 과학적으로 분석하는 학문이다. 본 과목의 주요 목적은 지역적, 국가적, 그리고 국제적으"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM228",
+            "position": {
+                "x": 1100,
+                "y": 700
+            },
+            "학년": 2,
+            "data": {
+                "label": "보건데이터코딩파이선기초",
+                "학수번호": "KHPM228",
+                "세부전공": null,
+                "전공역량": "보건정책 관리방법론 (융합역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건의료분야에는 검진기록, 인구 통계등 많은 데이터가 만들어지고 이를 분석하여 유용한 보건 정보를 얻는 활동이 행해진다. 주어진 데이터에 대한 분석을 위해 다양한 통계 기법을 사용하고 있으며 대부분 많은 양의 계산을 하기 위해 컴퓨터를 사용한다. 이러한 컴퓨터  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM303",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "사회역학개론",
+                "학수번호": "KHPM303",
+                "세부전공": null,
+                "전공역량": "보건정책 관리방법론 (융합역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "질병의 자연사를 인구집단 수준에서 연구하는 것이 역학이라면, 사회역학은 이러한 연구를 사회적 변수들을 이용해서 수행하는 것이다. 사회역학에서 다루는 사회적 변수는 일부 생물학적 변수를 포함하여 건강행태적 변수, 가족, 일터, 지역사회와 같은 근위의 사회적 변수 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM309",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "학년": 3,
+            "data": {
+                "label": "보건경제학",
+                "학수번호": "KHPM309",
+                "세부전공": null,
+                "전공역량": "보건정책 관리방법론 (융합역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "경제학의 기본적인 이론과 방법론을 학습하고, 이들 이론과 방법론이 보건의료분야에 어떻게 적용되고 활용되는가를 알아본다. 구체적 내용으로는 보건의료 수요와 공급, 의료공급자 행동이론, 국민의료비의 증가와 억제방안, 보건의료의 경제적 평가방법 및 건강보험제도가 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM311",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "학년": 3,
+            "data": {
+                "label": "의료재무관리",
+                "학수번호": "KHPM311",
+                "세부전공": null,
+                "전공역량": "보건의료조직관리 및 운영 (리더역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건의료기관의 재정을 효율적으로 조달하고 이를 활용할 수 있는 이론과 방법을 강의한다. 구체적으로 보건의료기관의 사업계획과 예산의 수립과 절차, 투자가치의 평가방법, 자금관리방법, 원가계산방법 등을 습득하여 전략경영에 필요한 재무적 정보를 다룰 수 있도록 한 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM313",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "보건의료서비스질관리",
+                "학수번호": "KHPM313",
+                "세부전공": null,
+                "전공역량": "보건의료조직관리 및 운영 (리더역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건의료 질 관리의 이론과 실습을 통해, 질 관리 용어, 분석도구 등을 소개한다. 변수들의 개념과 특별원인 그리고 통제가능 변수와 통제 불가능 변수 등을 숙지한다. 보건의료실적평가 및 관리와 질병양상의 분석과 관리에 대한 정보를 생성함으로써  보건의료기관의 변화 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM319",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "건강증진학",
+                "학수번호": "KHPM319",
+                "세부전공": null,
+                "전공역량": "정책과 프로그램 계획, 실행, 평가 (창의역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건학의 기초과목으로서 조직화된 지역사회의 노력을 통한 질병의 예방, 생명의 연장 및 심신의 효율을 증진하는데 필요한 내용을 강술하고, 보건학도로서 국민 건강증진에 체계적으로 접근하고 기여할 수 있도록 한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM327",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "학년": 3,
+            "data": {
+                "label": "보건정책학",
+                "학수번호": "KHPM327",
+                "세부전공": null,
+                "전공역량": "정책과 프로그램 계획, 실행, 평가 (창의역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "1. 본 수업에서는 보건정책과 정치의 기반이 되는 정책의 목표와 문제, 해결책에 대하여 검토한다. 수업이 진행되는 동안 학생들은 이러한 개념과 가치, 수단들을 실제의 보건정책 문제에 적용하여 보건정책의 기반에 대한 이해를 도모할 수 있다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM302",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "보건학조사및연구방법",
+                "학수번호": "KHPM302",
+                "세부전공": null,
+                "전공역량": "보건정책 관리방법론 (융합역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건의료분야에서 야기되고 있는 이슈들을 주제로 연구모형개발과 표본설계, 자료의 수집 및 분석, 논문작성법 등에 관해 학습한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM304",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "학년": 3,
+            "data": {
+                "label": "보건정책변동론",
+                "학수번호": "KHPM304",
+                "세부전공": null,
+                "전공역량": "정책과 프로그램 계획, 실행, 평가 (창의역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업에서는 보건의료개혁의 동학을 설명할 수 있는 거시 및 미시 수준의 이론들을 검토하고, 이들의 장점과 단점에 대해 논의하며, 한국 사회에 적용하기 위한 이론적 쟁점들에 대한 토론을 진행한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM306",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "학년": 3,
+            "data": {
+                "label": "건강형평성연구",
+                "학수번호": "KHPM306",
+                "세부전공": null,
+                "전공역량": "소통 및 협력 (소통 역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "사회계층간 건강불평등의 해소(또는 축소)는 OECD국가들을 포함한 많은 국가들에서 중요한 정책적 관심사중의 하나이다. 본 과목에서는 건강불평등이 무엇을 의미하고, 건강불평등이 왜 중요한지, 건강불평등을 어떻게 측정하는지, 건강불평등과 건강형평성과의 차이 등을 공"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM308",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "보건데이터베이스",
+                "학수번호": "KHPM308",
+                "세부전공": null,
+                "전공역량": "보건산업 이해와 관리 (리더역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일반기업, 병원 및 관공서 등에서 정보의 중요성이 부각되면서 데이터의 관리에 많은 노력을 기울이고 있다. 데이터 관리는 조직에 필요한 데이터를 효율적으로 저장하고, 적시에 원하는 장소에서 검색하여 활용할 있도록 하는 것을 의미한다. 현재 이를 가장 효율적으로 운 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM316",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "보건의료BI",
+                "학수번호": "KHPM316",
+                "세부전공": null,
+                "전공역량": "보건산업 이해와 관리 (리더역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건의료기관의 경영효율화와 조직 관리에 있어서 야기되는 주요 이슈들에 대해 EMR 또는 EHR 시스템을 통해 생성되는 대용량 Data를 중심으로  효율적인 의사결정지원과 예측을 할 수 있도록 보건의료정보를 체계적으로 분석하고 활용하는 방법 등에 관해 학습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM318",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "학년": 3,
+            "data": {
+                "label": "환경과건강",
+                "학수번호": "KHPM318",
+                "세부전공": null,
+                "전공역량": "보건정책 관리의 기초자질 (기초역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "환경생태를 이해하고 우리 주위의 자연 및 인위적인 환경으로부터 건강상 문제가 될 수 있는 전반을 강의하고, 오염물질 수준의 측정, 위험요인에 대한 노출평가 및 인체에 미치는 영향을 평가하는 방법등을 이해하고 해결할 수 있는 방향을 이해하도록 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM322",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "학년": 3,
+            "data": {
+                "label": "보건의료인적자원관리",
+                "학수번호": "KHPM322",
+                "세부전공": null,
+                "전공역량": "보건의료조직관리 및 운영 (리더역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건의료조직의 인적자원 기획, 채용과 배치, 교육훈련, 성과평가, 직무분석, 보상, 노사관계 등의 인적자원관리 원리를 강의한다. 또한 현재 보건의료조직의 인적자원관리 시스템의 실제를 이해하고, 문제점 및 발전방안을 토론한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM323",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "학년": 3,
+            "data": {
+                "label": "비교의료제도론",
+                "학수번호": "KHPM323",
+                "세부전공": null,
+                "전공역량": "보건의료조직관리 및 운영 (리더역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "OECD 가입국을 중심으로 세계 주요 국가들의 의료보장제도와 보건의료제도를 알아보고, 비교 및 분석를 통하여 우리나라 의료보장제도와 보건의료제도의 이해를 높이고 발전을 위한 방안을 강구할 수 있는 지식을 학습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM324",
+            "position": {
+                "x": 1540,
+                "y": 800
+            },
+            "학년": 3,
+            "data": {
+                "label": "현대인의만성질환",
+                "학수번호": "KHPM324",
+                "세부전공": null,
+                "전공역량": "정책과 프로그램 계획, 실행, 평가 (창의역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "암, 심뇌혈관질환, 당뇨 등 만성질환은 현대인의 주요 사망원인으로서 한국인 전체 사망원인의 약 50% 이상을 차지하고 있다. 이는 인구 고령화와 서구화된 생활습관으로 인해 지속적으로 증가할 것으로 전망되고 있으며 만성질환 예방과 관리는 한국과 국제사회 공중보건의 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM326",
+            "position": {
+                "x": 1540,
+                "y": 900
+            },
+            "학년": 3,
+            "data": {
+                "label": "지속가능발전과환경",
+                "학수번호": "KHPM326",
+                "세부전공": null,
+                "전공역량": "국제보건 리더쉽 (글로벌역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 학부생을 대상으로 UN에서 제정한 지속발전개발 목표(이하 SDGs)에 대한 이해를 바탕으로, 세계인으로서 SDGs 이행을 위한 역량 강화에 도움이 되도록 구성된다. 특히 본 과목에서는 SDGs 이행에 고려되는 지속가능성, 불평등, 다학제간/국제적 협업, 건강도시 등 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM332",
+            "position": {
+                "x": 1540,
+                "y": 1000
+            },
+            "학년": 3,
+            "data": {
+                "label": "국제보건거버넌스",
+                "학수번호": "KHPM332",
+                "세부전공": null,
+                "전공역량": "국제보건 리더쉽 (글로벌역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "세계화의 흐름에 따라 국가 간 사회적, 경제적, 정치적 상호의존성과 연결망이 심화되고 있는 현재 시대에는 기존의 국가 중심의 문제 해결 방식으로 보건을 위협하는 문제들을 해결하기에 부족하다. 따라서 각국 정부와 국제기구 등 다양한 행위자들의 거시적인 국제협력을 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM403",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "역학과정책",
+                "학수번호": "KHPM403",
+                "세부전공": null,
+                "전공역량": "보건정책 관리방법론 (융합역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 역학적 연구 결과와 공중보건정책 수립의 상호작용을 설명하고, 정책 수립에 있어서 역학적 연구결과 활용의 의미와 장단점을 소개한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM409",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "헬스커뮤니케이션",
+                "학수번호": "KHPM409",
+                "세부전공": null,
+                "전공역량": "소통 및 협력 (소통 역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "질병과 건강에 관련된 리스크의 성격이 다양하고 복잡해진 현대사회에서 이를 효과적으로 관리하기 위해서는 미디어와 공공마케팅, PR 등을 포함한 다양한 리스크 커뮤니케이션 기법이 필수적으로 요구된다. 이 수업에서는 커뮤니케이션의 이론과 기법을 습득하여 건강 메시 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM411",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "학년": 4,
+            "data": {
+                "label": "보건의료마케팅론",
+                "학수번호": "KHPM411",
+                "세부전공": null,
+                "전공역량": "소통 및 협력 (소통 역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "의료윤리와 의료서비스 특성에 대한 이해를 전제로 마케팅의 이론과 실제를 강의한다. 보건의료기관이 고객(환자)만족 경영으로 경영성과를 제고하여, 지역사회에서 발전하는데 필요한 전략적 기법을 습득한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM413",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "학년": 4,
+            "data": {
+                "label": "유헬스케어",
+                "학수번호": "KHPM413",
+                "세부전공": null,
+                "전공역량": "보건산업 이해와 관리 (리더역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "언제, 어디서나 적절한 보건의료서비스를 적시에 안전하게 제공하기 위한 U-Health에 대해 소개하고, 그것을 실현하기 위한 관련 기술 등에 관하여 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM417",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "학년": 4,
+            "data": {
+                "label": "보건산업론",
+                "학수번호": "KHPM417",
+                "세부전공": null,
+                "전공역량": "보건산업 이해와 관리 (리더역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건의료기관, 제약 산업, 의료용구 산업을 포함한 보건의료서비스분야는 보건산업의 핵심 분야이다. 장차 보건산업은 고부가가치산업으로서 고속성장이 기대되고, 국가의 핵심전략산업임으로 보건의료산업의 현황을 이해하고, 그 발전전략을 모색한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM421",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "학년": 4,
+            "data": {
+                "label": "보건프로그램계획및평가",
+                "학수번호": "KHPM421",
+                "세부전공": null,
+                "전공역량": "정책과 프로그램 계획, 실행, 평가 (창의역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업에서는 지역사회에서 공중보건적 개입을 계획하고 평가하기 위한 모델과 과정에 대해 비판적으로 검토하고 논의한다. 이를 위해 학생들은 수요 조사, 프로그램 계획, 결과 및 과정 평가 방법에 대해 학습하고, 이를 진행하기 위한 자료 조사를 진행하며, 자료 분석에 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM423",
+            "position": {
+                "x": 1760,
+                "y": 600
+            },
+            "학년": 4,
+            "data": {
+                "label": "보건정책분석및평가",
+                "학수번호": "KHPM423",
+                "세부전공": null,
+                "전공역량": "정책과 프로그램 계획, 실행, 평가 (창의역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건의료정책 분석과 평가의 개념과 방법론을 소개하고, 국가와 지역사회의 보건의료정책 사례에 대하여 분석하고 평가한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM427",
+            "position": {
+                "x": 1760,
+                "y": 700
+            },
+            "학년": 4,
+            "data": {
+                "label": "보건의료전문가양성실습",
+                "학수번호": "KHPM427",
+                "세부전공": null,
+                "전공역량": "보건정책 관리의 기초자질 (기초역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 수업은 보건의료 분야의 전문가를 양성하고 보건의료현장에서 요구되는 역량을 갖춘 인재를 양성하는 것을 목표로 한다. 이를 위해 국민건강보험공단과 국립중앙의료원 등 보건의료기관과 연계하는 교육프로그램을 개설해 현장기반의 이론과 실습 수업을 제공한다. 또한  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM404",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "국제보건사례연구",
+                "학수번호": "KHPM404",
+                "세부전공": null,
+                "전공역량": "국제보건 리더쉽 (글로벌역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "1학기 국제보건론에 이어지는 과목으로, 국제보건론에서 배운 이론적 틀과 행위자, 정치학 및 역사적 맥락을 실제 사례에 적용하여 논리적으로 설명해내는 것을 목적으로 한다. 수업은 주로 조별 토론과 발표를 중심으로 진행된다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM408",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "보건의료전략경영론",
+                "학수번호": "KHPM408",
+                "세부전공": null,
+                "전공역량": "보건의료조직관리 및 운영 (리더역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "경영전략 개념에 대한 이해와 사업부전략, 기업전략 그리고 보건의료경영전략의 기본적 이론과 분석틀을 제시한다. 그리고 보건의료조직의 전략적 형태를 분석함으로써 전략적 사고를 개발하고 전략적 의사결정 능력을 함양시키고자 한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM410",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "학년": 4,
+            "data": {
+                "label": "보건의료데이터사이언스",
+                "학수번호": "KHPM410",
+                "세부전공": null,
+                "전공역량": "보건정책 관리방법론 (융합역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "데이터의 폭발적인 증가와 함께 데이터를 통한 새로운 가치 도출에 주목하는 ‘빅데이터’ 시대가 도래했다. 데이터 분석 기술의 발전에 따라 보건의료분야에서 데이터 분석 및 활용의 중요성이 확대되고 있다. 이 수업에서는 데이터 사이언스의 개념과 원리를 다루고 이를  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM412",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "학년": 4,
+            "data": {
+                "label": "지역사회건강증진실습",
+                "학수번호": "KHPM412",
+                "세부전공": null,
+                "전공역량": "정책과 프로그램 계획, 실행, 평가 (창의역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM414",
+            "position": {
+                "x": 1980,
+                "y": 400
+            },
+            "학년": 4,
+            "data": {
+                "label": "보건의료관계법규",
+                "학수번호": "KHPM414",
+                "세부전공": null,
+                "전공역량": "정책과 프로그램 계획, 실행, 평가 (창의역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건 및 의료분야에 적용되고 있는 법률 가운데 국민건강에 직접 적용되고 있는 의료법, 국민건강증진법, 지역보건법, 전염병예방법 등 관련 법률과 이에 따른 시행령 및 시행규칙을 숙지하여 보건행정을 전개함에 있어 그 법적 기초를 충분히 이해하도록 한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM422",
+            "position": {
+                "x": 1980,
+                "y": 500
+            },
+            "학년": 4,
+            "data": {
+                "label": "보건정책관리학캡스톤",
+                "학수번호": "KHPM422",
+                "세부전공": null,
+                "전공역량": "보건정책 관리방법론 (융합역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목에서는 보건정책관리학부에서 배운 문제의 평가, 정책과 프로그램의 개발과 평가, 실행의 관리라는 세 가지 중심축을 활용하여 특정 건강문제에 대하여 집단적인 해결방법을 마련하는 문제해결형 배움(Problem-Based Learning)을 수행하여 프로젝트의 결과로 발표한다"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM424",
+            "position": {
+                "x": 1980,
+                "y": 600
+            },
+            "학년": 4,
+            "data": {
+                "label": "사회정책과건강",
+                "학수번호": "KHPM424",
+                "세부전공": null,
+                "전공역량": "정책과 프로그램 계획, 실행, 평가 (창의역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업에서는 보건의료시스템을 복지국가레짐의 일부로 이해하고, 보건의료시스템과 복지레짐과의 연관성에 대해 검토한다. 또한 보건의료정책 이외의 다양한 사회정책들이 국민의 건강수준에 어떤 영향을 미치는지에 대해 논의한다. 마지막으로, 최근 진행되고 있는 세계적"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM428",
+            "position": {
+                "x": 1980,
+                "y": 700
+            },
+            "학년": 4,
+            "data": {
+                "label": "만성병역학",
+                "학수번호": "KHPM428",
+                "세부전공": null,
+                "전공역량": "보건정책 관리방법론 (융합역량)",
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "암, 당뇨, 심뇌혈관질환 등 만성질환은 한국인의 주요 사망원인이며, 이는 인구 고령화와 서구화된 생활습관으로 인해 지속적으로 증가할 것으로 전망되고 있다. 따라서 만성질환 예방과 관리는 한국과 국제사회 공중보건의 시급한 과제이다. 본 과목은 만성질환의 정의와 주"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": []
+}
